@@ -1,0 +1,35 @@
+
+			.hot{
+				box-sizing: border-box;
+				width: 100%;
+			}
+			.hot .detail{
+				width:100%;
+				height:50%;
+			}
+			.hot .list_item{
+				width:48%;
+				display: inline-block;
+				margin-left: 1%;
+				height: 2.8rem;
+
+			}
+			.hot .list_img{
+				height: 2rem;
+				width: 100%;
+			}
+			.hot img{
+				display:block;
+				max-width:90%;
+				max-height:90%;
+				margin:0.1rem auto;
+			}
+			.hot .title,.price{
+				box-sizing: border-box;
+				width:100%;
+				padding: 0 8px;
+			}
+			.hot .direct_mail{
+				text-indent:0.15rem;
+				background: url(../img/direct_mailpic.png) no-repeat left center;background-size: 0.13125rem;
+			}

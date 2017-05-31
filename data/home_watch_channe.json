@@ -1,0 +1,466 @@
+{
+  "operation": {
+    "category_list": [
+      {
+        "category_id": "-1",
+        "category_name": "热门"
+      },
+      {
+        "category_id": "2",
+        "category_name": "美妆护肤",
+        "category_img": "http://img.haihu.com/01160628a575185649854b98a5bafd1d9978e826.png",
+        "category_summary": "护肤、美发"
+      },
+      {
+        "category_id": "3",
+        "category_name": "食品保健",
+        "category_img": "http://img.haihu.com/01160331e5964eb3a1b9419b862667a546f21dee.png",
+        "category_summary": "奶粉、奶瓶"
+      },
+      {
+        "category_id": "6",
+        "category_name": "箱包手袋",
+        "category_img": "http://img.haihu.com/011507240fd4bf2213014472bc75a06b94bc5115.png",
+        "category_summary": "链条包、钱包"
+      },
+      {
+        "category_id": "5",
+        "category_name": "鞋靴",
+        "category_img": "http://img.haihu.com/0115072471e98ee3339441a897f3167a06871ae4.png",
+        "category_summary": "女鞋、男鞋"
+      },
+      {
+        "category_id": "8",
+        "category_name": "手表配饰",
+        "category_img": "http://img.haihu.com/0115072406933bf810d849f49b9b5439140fbd83.png",
+        "category_summary": "手表、墨镜"
+      },
+      {
+        "category_id": "1",
+        "category_name": "母婴玩具",
+        "category_img": "http://img.haihu.com/0116033170b10edb36c64d929925db692e60f2bf.png",
+        "category_summary": "奶粉、奶瓶"
+      },
+      {
+        "category_id": "1108",
+        "category_name": "个人护理",
+        "category_img": "http://img.haihu.com/011603317acebb65293c42b3a881c152ba32fd46.png",
+        "category_summary": "美发，护理"
+      },
+      {
+        "category_id": "1168",
+        "category_name": "女装",
+        "category_img": "http://img.haihu.com/default.png"
+      },
+      {
+        "category_id": "4",
+        "category_name": "男装",
+        "category_img": "http://img.haihu.com/01150724ee61014129964beab6aaf123d6578d84.png",
+        "category_summary": "奶粉、奶瓶"
+      },
+      {
+        "category_id": "10",
+        "category_name": "户外运动",
+        "category_img": "http://img.haihu.com/0115072496ee46a1170c4961ad72dce370966251.png",
+        "category_summary": "跑步鞋、装备"
+      },
+      {
+        "category_id": "7",
+        "category_name": "家居生活",
+        "category_img": "http://img.haihu.com/011603314a93be763ad4400583781f3a8a4f2bab.png",
+        "category_summary": "水杯、净水壶"
+      }
+    ],
+    "theme_list": [
+      {
+        "type": "slide",
+        "action_image_list": [
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/01170224e71f87cd069c4d19ad71a26cf7bffca6.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=4508",
+              "title": "",
+              "type": "wap"
+            },
+            "forPeople": 0,
+            "channel": "",
+            "version": ""
+          },
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/0117022440d0f3ac652d48ee9f71b115b840a9af.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=3573",
+              "title": "",
+              "type": "wap"
+            },
+            "forPeople": 0,
+            "channel": "",
+            "version": ""
+          }
+        ],
+        "sortNum": -100
+      },
+      {
+        "title": "热门分类",
+        "type": "category_nav",
+        "categories": [
+          {
+            "category_name": "机械表",
+            "category_img": "http://img.haihu.com/01160823db8816bd238546c092a2919b35f0ab89.jpg",
+            "search_keys": "{\"979\":\"女士机械表\",\"975\":\"男士机械表\"}",
+            "search_arg": "{\"category_info\":{\"979\":\"女士机械表\",\"975\":\"男士机械表\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "皮带腰带",
+            "category_img": "http://img.haihu.com/011608237a48f97440364d528b4778265dfd460c.jpg",
+            "search_keys": "{\"865\":\"男士皮带\",\"667\":\"女士腰带\"}",
+            "search_arg": "{\"category_info\":{\"865\":\"男士皮带\",\"667\":\"女士腰带\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "石英表",
+            "category_img": "http://img.haihu.com/01160823fbe5a6265d4544eba4d46bf145af1e56.jpg",
+            "search_keys": "{\"978\":\"女士石英表\",\"974\":\"男士石英表\"}",
+            "search_arg": "{\"category_info\":{\"978\":\"女士石英表\",\"974\":\"男士石英表\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "太阳镜",
+            "category_img": "http://img.haihu.com/0116082344580ea65d5b417d8d6021fe1cfede67.jpg",
+            "search_keys": "{\"750\":\"女士太阳镜\",\"749\":\"男士太阳镜\"}",
+            "search_arg": "{\"category_info\":{\"750\":\"女士太阳镜\",\"749\":\"男士太阳镜\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "围巾",
+            "category_img": "http://img.haihu.com/01160823dde4a3923d4a490d96babeebab2d7273.jpg",
+            "search_keys": "{\"838\":\"女士围巾\",\"837\":\"男士围巾\"}",
+            "search_arg": "{\"category_info\":{\"838\":\"女士围巾\",\"837\":\"男士围巾\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "光动能手表",
+            "category_img": "http://img.haihu.com/01160823590599d2921a476f9b7562fd4d101218.jpg",
+            "search_keys": "{\"976\":\"男士光动能腕表\",\"980\":\"女士光动能腕表\"}",
+            "search_arg": "{\"category_info\":{\"976\":\"男士光动能腕表\",\"980\":\"女士光动能腕表\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "项链",
+            "category_img": "http://img.haihu.com/01160823479efed77d864af5b61711352d183591.jpg",
+            "search_keys": "{\"856\":\"项链/吊坠\"}",
+            "search_arg": "{\"category_info\":{\"856\":\"项链/吊坠\"},\"source_type\":\"4\"}"
+          }
+        ],
+        "sortNum": -90
+      },
+      {
+        "type": "panorama",
+        "sortNum": 0,
+        "panorama": {
+          "image": {
+            "theme_id": "4494",
+            "image_url": "http://img.haihu.com/01170224d68ee01edaf1445f8ad55e33f50fb61f.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=4494",
+              "title": "",
+              "type": "wap"
+            },
+            "height": "0",
+            "width": "0"
+          },
+          "goods_list": [
+            {
+              "global_goods": {
+                "attr_type": "null",
+                "from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+                "country": "美国",
+                "country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+                "mall_name": "Amazon",
+                "title": "Amazon Collection 女士三色星星吊坠“18”",
+                "status": "0",
+                "selected_sku": {
+                  "seq": "#",
+                  "original_price_rmb": "131.00",
+                  "native_price_unit": "$",
+                  "current_price_rmb": "131.00",
+                  "image_url": "http://img.haihu.com/011607163e27277c90934def98c8dd3e34c8c48d.jpg",
+                  "native_express_fee": "0",
+                  "forward_fee": "30.00",
+                  "weight": "200",
+                  "status": "0",
+                  "fixed_price": "175.77",
+                  "tag_price": "201.97",
+                  "free_tax_price": 131,
+                  "sku_add_price": 11.23,
+                  "insurancePrice": "3.54",
+                  "taxPrice": "39.30",
+                  "modeType": "normal",
+                  "rate": "6.8946",
+                  "expressType": 0,
+                  "exsitLimitPromotion": false
+                },
+                "productEntityId": "3273333",
+                "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+                "goods_id": "591674",
+                "voucher_list": [
+                  {
+                    "type": "camp_more_reduce",
+                    "title": "2件减30元",
+                    "desc": "2件减30元",
+                    "system_time": "1488167966221",
+                    "start_time": "2017-02-13 14:37:06",
+                    "end_time": "2017-03-12 00:00:00",
+                    "dimension": "subject"
+                  }
+                ]
+              },
+              "type": "0"
+            },
+            {
+              "global_goods": {
+                "attr_type": "null",
+                "from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+                "country": "美国",
+                "country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+                "mall_name": "Amazon",
+                "title": "Dogeared 多琪儿 三环紧扣锁骨链",
+                "status": "0",
+                "selected_sku": {
+                  "seq": "#",
+                  "original_price_rmb": "482.62",
+                  "native_price_unit": "$",
+                  "current_price_rmb": "482.62",
+                  "image_url": "http://img.haihu.com/01160822bbd970d16f8d474288bde2c732fbb71a.jpg",
+                  "native_express_fee": "0",
+                  "forward_fee": "45.00",
+                  "weight": "400",
+                  "status": "0",
+                  "fixed_price": "576.23",
+                  "tag_price": "672.75",
+                  "free_tax_price": 482.62,
+                  "sku_add_price": 41.37,
+                  "insurancePrice": "7.24",
+                  "taxPrice": "144.79",
+                  "modeType": "customs",
+                  "rate": "6.8946",
+                  "expressType": 0,
+                  "exsitLimitPromotion": false
+                },
+                "productEntityId": "341703",
+                "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+                "goods_id": "243159",
+                "voucher_list": [
+                  {
+                    "type": "camp_more_reduce",
+                    "title": "2件减30元",
+                    "desc": "2件减30元",
+                    "system_time": "1488167966251",
+                    "start_time": "2017-02-13 14:37:06",
+                    "end_time": "2017-03-12 00:00:00",
+                    "dimension": "subject"
+                  }
+                ]
+              },
+              "type": "0"
+            },
+            {
+              "global_goods": {
+                "attr_type": "null",
+                "from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+                "country": "美国",
+                "country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+                "mall_name": "Amazon",
+                "title": "1928 Jewelry 女士金色钥匙吊坠项链",
+                "short_title": "金色钥匙吊坠项链",
+                "status": "0",
+                "selected_sku": {
+                  "seq": "#",
+                  "original_price_rmb": "124.10",
+                  "native_price_unit": "$",
+                  "current_price_rmb": "93.08",
+                  "image_url": "http://img.haihu.com/01160716a202b0ae90354162b53d3f189baf2b0a.jpg",
+                  "native_express_fee": "0",
+                  "forward_fee": "30.00",
+                  "weight": "200",
+                  "status": "0",
+                  "fixed_price": "133.57",
+                  "tag_price": "192.07",
+                  "free_tax_price": 93.08,
+                  "sku_add_price": 7.98,
+                  "insurancePrice": "2.51",
+                  "taxPrice": "27.92",
+                  "modeType": "normal",
+                  "rate": "6.8946",
+                  "expressType": 0,
+                  "exsitLimitPromotion": false
+                },
+                "productEntityId": "5314580",
+                "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+                "goods_id": "862752",
+                "voucher_list": [
+                  {
+                    "type": "camp_more_reduce",
+                    "title": "2件减30元",
+                    "desc": "2件减30元",
+                    "system_time": "1488167966278",
+                    "start_time": "2017-02-13 14:37:06",
+                    "end_time": "2017-03-12 00:00:00",
+                    "dimension": "subject"
+                  }
+                ]
+              },
+              "type": "0"
+            },
+            {
+              "global_goods": {
+                "attr_type": "null",
+                "from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+                "country": "美国",
+                "country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+                "mall_name": "Amazon",
+                "title": "美亚自营品牌【Cubic Zirconia 】时尚925纯银密镶钻心形 独特设计造型项链~",
+                "status": "0",
+                "selected_sku": {
+                  "seq": "#",
+                  "original_price_rmb": "92.46",
+                  "native_price_unit": "$",
+                  "current_price_rmb": "92.46",
+                  "image_url": "http://img.haihu.com/01160716f3774be55e7d4d08b801c63c9ca09449.jpg",
+                  "native_express_fee": "0",
+                  "forward_fee": "30.00",
+                  "weight": "400",
+                  "status": "0",
+                  "fixed_price": "132.89",
+                  "tag_price": "151.38",
+                  "free_tax_price": 92.46,
+                  "sku_add_price": 7.93,
+                  "insurancePrice": "2.50",
+                  "taxPrice": "27.74",
+                  "modeType": "normal",
+                  "rate": "6.8946",
+                  "expressType": 0,
+                  "exsitLimitPromotion": false
+                },
+                "productEntityId": "881349",
+                "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+                "goods_id": "327552",
+                "voucher_list": [
+                  {
+                    "type": "camp_more_reduce",
+                    "title": "2件减30元",
+                    "desc": "2件减30元",
+                    "system_time": "1488167966301",
+                    "start_time": "2017-02-13 14:37:06",
+                    "end_time": "2017-03-12 00:00:00",
+                    "dimension": "subject"
+                  }
+                ]
+              },
+              "type": "0"
+            },
+            {
+              "global_goods": {
+                "attr_type": "null",
+                "from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+                "country": "美国",
+                "country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+                "mall_name": "Amazon",
+                "title": "Dogeared 多琪儿 925纯银天使之翼项链锁骨吊坠 MG2258",
+                "status": "0",
+                "selected_sku": {
+                  "seq": "775732",
+                  "original_price_rmb": "220.42",
+                  "native_price_unit": "$",
+                  "current_price_rmb": "220.42",
+                  "image_url": "http://img.haihu.com/011604289935a78769c74c04aa7608190efd249f.jpg",
+                  "native_express_fee": "0",
+                  "forward_fee": "45.00",
+                  "weight": "400",
+                  "status": "0",
+                  "fixed_price": "287.62",
+                  "tag_price": "331.70",
+                  "free_tax_price": 220.42,
+                  "sku_add_price": 18.89,
+                  "insurancePrice": "3.31",
+                  "taxPrice": "66.13",
+                  "modeType": "customs",
+                  "rate": "6.8946",
+                  "expressType": 0,
+                  "exsitLimitPromotion": false
+                },
+                "productEntityId": "906428",
+                "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+                "goods_id": "332728",
+                "voucher_list": [
+                  {
+                    "type": "camp_more_reduce",
+                    "title": "2件减30元",
+                    "desc": "2件减30元",
+                    "system_time": "1488167966328",
+                    "start_time": "2017-02-13 14:37:06",
+                    "end_time": "2017-03-12 00:00:00",
+                    "dimension": "subject"
+                  }
+                ]
+              },
+              "type": "0"
+            },
+            {
+              "global_goods": {
+                "attr_type": "null",
+                "from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+                "country": "美国",
+                "country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+                "mall_name": "Amazon",
+                "title": "Amazon Collection 女士纯银镀金钥匙吊坠项链",
+                "status": "0",
+                "selected_sku": {
+                  "seq": "#",
+                  "original_price_rmb": "246.96",
+                  "native_price_unit": "$",
+                  "current_price_rmb": "234.62",
+                  "image_url": "http://img.haihu.com/0116111477e089e2aaaa415f9c3a994b67b40f96.jpg",
+                  "native_express_fee": "0",
+                  "forward_fee": "45.00",
+                  "weight": "200",
+                  "status": "0",
+                  "fixed_price": "303.25",
+                  "tag_price": "366.04",
+                  "free_tax_price": 234.62,
+                  "sku_add_price": 20.11,
+                  "insurancePrice": "3.52",
+                  "taxPrice": "70.39",
+                  "modeType": "customs",
+                  "rate": "6.8946",
+                  "expressType": 0,
+                  "exsitLimitPromotion": false
+                },
+                "productEntityId": "5313482",
+                "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+                "goods_id": "861805",
+                "voucher_list": [
+                  {
+                    "type": "camp_more_reduce",
+                    "title": "2件减30元",
+                    "desc": "2件减30元",
+                    "system_time": "1488167966351",
+                    "start_time": "2017-02-13 14:37:06",
+                    "end_time": "2017-03-12 00:00:00",
+                    "dimension": "subject"
+                  }
+                ]
+              },
+              "type": "0"
+            }
+          ]
+        }
+      }
+    ],
+    "is_freshman": "NO"
+  },
+  "common": {
+    "status": "100",
+    "memo": "success"
+  }
+}

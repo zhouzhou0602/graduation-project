@@ -1,0 +1,31 @@
+<div class="home_flash_back" ng-controller="myController">
+	<img src="img/le.png" ng-click="jump('home')">
+	<span>保税区闪购</span>
+</div>
+<header class="cheap_flash_header" ng-controller="myController">
+	<dl ui-sref='cheapFlash.hot'  ui-sref-active="home_flash_cur">
+		<dt><img src="img/flash_hot.png"></dt>
+		<dd><p>热门</p></dd>
+	</dl>
+	<dl ui-sref='cheapFlash.makeup' ui-sref-active="home_flash_cur">
+		<dt><img src="img/flash_makeup.png"></dt>
+		<dd><p >美妆护肤</p></dd>
+	</dl>
+	<dl ui-sref='cheapFlash.children'  ui-sref-active="home_flash_cur">
+		<dt><img src="img/flash_child.png"></dt>
+		<dd><p>母婴玩具</p></dd>
+	</dl>
+	<dl ui-sref='cheapFlash.person'  ui-sref-active="home_flash_cur">
+		<dt><img src="img/flash_per.png"></dt>
+		<dd><p>个人护理</p></dd>
+	</dl>
+	
+	
+	
+
+</header>
+<header class="flash_header">今日优品</header>
+<!-- 商品详情 -->
+	<div class="flash_details" ui-view>
+		
+	</div>

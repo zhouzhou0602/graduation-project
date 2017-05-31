@@ -1,0 +1,54 @@
+
+<div class="cart_in" ng-controller="cart" ng-show="{{goodList.length>0}}">
+	<header class="cat_in_header">
+		购物车({{resault.sum}})
+		<span>编辑</span>
+	</header>
+	<div  ng-repeat="item in goodList" class="cart_list">
+	<div class="cat_in_div">
+	</div>
+	<ul class="cat_in_ul">
+		<li class="cat_in_span_9">
+			<span  ng-click="alonePrice(item)" class="cart_point">√</span>
+			<dt><img src={{item.img}} alt=""></dt>
+			<dd class="cart_name">{{item.name}}</dd>
+			<dd class="cart_num_handle">
+				<span class="cart_add cart_handle" onclick="cart_add()">+</span>
+				<span class="cart_num">{{item.num}}</span>
+				<span class="cart_cut cart_handle" onclick="cart_cut()">-</span>
+				<span class="cart_price">单价:¥{{item.price|number:"2"}}</span>
+			</dd>
+		</li>
+	</ul>
+	</div>
+	<div class="cat_last_div">
+		<span class="cat_in_span_3 cart_point" onclick = "allPrice()"></span>
+		<span class="cat_in_span_4">全选</span>
+		<p>合计:&nbsp;<span class="cat_in_span3"></span></p>
+		<span class="cat_in_span4 close" onclick="order()">结算</span>
+	</div>
+</div>
+<div class="cart_null" ng-show="{{goodList.length==0}}">
+	<header class="cat_header">
+		购物车<span>(0)</span>
+		<img src="img/a.png" alt="">
+	</header>
+	<div class="cat_div">
+		<img src="img/mb.png" alt="">
+	</div>
+	<p class="cat_p">购物车空空如也</p>
+</div>
+<div class="order">
+	<div class="order_head">订单</div>
+	<ul class="order_list">
+		
+	</ul>
+	<div class="order_all">
+		<span class="order_sum"></span>
+		<span>共计:</span>
+	</div>
+	<div class="order_btn">
+		<div onclick="pay()">支付</div>
+		<div onclick="pay()">取消</div>
+	</div>
+</div>

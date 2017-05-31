@@ -1,0 +1,11 @@
+
+<div ng-controller="typeBrandController">
+	<div class="brand_list list" ng-repeat="item in items.operation.hot_brand_list">
+		<p>{{item.desc}}</p>
+		<ul>
+			<li ng-repeat="i in item.brand_list">
+				<img src="{{i.avatar}}">
+			</li>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,34 @@
+
+<!-- 头部信息 -->
+	<header class="home_daily_header" ng-controller="myController">
+		<span ng-click="jump('home')"><img src="img/le.png"></span>
+		<span>签到</span>
+		<img src="img/fen.png">
+	</header>
+	<!-- 积分 -->
+	<div class="home_daily_score">
+		<span>查看积分明细<span>&gt;</span></span>
+		<p>0</p>
+		<p>今日签到可领<span>5</span>积分</p>
+		<a>签到</a>
+		<p>已连续签到<span>0</span>天</p>
+	</div>
+	<!-- 积分兑换 -->
+	<div class="home_daily_change">
+		<p class="home_daily_dui">我的兑换记录</p>
+		<div class="home_daily_imgs"><img src="img/five.png"><img src="img/ten.png"></div>
+		<div class="home_daily_imgs"><img src="img/five.png"><img src="img/ten.png"></div>
+		<div class="home_daily_clear"></div>
+	</div>
+	<!-- 积分兑换商品 -->
+	<div class="home_daily_goods" ng-controller="cheapDailyController">
+		<div class="home_daily_goods_ims">
+		积分兑换商品
+		</div>
+		<dl class="home_daily_goods_list"  ng-repeat="item in items.operation.goods_list">
+			<dt><img src="{{item.default_square_image}}"></dt>
+			<dd>{{item.title}}</dd>
+			<dd><span>{{item.group_price}}</span><span>{{item.compare_price}}</span></dd>
+			<dd><a>立即兑换</a></dd>
+		</dl>
+	</div>

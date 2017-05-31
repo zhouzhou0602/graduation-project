@@ -1,0 +1,36 @@
+<div class="home_hot_back" ng-controller="myController">
+	<img src="img/le.png" ng-click="jump('home')">
+	<span>一周热卖</span>
+</div>
+	<header class="home_hot_header">
+		<img src="http://img.haihu.com/01170213af0278d9aa9d4a5dbed641f766599aef.png">
+	</header>
+	<!-- 具体商品展示内容 -->
+	<div class="home_hot_content" ng-controller="cheapHotController">
+		<dl ng-repeat="item in items.operation.goods_list">
+			<dt><img src="{{item.default_square_image}}"></dt>
+			<dd>{{item.title}}</dd>
+			<dd><span>￥{{item.group_price}}</span><del>{{item.compare_price}}</del></dd>
+			<dd>
+				<img src="{{item.goods_list[0].pc_country_icon}}">
+				<span>amazon.jp直邮</span>
+			</dd>
+		</dl>
+		<dl ng-repeat="i in item.operation.goods_list">
+			<dt><img src="{{i.default_square_image}}"></dt>
+			<dd>{{i.title}}</dd>
+			<dd><span>￥{{i.group_price}}</span><del>{{i.compare_price}}</del></dd>
+			<dd>
+				<img src="{{i.goods_list[0].pc_country_icon}}">
+				<span>amazon.jp直邮</span>
+			</dd>
+		</dl>
+		<div class="home_hot_clear"></div>
+	</div>
+	<!-- 尾部内容 -->
+	<div class="home_hot_theme">
+		<div class="home_hot_theme_hr">相关主题推荐</div>
+		<div class="home_hot_img"><img src="http://img.haihu.com/01161230cb63ec8e8cc94d56bf7e3b70622ce7cd.jpg"></div>
+		<div class="home_hot_img"><img src="http://img.haihu.com/0117021017833982075848dcabfa02d93e1399d4.jpg"></div>
+		<div class="home_hot_img"><img src="http://img.haihu.com/0116111651380f027846426e9e5e7b19d18b4b4d.jpg"></div>
+	</div>

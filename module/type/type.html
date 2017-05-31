@@ -1,0 +1,19 @@
+
+<div class="type">
+	<!-- type_header -->
+	<div class="type_head" ng-controller="myController">
+		<div class="type_search" ng-click="jump('search')">
+			<img src="img/type_search.png">
+			<input type="text" placeholder="输入商品关键字查找" disabled="disabled">
+		</div>
+	</div>
+	<!-- type_tab -->
+	<div class="type_tab" ng-controller="myController">
+		<a ui-sref='type.type' ui-sref-active="cur">分类</a>
+		<a ui-sref="type.brand" ui-sref-active="cur">品牌</a>
+	</div>
+	<!-- type_con -->
+	<div class="type_category" ui-view>
+		
+	</div>
+</div>

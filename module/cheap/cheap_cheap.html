@@ -1,0 +1,26 @@
+<div class="home_cheap_back" ng-controller="myController">
+	<img src="img/le.png" ng-click="jump('home')">
+	<span>每日特惠</span>
+</div>
+	<div class="home_cheap_img">
+		<img src="http://img.haihu.com/01170207c8e6a553c444478ca5c99e9ea399f2d0.jpg">
+	</div>
+	<!-- 商品展示 -->
+	<div class="home_cheap_goods" ng-controller="cheapCheapController">
+		<dl ng-repeat="item in items.operation.goods_list">
+			<dt><img src="{{item.default_square_image}}"></dt>
+			<dd>{{item.title}}</dd>
+			<dd><span>￥{{item.group_price}}</span><del>{{item.compare_price}}</del></dd>
+			<dd>
+				<img src="{{item.goods_list[0].pc_country_icon}}">
+				<span>amazon.jp直邮</span>
+			</dd>
+		</dl>
+		<div class="home_cheap_clear"></div>
+	</div>
+	<div class="home_cheap_bottom">
+		<div class="home_cheap_theme">相关主题推荐</div>
+		<div class="home_cheap_imgs"><img src="http://img.haihu.com/0117021378ebe9274f1f48b9bd231d8ce2b419ff.jpg"></div>
+		<div class="home_cheap_imgs"><img src="http://img.haihu.com/01160824d3091d2003ac48028fcbb6361573cdfc.jpg"></div>
+		<div class="home_cheap_imgs"><img src="http://img.haihu.com/011612063118e9791fe74a34a2e7c3266cfd87a6.jpg"></div>
+	</div>

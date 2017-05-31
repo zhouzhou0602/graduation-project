@@ -1,0 +1,30 @@
+
+	<div style="background:ghostwhite;font-size: 12px;height:100%" class="registerwrap" >
+			<div class="main">
+				<div class="title" ng-controller="myController">
+					注册
+				</div>
+				<div class="input">
+					<div>
+						<input type="text" placeholder="用户名" class="reg_name" />
+					</div>
+				</div>
+				<div class="input">
+					<div >
+						<input type="password" placeholder="密码" class="reg_pass" />
+					</div>
+				</div>
+				<div class="input">
+					<div >
+						<input type="password" placeholder="确认密码" class="reg_repass" />
+					</div>
+				</div>
+			</div>
+			<div class="items">
+				<img src="img/ensure.bmp" alt="" />
+				<div>您已阅读并同意 <a href="#">注册条款</a></div>
+			</div>
+			<div class="verify" onclick="register()" id="userReg">注册</div>
+			<div class="toRegister"><a ui-sref="login">登录</a></div>
+	</div>	
+	

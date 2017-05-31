@@ -1,0 +1,1621 @@
+{
+"operation": {
+"goods": {
+"sku": {
+"dimensions": [
+{
+"attrId": "989488",
+"display": "尺码",
+"values": [
+{
+"display": "30",
+"value": "3041477",
+"size_list": [
+{
+"size_name": "裤子尺码",
+"size_value": "28-29"
+}
+]
+},
+{
+"display": "32",
+"value": "3041478",
+"size_list": [
+{
+"size_name": "裤子尺码",
+"size_value": "30"
+}
+]
+},
+{
+"display": "34",
+"value": "3041479",
+"size_list": [
+{
+"size_name": "裤子尺码",
+"size_value": "32"
+}
+]
+},
+{
+"display": "36",
+"value": "3041480",
+"size_list": [
+{
+"size_name": "裤子尺码",
+"size_value": "34"
+}
+]
+},
+{
+"display": "40",
+"value": "3041482",
+"size_list": [
+{
+"size_name": "裤子尺码",
+"size_value": "38"
+}
+]
+},
+{
+"display": "42",
+"value": "3041483",
+"size_list": [
+{
+"size_name": "裤子尺码",
+"size_value": "40"
+}
+]
+},
+{
+"display": "44",
+"value": "3041484",
+"size_list": [
+{
+"size_name": "裤子尺码",
+"size_value": "42"
+}
+]
+},
+{
+"display": "80",
+"value": "4136524",
+"size_list": [
+{
+"size_name": "裤子尺码",
+"size_value": "28-29"
+}
+]
+},
+{
+"display": "85",
+"value": "4136525",
+"size_list": [
+{
+"size_name": "裤子尺码",
+"size_value": "30"
+}
+]
+},
+{
+"display": "90",
+"value": "4136526",
+"size_list": [
+{
+"size_name": "裤子尺码",
+"size_value": "32"
+}
+]
+},
+{
+"display": "95",
+"value": "4136527",
+"size_list": [
+{
+"size_name": "裤子尺码",
+"size_value": "34"
+}
+]
+},
+{
+"display": "100",
+"value": "4136528",
+"size_list": [
+{
+"size_name": "裤子尺码",
+"size_value": "36"
+}
+]
+},
+{
+"display": "105",
+"value": "4136529",
+"size_list": [
+{
+"size_name": "裤子尺码",
+"size_value": "38"
+}
+]
+},
+{
+"display": "110",
+"value": "4136530",
+"size_list": [
+{
+"size_name": "裤子尺码",
+"size_value": "40"
+}
+]
+},
+{
+"display": "115",
+"value": "4136531",
+"size_list": [
+{
+"size_name": "裤子尺码",
+"size_value": "42"
+}
+]
+}
+]
+},
+{
+"attrId": "989489",
+"display": "颜色",
+"values": [
+{
+"display": "Dark Blue",
+"value": "3041485"
+},
+{
+"display": "Dark Brown",
+"value": "4533787"
+},
+{
+"display": "Medium Brown",
+"value": "3041486"
+},
+{
+"display": "Black",
+"value": "3041487"
+},
+{
+"display": "Dark Red",
+"value": "4136532"
+}
+]
+}
+],
+"sku_map": [
+{
+"seq": "3041477_3041485",
+"original_price_rmb": "654.41",
+"original_price_native": "95.00",
+"native_price_unit": "$",
+"current_price_rmb": "654.41",
+"current_price_native": "95.00",
+"image_url": "http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "500",
+"upper_limit": "1",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "849.46",
+"tag_price": "980.34",
+"free_tax_price": 654.41,
+"sku_add_price": 140.23,
+"stockType": 0,
+"insurancePrice": "9.82",
+"taxPrice": "196.32",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "3041478_3041485",
+"original_price_rmb": "414.62",
+"original_price_native": "60.19",
+"native_price_unit": "$",
+"current_price_rmb": "414.62",
+"current_price_native": "60.19",
+"image_url": "http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "500",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "554.69",
+"tag_price": "637.61",
+"free_tax_price": 414.62,
+"sku_add_price": 88.85,
+"stockType": 0,
+"insurancePrice": "6.22",
+"taxPrice": "124.39",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "3041479_3041485",
+"original_price_rmb": "654.41",
+"original_price_native": "95.00",
+"native_price_unit": "$",
+"current_price_rmb": "654.41",
+"current_price_native": "95.00",
+"image_url": "http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "500",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "849.46",
+"tag_price": "980.34",
+"free_tax_price": 654.41,
+"sku_add_price": 140.23,
+"stockType": 0,
+"insurancePrice": "9.82",
+"taxPrice": "196.32",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "3041480_3041485",
+"original_price_rmb": "654.41",
+"original_price_native": "95.00",
+"native_price_unit": "$",
+"current_price_rmb": "654.41",
+"current_price_native": "95.00",
+"image_url": "http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "500",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "849.46",
+"tag_price": "980.34",
+"free_tax_price": 654.41,
+"sku_add_price": 140.23,
+"stockType": 0,
+"insurancePrice": "9.82",
+"taxPrice": "196.32",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "3041482_3041485",
+"original_price_rmb": "654.41",
+"original_price_native": "95.00",
+"native_price_unit": "$",
+"current_price_rmb": "654.41",
+"current_price_native": "95.00",
+"image_url": "http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "500",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "849.46",
+"tag_price": "980.34",
+"free_tax_price": 654.41,
+"sku_add_price": 140.23,
+"stockType": 0,
+"insurancePrice": "9.82",
+"taxPrice": "196.32",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "3041483_3041485",
+"original_price_rmb": "654.41",
+"original_price_native": "95.00",
+"native_price_unit": "$",
+"current_price_rmb": "456.50",
+"current_price_native": "66.27",
+"image_url": "http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "500",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "606.17",
+"tag_price": "977.37",
+"free_tax_price": 456.5,
+"sku_add_price": 97.82,
+"stockType": 0,
+"insurancePrice": "6.85",
+"taxPrice": "136.95",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "3041484_3041485",
+"original_price_rmb": "654.41",
+"original_price_native": "95.00",
+"native_price_unit": "$",
+"current_price_rmb": "654.41",
+"current_price_native": "95.00",
+"image_url": "http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "500",
+"upper_limit": "1",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "849.46",
+"tag_price": "980.34",
+"free_tax_price": 654.41,
+"sku_add_price": 140.23,
+"stockType": 0,
+"insurancePrice": "9.82",
+"taxPrice": "196.32",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136524_4533787",
+"original_price_rmb": "233.59",
+"original_price_native": "33.91",
+"native_price_unit": "$",
+"current_price_rmb": "221.88",
+"current_price_native": "32.21",
+"image_url": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "300",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "317.76",
+"tag_price": "378.69",
+"free_tax_price": 221.88,
+"sku_add_price": 47.55,
+"stockType": 0,
+"insurancePrice": "3.33",
+"taxPrice": "66.56",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136525_3041485",
+"original_price_rmb": "654.41",
+"original_price_native": "95.00",
+"native_price_unit": "$",
+"current_price_rmb": "654.41",
+"current_price_native": "95.00",
+"image_url": "http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "51.00",
+"weight": "600",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "855.46",
+"tag_price": "986.34",
+"free_tax_price": 654.41,
+"sku_add_price": 140.23,
+"stockType": 0,
+"insurancePrice": "9.82",
+"taxPrice": "196.32",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136525_4533787",
+"original_price_rmb": "654.41",
+"original_price_native": "95.00",
+"native_price_unit": "$",
+"current_price_rmb": "654.41",
+"current_price_native": "95.00",
+"image_url": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "300",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "849.46",
+"tag_price": "980.34",
+"free_tax_price": 654.41,
+"sku_add_price": 140.23,
+"stockType": 0,
+"insurancePrice": "9.82",
+"taxPrice": "196.32",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136526_3041485",
+"original_price_rmb": "654.41",
+"original_price_native": "95.00",
+"native_price_unit": "$",
+"current_price_rmb": "654.41",
+"current_price_native": "95.00",
+"image_url": "http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "500",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "849.46",
+"tag_price": "980.34",
+"free_tax_price": 654.41,
+"sku_add_price": 140.23,
+"stockType": 0,
+"insurancePrice": "9.82",
+"taxPrice": "196.32",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136526_3041486",
+"original_price_rmb": "311.02",
+"original_price_native": "45.15",
+"native_price_unit": "$",
+"current_price_rmb": "295.45",
+"current_price_native": "42.89",
+"image_url": "http://img.haihu.com/0116092843d3ca31ae5946e5ab896255712a8c8c.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/0116092843d3ca31ae5946e5ab896255712a8c8c.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/0116092843d3ca31ae5946e5ab896255712a8c8c.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "500",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "408.19",
+"tag_price": "489.30",
+"free_tax_price": 295.45,
+"sku_add_price": 63.31,
+"stockType": 0,
+"insurancePrice": "4.43",
+"taxPrice": "88.64",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136526_3041487",
+"original_price_rmb": "580.70",
+"original_price_native": "84.30",
+"native_price_unit": "$",
+"current_price_rmb": "580.70",
+"current_price_native": "84.30",
+"image_url": "http://img.haihu.com/011611245cba45bae13d4524a78d8f92bab6bae9.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/011611245cba45bae13d4524a78d8f92bab6bae9.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/011611245cba45bae13d4524a78d8f92bab6bae9.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "500",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "758.85",
+"tag_price": "874.99",
+"free_tax_price": 580.7,
+"sku_add_price": 124.44,
+"stockType": 0,
+"insurancePrice": "8.71",
+"taxPrice": "174.21",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136526_4533787",
+"original_price_rmb": "654.41",
+"original_price_native": "95.00",
+"native_price_unit": "$",
+"current_price_rmb": "654.41",
+"current_price_native": "95.00",
+"image_url": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "300",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "849.46",
+"tag_price": "980.34",
+"free_tax_price": 654.41,
+"sku_add_price": 140.23,
+"stockType": 0,
+"insurancePrice": "9.82",
+"taxPrice": "196.32",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136527_3041486",
+"original_price_rmb": "492.80",
+"original_price_native": "71.54",
+"native_price_unit": "$",
+"current_price_rmb": "468.14",
+"current_price_native": "67.96",
+"image_url": "http://img.haihu.com/0116092843d3ca31ae5946e5ab896255712a8c8c.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/0116092843d3ca31ae5946e5ab896255712a8c8c.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/0116092843d3ca31ae5946e5ab896255712a8c8c.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "500",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "620.48",
+"tag_price": "748.98",
+"free_tax_price": 468.14,
+"sku_add_price": 100.32,
+"stockType": 0,
+"insurancePrice": "7.02",
+"taxPrice": "140.44",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136527_3041487",
+"original_price_rmb": "654.41",
+"original_price_native": "95.00",
+"native_price_unit": "$",
+"current_price_rmb": "654.41",
+"current_price_native": "95.00",
+"image_url": "http://img.haihu.com/011611245cba45bae13d4524a78d8f92bab6bae9.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/011611245cba45bae13d4524a78d8f92bab6bae9.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/011611245cba45bae13d4524a78d8f92bab6bae9.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "500",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "849.46",
+"tag_price": "980.34",
+"free_tax_price": 654.41,
+"sku_add_price": 140.23,
+"stockType": 0,
+"insurancePrice": "9.82",
+"taxPrice": "196.32",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136527_4533787",
+"original_price_rmb": "654.41",
+"original_price_native": "95.00",
+"native_price_unit": "$",
+"current_price_rmb": "654.41",
+"current_price_native": "95.00",
+"image_url": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "300",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "849.46",
+"tag_price": "980.34",
+"free_tax_price": 654.41,
+"sku_add_price": 140.23,
+"stockType": 0,
+"insurancePrice": "9.82",
+"taxPrice": "196.32",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136528_3041487",
+"original_price_rmb": "654.41",
+"original_price_native": "95.00",
+"native_price_unit": "$",
+"current_price_rmb": "654.41",
+"current_price_native": "95.00",
+"image_url": "http://img.haihu.com/011611245cba45bae13d4524a78d8f92bab6bae9.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/011611245cba45bae13d4524a78d8f92bab6bae9.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/011611245cba45bae13d4524a78d8f92bab6bae9.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "500",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "849.46",
+"tag_price": "980.34",
+"free_tax_price": 654.41,
+"sku_add_price": 140.23,
+"stockType": 0,
+"insurancePrice": "9.82",
+"taxPrice": "196.32",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136528_4136532",
+"original_price_rmb": "654.41",
+"original_price_native": "95.00",
+"native_price_unit": "$",
+"current_price_rmb": "654.41",
+"current_price_native": "95.00",
+"image_url": "http://img.haihu.com/01161124130d6f327e9645479ac8a0df756b4ca5.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/01161124130d6f327e9645479ac8a0df756b4ca5.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/01161124130d6f327e9645479ac8a0df756b4ca5.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "300",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "849.46",
+"tag_price": "980.34",
+"free_tax_price": 654.41,
+"sku_add_price": 140.23,
+"stockType": 0,
+"insurancePrice": "9.82",
+"taxPrice": "196.32",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136528_4533787",
+"original_price_rmb": "654.41",
+"original_price_native": "95.00",
+"native_price_unit": "$",
+"current_price_rmb": "590.00",
+"current_price_native": "85.65",
+"image_url": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "300",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "770.28",
+"tag_price": "979.37",
+"free_tax_price": 590,
+"sku_add_price": 126.43,
+"stockType": 0,
+"insurancePrice": "8.85",
+"taxPrice": "177.00",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136529_3041487",
+"original_price_rmb": "620.93",
+"original_price_native": "90.14",
+"native_price_unit": "$",
+"current_price_rmb": "589.86",
+"current_price_native": "85.63",
+"image_url": "http://img.haihu.com/011611245cba45bae13d4524a78d8f92bab6bae9.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/011611245cba45bae13d4524a78d8f92bab6bae9.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/011611245cba45bae13d4524a78d8f92bab6bae9.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "500",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "770.11",
+"tag_price": "932.03",
+"free_tax_price": 589.86,
+"sku_add_price": 126.4,
+"stockType": 0,
+"insurancePrice": "8.85",
+"taxPrice": "176.96",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136529_4533787",
+"original_price_rmb": "290.63",
+"original_price_native": "42.19",
+"native_price_unit": "$",
+"current_price_rmb": "276.09",
+"current_price_native": "40.08",
+"image_url": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "300",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "384.39",
+"tag_price": "460.18",
+"free_tax_price": 276.09,
+"sku_add_price": 59.16,
+"stockType": 0,
+"insurancePrice": "4.14",
+"taxPrice": "82.83",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136530_3041487",
+"original_price_rmb": "654.41",
+"original_price_native": "95.00",
+"native_price_unit": "$",
+"current_price_rmb": "654.41",
+"current_price_native": "95.00",
+"image_url": "http://img.haihu.com/011611245cba45bae13d4524a78d8f92bab6bae9.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/011611245cba45bae13d4524a78d8f92bab6bae9.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/011611245cba45bae13d4524a78d8f92bab6bae9.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "500",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "849.46",
+"tag_price": "980.34",
+"free_tax_price": 654.41,
+"sku_add_price": 140.23,
+"stockType": 0,
+"insurancePrice": "9.82",
+"taxPrice": "196.32",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136530_4136532",
+"original_price_rmb": "654.41",
+"original_price_native": "95.00",
+"native_price_unit": "$",
+"current_price_rmb": "654.41",
+"current_price_native": "95.00",
+"image_url": "http://img.haihu.com/01161124130d6f327e9645479ac8a0df756b4ca5.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/01161124130d6f327e9645479ac8a0df756b4ca5.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/01161124130d6f327e9645479ac8a0df756b4ca5.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "300",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "849.46",
+"tag_price": "980.34",
+"free_tax_price": 654.41,
+"sku_add_price": 140.23,
+"stockType": 0,
+"insurancePrice": "9.82",
+"taxPrice": "196.32",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136530_4533787",
+"original_price_rmb": "654.41",
+"original_price_native": "95.00",
+"native_price_unit": "$",
+"current_price_rmb": "268.03",
+"current_price_native": "38.91",
+"image_url": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "300",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "374.48",
+"tag_price": "974.54",
+"free_tax_price": 268.03,
+"sku_add_price": 57.43,
+"stockType": 0,
+"insurancePrice": "4.02",
+"taxPrice": "80.41",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136531_4533787",
+"original_price_rmb": "224.84",
+"original_price_native": "32.64",
+"native_price_unit": "$",
+"current_price_rmb": "213.61",
+"current_price_native": "31.01",
+"image_url": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "300",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "307.58",
+"tag_price": "366.19",
+"free_tax_price": 213.61,
+"sku_add_price": 45.77,
+"stockType": 0,
+"insurancePrice": "3.20",
+"taxPrice": "64.08",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+}
+]
+},
+"size_chart_url": "http://m.haihu.com/sizeTable.html?size_id=865&goodsId=754899&seq=4136531_4533787",
+"express_explain_url": "api.haihu.com/express.jsp",
+"pdd_list": [
+{
+"id": 493579,
+"productId": 754899,
+"type": 2,
+"imagesList": "01160928c415b54d8a9f4ad9bbced9c2dbc91941.jpg",
+"description": "官网直邮商品均由海外官网发货，不支持非质量原因的商品退换货哦。\n100%牛皮",
+"hasTranslated": 2,
+"translation": "100%牛皮进口洗手液\n",
+"titleCn": "产品信息",
+"titleEn": "Product information",
+"desc": "官网直邮商品均由海外官网发货，不支持非质量原因的商品退换货哦。\n100%牛皮",
+"rd_image_list": [
+"http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg",
+"http://img.haihu.com/01160928c415b54d8a9f4ad9bbced9c2dbc91941.jpg@1c_1e_480w.jpg"
+]
+}
+],
+"apexProduct": false,
+"brand": {
+"brand_id": "1458",
+"desc": "Hugo Boss是世界知名奢侈品牌，源于德国，主营男女服装，香水，手表，及其它配件。自1923年起，Hugo Boss这个名字就成为了时尚男士服装的代名词，专事出品世界顶级的高品质男装。第一款BOSS香水于1993年推出。自此之后，BOSS一直是全球香氛市场的主要领军者。",
+"avatar": "http://img.haihu.com/011602251b55dd98bb2a4222ab08757aae39fa9e.jpg",
+"title": "Hugo Boss",
+"goods_list": [
+{
+"attr_type": "null",
+"from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+"country": "美国",
+"country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+"mall_name": "Amazon",
+"title": "Hugo Boss 雨果博斯 黑标Saltrio 男士皮带",
+"status": "0",
+"selected_sku": {
+"seq": "3041461_3041465",
+"original_price_rmb": "468.42",
+"native_price_unit": "$",
+"current_price_rmb": "468.42",
+"image_url": "http://img.haihu.com/01160928f035ae7703c5494183c937aad97986a3.jpg@1c_1e_320w.jpg",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "300",
+"status": "0",
+"fixed_price": "620.83",
+"tag_price": "714.51",
+"free_tax_price": 468.42,
+"sku_add_price": 100.38,
+"insurancePrice": "7.03",
+"taxPrice": "140.53",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+"productEntityId": "4534868",
+"pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+"goods_id": "754896",
+"voucher_list": [
+{
+"type": "camp_more_reduce",
+"title": "2件减40元",
+"desc": "2件减40元",
+"system_time": "1488250986017",
+"start_time": "2017-02-27 14:38:32",
+"end_time": "2017-03-06 00:00:00",
+"dimension": "subject"
+}
+]
+},
+{
+"attr_type": "null",
+"from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+"country": "美国",
+"country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+"mall_name": "Amazon",
+"title": "Hugo Boss 雨果博斯 黑标Elvio-U 男士可逆皮带",
+"status": "0",
+"selected_sku": {
+"seq": "3041637",
+"original_price_rmb": "654.41",
+"native_price_unit": "$",
+"current_price_rmb": "654.41",
+"image_url": "http://img.haihu.com/01160928e387e741a6c744939b888224119d2afe.jpg@1c_1e_320w.jpg",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "300",
+"status": "0",
+"fixed_price": "849.46",
+"tag_price": "980.34",
+"free_tax_price": 654.41,
+"sku_add_price": 140.23,
+"insurancePrice": "9.82",
+"taxPrice": "196.32",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+"productEntityId": "4535106",
+"pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+"goods_id": "754842",
+"voucher_list": [
+{
+"type": "camp_more_reduce",
+"title": "2件减40元",
+"desc": "2件减40元",
+"system_time": "1488250986034",
+"start_time": "2017-02-27 14:38:32",
+"end_time": "2017-03-06 00:00:00",
+"dimension": "subject"
+}
+]
+},
+{
+"attr_type": "null",
+"from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+"country": "美国",
+"country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+"mall_name": "Amazon",
+"title": "Hugo Boss 雨果博斯 黑标Ugos-B意大利男士真皮皮带50181449",
+"status": "0",
+"selected_sku": {
+"seq": "3041270",
+"original_price_rmb": "606.19",
+"native_price_unit": "$",
+"current_price_rmb": "606.19",
+"image_url": "http://img.haihu.com/01160928820e7db05b534613b0b302093d283d3a.jpg@1c_1e_320w.jpg",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "200",
+"status": "0",
+"fixed_price": "790.18",
+"tag_price": "911.42",
+"free_tax_price": 606.19,
+"sku_add_price": 129.9,
+"insurancePrice": "9.09",
+"taxPrice": "181.86",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+"productEntityId": "4534692",
+"pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+"goods_id": "754875",
+"voucher_list": [
+{
+"type": "camp_more_reduce",
+"title": "2件减40元",
+"desc": "2件减40元",
+"system_time": "1488250986052",
+"start_time": "2017-02-27 14:38:32",
+"end_time": "2017-03-06 00:00:00",
+"dimension": "subject"
+}
+]
+},
+{
+"attr_type": "null",
+"from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+"country": "美国",
+"country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+"mall_name": "Amazon",
+"title": "Hugo Boss 雨果博斯 C-Gabello男士皮带",
+"status": "0",
+"selected_sku": {
+"seq": "3041611_3041612",
+"original_price_rmb": "233.73",
+"native_price_unit": "$",
+"current_price_rmb": "222.02",
+"image_url": "http://img.haihu.com/01160928bfdf9bfec98442359e872f8091f28461.jpg@1c_1e_320w.jpg",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "500",
+"status": "0",
+"fixed_price": "317.93",
+"tag_price": "378.89",
+"free_tax_price": 222.02,
+"sku_add_price": 47.58,
+"insurancePrice": "3.33",
+"taxPrice": "66.61",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+"productEntityId": "4535036",
+"pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+"goods_id": "754835",
+"voucher_list": []
+},
+{
+"attr_type": "null",
+"from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+"country": "美国",
+"country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+"mall_name": "Amazon",
+"title": "Hugo Boss 雨果博斯 黑标Ugos-B 男士皮带 1014418",
+"status": "0",
+"selected_sku": {
+"seq": "3041416",
+"original_price_rmb": "606.19",
+"native_price_unit": "$",
+"current_price_rmb": "606.19",
+"image_url": "http://img.haihu.com/01160928193fc0df0a734177b6de5d1678d8d804.jpg@1c_1e_320w.jpg",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "500",
+"status": "0",
+"fixed_price": "790.18",
+"tag_price": "911.42",
+"free_tax_price": 606.19,
+"sku_add_price": 129.9,
+"insurancePrice": "9.09",
+"taxPrice": "181.86",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+"productEntityId": "4534805",
+"pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+"goods_id": "754885",
+"voucher_list": []
+},
+{
+"attr_type": "null",
+"from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+"country": "美国",
+"country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+"mall_name": "Amazon",
+"title": "Hugo Boss 雨果博斯 绿标Timmy 男士皮带",
+"status": "0",
+"selected_sku": {
+"seq": "3041513_3041519",
+"original_price_rmb": "929.95",
+"native_price_unit": "$",
+"current_price_rmb": "929.95",
+"image_url": "http://img.haihu.com/01160928162fc6fbb430421faefad9ca6c4ab34a.jpg@1c_1e_320w.jpg",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "300",
+"status": "0",
+"fixed_price": "1188.17",
+"tag_price": "1374.16",
+"free_tax_price": 929.95,
+"sku_add_price": 199.27,
+"insurancePrice": "13.95",
+"taxPrice": "278.99",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+"productEntityId": "4534932",
+"pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+"goods_id": "754825",
+"voucher_list": []
+}
+],
+"brand_cn": "雨果博斯",
+"count_desc": "全部898件",
+"category_desc": "{\"third_category_id\":\"865\"}",
+"search_arg": "{\"third_category_id\":\"865\",\"brand_id\":\"1458\",\"source_type\":\"5\"}"
+},
+"translate_status": "2",
+"translation": "100%牛皮进口洗手液\n",
+"goods_image_list": [
+{
+"width": "200",
+"height": "200",
+"image_url": "http://img.haihu.com/01160928c415b54d8a9f4ad9bbced9c2dbc91941.jpg@1c_1e_480w.jpg"
+}
+],
+"range_price": {
+"lowest_discount": "0.0折",
+"range_fixed_price": "307-855",
+"range_tag_price": "366-986"
+},
+"share_entity": {
+"share_title": "Hugo Boss 雨果博斯 Hugo C-Gerron-N 男士皮带",
+"share_image_url": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_320w.jpg",
+"share_url": "http://haihu.zhenshipai.com/pageCenter/hhgProductDetail?goodsId=754899",
+"share_desc": "官网直邮商品均由海外官网发货，不支持非质量原因的商品退换货哦。\n100%牛皮"
+},
+"attr_type": "null",
+"from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+"country": "美国",
+"country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+"mall_name": "Amazon",
+"mall_desc": "美国亚马逊是世界上最大的网上商店，也是国人第一海淘平台，致力于成为全球最以客户为中心的公司，使消费者能够在网上找到并发掘任何他们想购买的商品，并力图提供最低的价格。",
+"mall_id": "1",
+"title": "Hugo Boss 雨果博斯 Hugo C-Gerron-N 男士皮带",
+"desc": "官网直邮商品均由海外官网发货，不支持非质量原因的商品退换货哦。\n100%牛皮",
+"status": "0",
+"selected_sku": {
+"seq": "4136531_4533787",
+"original_price_rmb": "224.84",
+"original_price_native": "32.64",
+"native_price_unit": "$",
+"current_price_rmb": "213.61",
+"current_price_native": "31.01",
+"image_url": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "300",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "307.58",
+"tag_price": "366.19",
+"free_tax_price": 213.61,
+"sku_add_price": 45.77,
+"dimensionDesc": "尺码:115 颜色:Dark Brown",
+"dimension_desc": "尺码:115 颜色:Dark Brown",
+"stockType": 0,
+"insurancePrice": "3.20",
+"taxPrice": "64.08",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+"productEntityId": "7325776",
+"pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+"root_category_id": "8",
+"second_category_id": "140",
+"second_category_name": "配饰",
+"category_id": "865",
+"category_name": "男士皮带",
+"brand_logo": "http://img.haihu.com/011602251b55dd98bb2a4222ab08757aae39fa9e.jpg",
+"colorAttrId": 989489,
+"exclude_promotion": 1,
+"goods_id": "754899",
+"voucher_list": [
+{
+"voucher_id": "103381",
+"type": "camp_more_reduce",
+"title": "2件减40元",
+"price": "4000",
+"desc": "2件减40元",
+"system_time": "2017-02-28 11:03:05",
+"start_time": "2017-02-27 14:38:32",
+"end_time": "2017-03-06 00:00:00",
+"dimension": "subject",
+"action": {
+"type": "wap",
+"arg": "http://expand.haihu.com/html/discount/discountTheme.html?theme_id=4654",
+"title": "去凑单 >"
+},
+"exclude_promotion": 0
+}
+]
+},
+"qrcode_url": "http://img.haihu.com/011511262f179a460c94425080b281d41893a943.png",
+"about_us_url": "http://i.qichuang.com/01150720169567c462d74348907a6bd89384ec64.png",
+"support_qq": "mqqwpa://im/chat?chat_type=crm&uin=800033956&version=1&src_type=web&web_src=http:://wap.rbyair.com",
+"mall": {
+"title": "Amazon",
+"desc": "美国亚马逊是世界上最大的网上商店，也是国人第一海淘平台，致力于成为全球最以客户为中心的公司，使消费者能够在网上找到并发掘任何他们想购买的商品，并力图提供最低的价格。",
+"avatar": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+"mall_voucher_desc": "",
+"search_arg": "{\"mall_id\":\"1\",\"source_type\":\"1\"}",
+"mall_id": "1",
+"voucher_list": []
+},
+"is_downloaded": "NO",
+"goods_promise": {
+"short_title": [
+"海外官网直邮",
+"正品保障",
+"全场包邮包税",
+"海外商品不支持7天无理由退换"
+],
+"promise_detail": {
+"title": "商品说明",
+"promise_list": [
+{
+"title": "海外官网直邮",
+"desc": "海狐海淘所售直邮商品均由海外商城官网通过直邮或转运方式送达买家手里，彻底杜绝传统代购的假货渗入可能"
+},
+{
+"title": "100%海外正品承诺",
+"desc": "直邮商品均为亚马逊，6pm，Nordstorm等全球主流官网正品，海狐海淘承诺“假货包赔”，真正零风险购物"
+},
+{
+"title": "独享包税补贴",
+"desc": "海狐海淘全场包税，若您购买的海外商品被税，我们全额全包！"
+},
+{
+"title": "不支持7天无理由退换",
+"desc": "海外直邮商品，非质量问题不支持7天无理由退货"
+}
+]
+}
+},
+"tax": "0",
+"tax_tips": "海狐海淘全场包税，若您购买的宝贝被海关通知缴纳税费，请保留好缴费凭证并联系海狐在线客服，我们全额报销！",
+"sku_color_list": [
+{
+"seq": "4136531_4533787",
+"original_price_rmb": "224.84",
+"original_price_native": "32.64",
+"native_price_unit": "$",
+"current_price_rmb": "213.61",
+"current_price_native": "31.01",
+"image_url": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/0117021474ec5a92bd20470e8fdebaae9db70325.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "300",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "307.58",
+"tag_price": "366.19",
+"free_tax_price": 213.61,
+"sku_add_price": 45.77,
+"dimensionDesc": "尺码:115 颜色:Dark Brown",
+"dimension_desc": "尺码:115 颜色:Dark Brown",
+"stockType": 0,
+"insurancePrice": "3.20",
+"taxPrice": "64.08",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "3041478_3041485",
+"original_price_rmb": "414.62",
+"original_price_native": "60.19",
+"native_price_unit": "$",
+"current_price_rmb": "414.62",
+"current_price_native": "60.19",
+"image_url": "http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/01170218141bec1b43c1494180eac05fb1736310.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "500",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "554.69",
+"tag_price": "637.61",
+"free_tax_price": 414.62,
+"sku_add_price": 88.85,
+"stockType": 0,
+"insurancePrice": "6.22",
+"taxPrice": "124.39",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136528_4136532",
+"original_price_rmb": "654.41",
+"original_price_native": "95.00",
+"native_price_unit": "$",
+"current_price_rmb": "654.41",
+"current_price_native": "95.00",
+"image_url": "http://img.haihu.com/01161124130d6f327e9645479ac8a0df756b4ca5.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/01161124130d6f327e9645479ac8a0df756b4ca5.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/01161124130d6f327e9645479ac8a0df756b4ca5.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "300",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "849.46",
+"tag_price": "980.34",
+"free_tax_price": 654.41,
+"sku_add_price": 140.23,
+"stockType": 0,
+"insurancePrice": "9.82",
+"taxPrice": "196.32",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136526_3041486",
+"original_price_rmb": "311.02",
+"original_price_native": "45.15",
+"native_price_unit": "$",
+"current_price_rmb": "295.45",
+"current_price_native": "42.89",
+"image_url": "http://img.haihu.com/0116092843d3ca31ae5946e5ab896255712a8c8c.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/0116092843d3ca31ae5946e5ab896255712a8c8c.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/0116092843d3ca31ae5946e5ab896255712a8c8c.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "500",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "408.19",
+"tag_price": "489.30",
+"free_tax_price": 295.45,
+"sku_add_price": 63.31,
+"stockType": 0,
+"insurancePrice": "4.43",
+"taxPrice": "88.64",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+},
+{
+"seq": "4136526_3041487",
+"original_price_rmb": "580.70",
+"original_price_native": "84.30",
+"native_price_unit": "$",
+"current_price_rmb": "580.70",
+"current_price_native": "84.30",
+"image_url": "http://img.haihu.com/011611245cba45bae13d4524a78d8f92bab6bae9.jpg@1c_1e_320w.jpg",
+"image_list": [
+"http://img.haihu.com/011611245cba45bae13d4524a78d8f92bab6bae9.jpg@1c_1e_480w.jpg"
+],
+"image_url_hd": "http://img.haihu.com/011611245cba45bae13d4524a78d8f92bab6bae9.jpg@1c_1e_480w.jpg",
+"stroge": "100",
+"native_express_fee": "0",
+"forward_fee": "45.00",
+"weight": "500",
+"upper_limit": "99",
+"lower_limit": "1",
+"status": "0",
+"fixed_price": "758.85",
+"tag_price": "874.99",
+"free_tax_price": 580.7,
+"sku_add_price": 124.44,
+"stockType": 0,
+"insurancePrice": "8.71",
+"taxPrice": "174.21",
+"modeType": "customs",
+"rate": "6.8885",
+"expressType": 0,
+"exsitLimitPromotion": false
+}
+],
+"q_and_a": {
+"process": {
+"title": "海淘购物流程",
+"image": "http://img.haihu.com/0116061480e66d266dab42d29d274714ad2ce712.png"
+},
+"q_and_a": {
+"title": "海淘购物常见问题",
+"desc_list": [
+{
+"question": "订单确认",
+"answer": "官网直邮展示的商品全部由各海外官网提供，信息更新很快，可能出现下单不成功的情况（商城缺货下架、禁运、或者存在用户恶意刷单等）。如果系统下单不成功，我们会第一时间通知您，并进行全额退款。（官网信息更新较快，若商品重新上架可以重新下单购买）"
+},
+{
+"question": "修改订单",
+"answer": "1.根据海外大多数官网规定，订单一旦生成即不允许做任何商品信息的更改，请您在下单之前仔细核对您的商品信息后再下单支付，否则一旦下单则无法操作取消退款。2.整个物流过程受到海关监管，一旦出库收货人地址信息不作变更，请下单时务必核对收货人地址信息，否则出库后不能保证更改成功，会造成包裹延迟收货甚至无法收货的情况。若您及时联系客服更改，只能尝试帮您提交操作，若最终未能更改成功只能在原地址先拒收退回仓库后给您再次寄送。"
+},
+{
+"question": "订单差价",
+"answer": "官网直邮商品是同步海外官网的促销价格，可能会因为海外商品汇率变动或商品折扣力度变动导致价格变动。您下单后海狐在官网下单也是原价，并无差价存在，官网变动的价格海狐无法保证。"
+},
+{
+"question": "色差",
+"answer": "请以实物为准，海狐所有商品图片来自官网，根据分辨率不同，显示可能会有区别，不排除官网与实物有色差，色差不在免费退货范围之内。"
+},
+{
+"question": "尺码",
+"answer": "海狐会匹配尺码表，但是因为不同品牌的商品尺码会有一定不同，您可以联系客服进行咨询，或者去专柜或者国内官网进行咨询。尺码不合适不在免费退货范围之内。"
+},
+{
+"question": "证件号填写",
+"answer": "海淘过程中涉及到进口清关，需要核对用户身份证号码，个别商城会需要提供身份证拍照验证，海狐承诺对所有信息保密处理，请您务必填写真实有效的身份证信息，以便正常清关，谢谢您的配合！"
+},
+{
+"question": "订单被税报销",
+"answer": "所有官网直邮商品都不收取任何税费。若被海关通知缴纳税费，请保留好缴费凭证并联系海狐在线客服，我们全额报销！由于个人拖延缴纳税费而导致物流停滞的情况海狐一律不承担责任，若拒绝缴纳税费导致被退回的情况，将由您承担退回的国际物流费用，订单无法操作退款。"
+},
+{
+"question": "退换货",
+"answer": "官网直邮商品均由海外官网发货，官网发货前，可以尝试取消订单，但因官网限制，需收取一定的手续费。官网发货后，不支持非质量原因的商品退换货。您收到货后，最好当着快递的面检查物品，如果出现运输途中的损坏需要快递开具开箱证明或者开箱照片及物品损坏照片。您签收后5天内及时联系海狐客服处理，若已拆封使用则不支持退换货处理。"
+},
+{
+"question": "保修",
+"answer": "目前购买的海外商品暂时不支持保修。"
+},
+{
+"question": "下单不成功",
+"answer": "因为我们是在官网为您下单，部分订单会出现下单不成功的情况，海狐会将用户购买时所支付金额全部退还，同时视情况补偿10-50元不等海狐红包。\n1.商城商品限购／售罄／缺货\n2.商城商品物流受限\n3.个人身份信息出错\n4.商城商品价格出现明显异常\n5.商城商品优惠结束或中止\n最终解释权归海狐所有。\n\n"
+},
+{
+"question": "闪电发货",
+"answer": "部分标注“闪电发货”的商品，是海狐提前在官网折扣期抢鲜锁定的商品，为保证您在购买的时候依然能享受官网的折扣价，因此在物流上会出现官网发货信息早于付款时间的情况，我们为海狐的买家贴心的拉长了享受优惠的时间哦（黑五期间，由于抢购异常火爆，锁定商品也可能购买不成功，如遇此情况，海狐会第一时间退款給您。和海狐一起奋勇抢货吧！）"
+}
+]
+}
+}
+},
+"common": {
+"status": "100"
+}
+}

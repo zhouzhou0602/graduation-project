@@ -1,0 +1,1051 @@
+{
+  "operation": {
+    "hot_brand_list": [
+      {
+        "desc": "人气美妆护肤品牌",
+        "brand_list": [
+          {
+            "brand_id": "27",
+            "avatar": "http://img.haihu.com/01150929edf0b196656b4d33a5cd9a84ee645256.png",
+            "title": "La Mer",
+            "keywords": "美妆护肤",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "847",
+            "avatar": "http://img.haihu.com/01160119b4ce430eece847b4b0325a8df37cb40c.jpg",
+            "title": "SK-II",
+            "keywords": "美妆护肤",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "1457",
+            "avatar": "http://img.haihu.com/01160711b0549c60a2ee4d0580bb6b77fd4c9601.jpg",
+            "title": "Kiehl's",
+            "keywords": "美妆护肤",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "11",
+            "avatar": "http://img.haihu.com/0115092993de8031876f4655a6314eb7288b3066.png",
+            "title": "Lancome",
+            "keywords": "美妆护肤",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "9",
+            "avatar": "http://img.haihu.com/0115092931d709030fa440fc9d319b89d9a2281c.png",
+            "title": "Estee Lauder",
+            "keywords": "美妆护肤",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "2025",
+            "avatar": "http://img.haihu.com/011606240ee8c2dc95bd4ae09df96c7a0ffe4403.png",
+            "title": "TOM FORD",
+            "keywords": "美妆护肤",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "15",
+            "avatar": "http://img.haihu.com/011509290b4635d29966496cb7a2393fe181543a.png",
+            "title": "SHISEIDO",
+            "keywords": "美妆护肤",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "23",
+            "avatar": "http://img.haihu.com/011509295fdad5a5952848efa0edce7872b91fc5.png",
+            "title": "Origins",
+            "keywords": "美妆护肤",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "10",
+            "avatar": "http://img.haihu.com/0115092993f31d77d0e844f19f50aae857c87cd7.png",
+            "title": "Clinique",
+            "keywords": "美妆护肤",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "53",
+            "avatar": "http://img.haihu.com/011509295e9fec19b0624b16aebdce79c2b8798e.png",
+            "title": "Laneige",
+            "keywords": "美妆护肤",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "59",
+            "avatar": "http://img.haihu.com/01150929bbfec4984c1f449297736272047a7777.png",
+            "title": "Clarins",
+            "keywords": "美妆护肤",
+            "cover": "http://img.haihu.com/default.png"
+          }
+        ]
+      },
+      {
+        "desc": "人气食品保健品牌",
+        "brand_list": [
+          {
+            "brand_id": "731",
+            "avatar": "http://img.haihu.com/011601111a39f44e589c4c4da15a20a9dbf85b3b.gif",
+            "title": "参天制药",
+            "keywords": "眼药水",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "1916",
+            "avatar": "http://img.haihu.com/0116071112776b71e7574103a980bba066e40cab.png",
+            "title": "小林製薬",
+            "keywords": "瘦身",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "138",
+            "avatar": "http://img.haihu.com/011601277acd9e55b34c4b739a71fdf880f4db7e.jpg",
+            "title": "GNC",
+            "keywords": "营养保健",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "656",
+            "avatar": "http://img.haihu.com/01151221cf9c563d6c8b428b9fafc6fcda48cd99.png",
+            "title": "AGF",
+            "keywords": "咖啡",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "134",
+            "avatar": "http://img.haihu.com/01151028a2ba79d29ff8466e8c31e162b903fe54.jpg",
+            "title": "Nature's Bounty",
+            "keywords": "营养保健",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "1467",
+            "avatar": "http://img.haihu.com/0116011947fc91a4ad3a4cd2983586b15f657907.jpg",
+            "title": "Now Foods",
+            "keywords": "营养保健",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "815",
+            "avatar": "http://img.haihu.com/01160115d934f042978146f6aa87bcb27cc21c71.jpg",
+            "title": "Dear Natura",
+            "keywords": "营养保健",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "130",
+            "avatar": "http://img.haihu.com/011601152440fdaa8f0f4b1e9faf2c3efd3a65c7.jpg",
+            "title": "Nature's Way",
+            "keywords": "营养保健",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "1030",
+            "avatar": "http://img.haihu.com/01160125ecb414fefa934c85b88f0df44500f97a.jpg",
+            "title": "Ogaland",
+            "keywords": "丰胸",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "125",
+            "avatar": "http://img.haihu.com/01160217af8b65e9ccfe4213b89ff550eae49933.jpg",
+            "title": "Schiff",
+            "keywords": "骨骼健康",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "729",
+            "avatar": "http://img.haihu.com/011601113e1507bdc0a941249ad3208cfad66674.png",
+            "title": "久光制药",
+            "keywords": "食品保健",
+            "cover": "http://img.haihu.com/default.png"
+          }
+        ]
+      },
+      {
+        "desc": "人气手表配饰品牌",
+        "brand_list": [
+          {
+            "brand_id": "95",
+            "avatar": "http://img.haihu.com/01150929a93485fd1f994447b9d38edbb22b30fd.png",
+            "title": "ANNE KLEIN",
+            "keywords": "手表配饰",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "649",
+            "avatar": "http://img.haihu.com/011512160cbce967f55347b89adf015374366433.png",
+            "title": "Invicta",
+            "keywords": "手表配饰",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "561",
+            "avatar": "http://img.haihu.com/0115112433fbc7ab321e4cc59c0d7a0cb6281d85.jpg",
+            "title": "Swarovski",
+            "keywords": "手表配饰",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "312",
+            "avatar": "http://img.haihu.com/011509308d15b9837000477f9642482c6d749623.png",
+            "title": "RADO",
+            "keywords": "手表配饰",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "346",
+            "avatar": "http://img.haihu.com/011509302c0c9096910548cdb16202dab9ccc051.png",
+            "title": "Fossil",
+            "keywords": "手表配饰",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "310",
+            "avatar": "http://img.haihu.com/01150930a3cd1ab1438b469dbd333285054d01d0.png",
+            "title": "Daniel Wellington",
+            "keywords": "手表配饰",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "550",
+            "avatar": "http://img.haihu.com/01151124b031c4a5424f4cad8b10a2fc14a3e0a1.png",
+            "title": "Movado",
+            "keywords": "手表配饰",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "317",
+            "avatar": "http://img.haihu.com/01150930231cfe6846684a95a39dda8360e833e6.png",
+            "title": "Seiko",
+            "keywords": "手表配饰",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "301",
+            "avatar": "http://img.haihu.com/01150930966cf9af89c5468abeac825855e05311.png",
+            "title": "Tissot",
+            "keywords": "手表配饰",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "469",
+            "avatar": "http://img.haihu.com/01151107ad25ff3761294efba167c075cfe60679.png",
+            "title": "CITIZEN",
+            "keywords": "手表配饰",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "308",
+            "avatar": "http://img.haihu.com/011604085e3e37d87e6d47f188c4c78e49a38697.jpg",
+            "title": "CASIO",
+            "keywords": "手表配饰",
+            "cover": "http://img.haihu.com/default.png"
+          }
+        ]
+      },
+      {
+        "desc": "人气箱包手袋品牌",
+        "brand_list": [
+          {
+            "brand_id": "362",
+            "avatar": "http://img.haihu.com/01151026a13acdb98b964cdcb4124bfa3b9066ce.png",
+            "title": "Michael Kors",
+            "keywords": "箱包手袋",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "107",
+            "avatar": "http://img.haihu.com/0116052639d9d961bb004238862c8d6531f60648.png",
+            "title": "kate spade",
+            "keywords": "箱包手袋",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "349",
+            "avatar": "http://img.haihu.com/0115092975c7b64c41494bd3a406d1c984d7f517.png",
+            "title": "Coach",
+            "keywords": "箱包手袋",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "355",
+            "avatar": "http://img.haihu.com/0115092936b9fb89cdc847bc9a3adf274b9c6a8f.png",
+            "title": "Furla",
+            "keywords": "箱包手袋",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "352",
+            "avatar": "http://img.haihu.com/0115093059c83ac5da9e432a9ad10e611cd050db.png",
+            "title": "Tommy Hilfiger",
+            "keywords": "箱包手袋",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "344",
+            "avatar": "http://img.haihu.com/01160408f2075dd9d79e47c4b029c3d8faef03e8.jpg",
+            "title": "Calvin Klein",
+            "keywords": "箱包手袋",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "346",
+            "avatar": "http://img.haihu.com/011509302c0c9096910548cdb16202dab9ccc051.png",
+            "title": "Fossil ",
+            "keywords": "箱包手袋",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "354",
+            "avatar": "http://img.haihu.com/0116040807dba5f24ecd4209beed81ff28c1a76e.jpg",
+            "title": "Kipling",
+            "keywords": "箱包手袋",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "347",
+            "avatar": "http://img.haihu.com/011509302df88d6a9ea2480982a1dadc5b200c0b.png",
+            "title": "Herschel Supply Co.",
+            "keywords": "箱包手袋",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "160",
+            "avatar": "http://img.haihu.com/01160408718363e2109a496bbfa95d24e3a308fe.jpg",
+            "title": "Adidas",
+            "keywords": "箱包手袋",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "526",
+            "avatar": "http://img.haihu.com/01151116ced856a5eb79473982193470e4066825.png",
+            "title": "Levi's",
+            "keywords": "箱包手袋",
+            "cover": "http://img.haihu.com/default.png"
+          }
+        ]
+      },
+      {
+        "desc": "人气鞋靴品牌",
+        "brand_list": [
+          {
+            "brand_id": "348",
+            "avatar": "http://img.haihu.com/01150929981c9405783140acbd49d429b2e057d7.png",
+            "title": "Nine west",
+            "keywords": "女鞋",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "77",
+            "avatar": "http://img.haihu.com/011509293efb1186a52441a6b7281af9693c7b8e.png",
+            "title": "ECCO",
+            "keywords": "鞋靴",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "78",
+            "avatar": "http://img.haihu.com/01150929457be2d9a01a457b8ee16d5cba68c2fa.png",
+            "title": "Clarks",
+            "keywords": "鞋靴",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "344",
+            "avatar": "http://img.haihu.com/01160408f2075dd9d79e47c4b029c3d8faef03e8.jpg",
+            "title": "calvin klein",
+            "keywords": "鞋靴",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "406",
+            "avatar": "http://img.haihu.com/01151103a17706c8bf6e4bc8af5b8f189f559dd7.png",
+            "title": "BCBGeneration",
+            "keywords": "女鞋",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "68",
+            "avatar": "http://img.haihu.com/01150929a1c2ba9e106c4f0bb343b2bbd0bc8b76.png",
+            "title": "Crocs",
+            "keywords": "鞋靴",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "160",
+            "avatar": "http://img.haihu.com/01160408718363e2109a496bbfa95d24e3a308fe.jpg",
+            "title": "adidas",
+            "keywords": "运动鞋",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "387",
+            "avatar": "http://img.haihu.com/011510196ebcd1893fd9477288dab81d9ce06a98.png",
+            "title": "adidas originals",
+            "keywords": "运动鞋",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "149",
+            "avatar": "http://img.haihu.com/01150929608664a1b7bc4b91ac852da082d67d4e.png",
+            "title": "ASICS",
+            "keywords": "运动鞋",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "147",
+            "avatar": "http://img.haihu.com/01150929ce71a209169545b38a9f91505a21b3a7.png",
+            "title": "nike",
+            "keywords": "运动鞋",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "156",
+            "avatar": "http://img.haihu.com/01150929946bf9ee529b4425a3673b7471e9adb5.png",
+            "title": "skechers",
+            "keywords": "运动鞋",
+            "cover": "http://img.haihu.com/default.png"
+          }
+        ]
+      },
+      {
+        "desc": "人气母婴玩具品牌",
+        "brand_list": [
+          {
+            "brand_id": "466",
+            "avatar": "http://img.haihu.com/01160408b2e96d75f19543ae816a8060feb0f0d8.jpg",
+            "title": "Pigeon",
+            "keywords": "奶瓶",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "925",
+            "avatar": "http://img.haihu.com/01160219a6110fb55fca4f678cabeb9ecbff326c.jpg",
+            "title": "和光堂",
+            "keywords": "辅食",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "377",
+            "avatar": "http://img.haihu.com/011509297b4977194fd24808826f4467f1f8564f.png",
+            "title": "Munchkin",
+            "keywords": "餐具",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "249",
+            "avatar": "http://img.haihu.com/0115092919f78788f8794d05855b835171224358.png",
+            "title": "comotomo",
+            "keywords": "奶瓶",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "261",
+            "avatar": "http://img.haihu.com/01150929e072b637de1d4884b6daea93d20720cd.png",
+            "title": "Avent",
+            "keywords": "奶瓶奶嘴",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "264",
+            "avatar": "http://img.haihu.com/01150929c49420ca119847eb8e643bed13277818.png",
+            "title": "Lego",
+            "keywords": "玩具",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "268",
+            "avatar": "http://img.haihu.com/01150929122fe7b4b27742a4a32cc47369d9abc3.png",
+            "title": "Fisher-Price",
+            "keywords": "玩具",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "1345",
+            "avatar": "http://img.haihu.com/011602187b6e31ec7fa4436bbfb54ea06c6f7226.jpg",
+            "title": "面包超人",
+            "keywords": "玩具",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "840",
+            "avatar": "http://img.haihu.com/011601180229b775f14c4dbc9303ee4e994d4b38.jpg",
+            "title": "Carter's",
+            "keywords": "童装童鞋",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "518",
+            "avatar": "http://img.haihu.com/0116011826567c6cc95f4f84be9f3e53032d461c.jpg",
+            "title": "Nuk",
+            "keywords": "奶嘴奶瓶",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "244",
+            "avatar": "http://img.haihu.com/01160217f9a0977b81374d8897d25d337a50204e.jpg",
+            "title": "Gerber",
+            "keywords": "米粉辅食",
+            "cover": "http://img.haihu.com/default.png"
+          }
+        ]
+      },
+      {
+        "desc": "人气户外运动品牌",
+        "brand_list": [
+          {
+            "brand_id": "143",
+            "avatar": "http://img.haihu.com/01150929eeec9ac205f9419fb5aaf3a6beff6618.png",
+            "title": "Arc'teryx",
+            "keywords": "户外运动",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "141",
+            "avatar": "http://img.haihu.com/0115092945a9779c3d77469ab03540f5fe0fdbbb.png",
+            "title": "Columbia",
+            "keywords": "户外运动",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "681",
+            "avatar": "http://img.haihu.com/01160104582c9419ba0e4182a208a846a55e8445.jpg",
+            "title": "Jack Wolfskin",
+            "keywords": "户外运动",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "380",
+            "avatar": "http://img.haihu.com/01151009ef59275145aa48ddb165d95df02c7c9b.jpg",
+            "title": "The North Face",
+            "keywords": "户外运动",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "1118",
+            "avatar": "http://img.haihu.com/01160216b9332ff3fcfa4fa08f82822963b7985e.jpg",
+            "title": "Mountain Hardwear",
+            "keywords": "户外运动",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "586",
+            "avatar": "http://img.haihu.com/011511275cd2e49807da47d6bf32e85f23999d2c.png",
+            "title": "MARMOT",
+            "keywords": "户外运动",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "103",
+            "avatar": "http://img.haihu.com/01150929d43d45d59e67468ebb9c4a6f828e83b6.png",
+            "title": "Patagonia",
+            "keywords": "户外运动",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "366",
+            "avatar": "http://img.haihu.com/011509308aa4ca6c1e7e437a866a6960322010b6.png",
+            "title": "GREGORY",
+            "keywords": "户外运动",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "955",
+            "avatar": "http://img.haihu.com/01160120239d24305b0d488e907c9d6e95915dd2.jpg",
+            "title": "Timbuk2",
+            "keywords": "户外运动",
+            "cover": "http://img.haihu.com/default.png"
+          }
+        ]
+      },
+      {
+        "desc": "人气男装品牌",
+        "brand_list": [
+          {
+            "brand_id": "623",
+            "avatar": "http://img.haihu.com/01151208c91bcb14e7944349aba300e739ba5b3e.jpg",
+            "title": "Fred Perry",
+            "keywords": "服装服饰",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "1458",
+            "avatar": "http://img.haihu.com/011511247a45fb063c75426e9647b3ad688439d9.png",
+            "title": "BOSS",
+            "keywords": "服装服饰",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "420",
+            "avatar": "http://img.haihu.com/011511038546a08a72ae45828c7455243443b042.png",
+            "title": "Lucky Brand",
+            "keywords": "服装服饰",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "542",
+            "avatar": "http://img.haihu.com/01151124aa1908253fec4a93a531820edcf09165.jpg",
+            "title": "Original Penguin",
+            "keywords": "服装服饰",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "114",
+            "avatar": "http://img.haihu.com/011509281e48043ccf4b4769b63afb495cbee032.png",
+            "title": "Lacoste",
+            "keywords": "服装服饰",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "358",
+            "avatar": "http://img.haihu.com/0115102197852ba9ae9f4b6299372103a56e4897.jpg",
+            "title": "Nautica",
+            "keywords": "服装服饰",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "526",
+            "avatar": "http://img.haihu.com/01151116ced856a5eb79473982193470e4066825.png",
+            "title": "Levi's",
+            "keywords": "服装服饰",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "394",
+            "avatar": "http://img.haihu.com/01151103fe96372e2dcd4a0ba13a46893260c9a0.jpg",
+            "title": "Ralph Lauren",
+            "keywords": "服装服饰",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "352",
+            "avatar": "http://img.haihu.com/0115093059c83ac5da9e432a9ad10e611cd050db.png",
+            "title": "tommy hilfiger",
+            "keywords": "服装服饰",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "838",
+            "avatar": "http://img.haihu.com/01160118267bbd0e1d4e414c9f1f76b060a9493b.jpg",
+            "title": "U.S. Polo Assn.",
+            "keywords": "服装服饰",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "344",
+            "avatar": "http://img.haihu.com/01160408f2075dd9d79e47c4b029c3d8faef03e8.jpg",
+            "title": "Calvin Klein",
+            "keywords": "服装服饰",
+            "cover": "http://img.haihu.com/default.png"
+          }
+        ]
+      },
+      {
+        "desc": "人气家居生活品牌",
+        "brand_list": [
+          {
+            "brand_id": "183",
+            "avatar": "http://img.haihu.com/011509293b37bbd0069b4904957400e6dea1e02c.png",
+            "title": "ZOJIRUSHI",
+            "keywords": "家居生活",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "195",
+            "avatar": "http://img.haihu.com/011509299380d6fd1c3e42ceb91e809f8ed32463.png",
+            "title": "T-fal",
+            "keywords": "家居生活",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "1059",
+            "avatar": "http://img.haihu.com/011601271e93e72c0c94405f85e1585e4c6f5a9e.jpg",
+            "title": "Le Creuset",
+            "keywords": "家居生活",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "230",
+            "avatar": "http://img.haihu.com/0115092980ab34ca0a834887b10d6195e121b710.png",
+            "title": "totes",
+            "keywords": "家居生活",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "922",
+            "avatar": "http://img.haihu.com/01160119993b25a264cc4d45aa3762edf434959f.jpg",
+            "title": "Kyocera",
+            "keywords": "家居生活",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "201",
+            "avatar": "http://img.haihu.com/01150929ef41a26bbed24069b50fc022847dc229.png",
+            "title": "LAMY",
+            "keywords": "家居生活",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "187",
+            "avatar": "http://img.haihu.com/01150929138b266f6656497286e1a26416181ac8.png",
+            "title": "WMF",
+            "keywords": "家居生活",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "245",
+            "avatar": "http://img.haihu.com/01160408c295311de8f94e4883972493f7f90f77.jpg",
+            "title": "THERMOS",
+            "keywords": "家居生活",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "335",
+            "avatar": "http://img.haihu.com/0115092959fc32b127784c86b00d9a6f6f60f2be.png",
+            "title": "Panasonic",
+            "keywords": "家居生活",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "243",
+            "avatar": "http://img.haihu.com/01150929dccc357abc094119bdbd47a4ba3c0af2.png",
+            "title": "Philips",
+            "keywords": "家居生活",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "185",
+            "avatar": "http://img.haihu.com/011509291ddb7c6b8c404e1b9c52275202667765.png",
+            "title": "tiger",
+            "keywords": "家居生活",
+            "cover": "http://img.haihu.com/default.png"
+          }
+        ]
+      },
+      {
+        "desc": "人气个人护理品牌",
+        "brand_list": [
+          {
+            "brand_id": "341",
+            "avatar": "http://img.haihu.com/011509298773c81f549b46078a12d33619c8dfc8.png",
+            "title": "Braun",
+            "keywords": "剃须刀",
+            "cover": "http://img.haihu.com/011607139ce607f634184f3baba4a6e9cc063b56.jpg"
+          },
+          {
+            "brand_id": "849",
+            "avatar": "http://img.haihu.com/011601195d8c0c43cc724968b3981fca2edb849b.jpg",
+            "title": "KAO",
+            "keywords": "个人护理",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "337",
+            "avatar": "http://img.haihu.com/0115092965fbfa0788c44da39f81d44aff2b75cb.png",
+            "title": "Oral-B",
+            "keywords": "个人护理",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "243",
+            "avatar": "http://img.haihu.com/01150929dccc357abc094119bdbd47a4ba3c0af2.png",
+            "title": "Philips",
+            "keywords": "个人护理",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "1157",
+            "avatar": "http://img.haihu.com/0116021767e0fdb5998a47fc8e7aa9d8a3aa3894.jpg",
+            "title": "Philip B",
+            "keywords": "个人护理",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "455",
+            "avatar": "http://img.haihu.com/0115110653b113a7bd8a4f45bb87e6fcb5832ed8.png",
+            "title": "LION",
+            "keywords": "个人护理",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "2217",
+            "avatar": "http://img.haihu.com/011607250e20bb6cfbc243e2b09d339051d6610e.png",
+            "title": "Refa",
+            "keywords": "个人护理",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "2169",
+            "avatar": "http://img.haihu.com/011608161d5dc3a63bc940c881b1b2b97ad9d15d.png",
+            "title": "AVEDA",
+            "keywords": "个人护理",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "1783",
+            "avatar": "http://img.haihu.com/0116051072a09687daa8410d8c4cd5d7bb1a7846.png",
+            "title": "Sukin",
+            "keywords": "个人护理",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "1338",
+            "avatar": "http://img.haihu.com/01160217f10f8ffb60104c5da5e0d5ce45b1e2bc.jpg",
+            "title": "UNICHARM",
+            "keywords": "个人护理",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "2531",
+            "avatar": "http://img.haihu.com/011609014c86a31cb1d94d92af9a66e05d7ce6c7.png",
+            "title": "Klorane",
+            "keywords": "个人护理",
+            "cover": "http://img.haihu.com/default.png"
+          }
+        ]
+      },
+      {
+        "desc": "人气数码电子品牌",
+        "brand_list": [
+          {
+            "brand_id": "562",
+            "avatar": "http://img.haihu.com/011511249a8b6831ba5e4f62b9aa8fc4c44a3df0.png",
+            "title": "razer",
+            "keywords": "雷蛇",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "222",
+            "avatar": "http://img.haihu.com/01150929de392a4c76ad49b3add32b6371977411.png",
+            "title": "steelseries",
+            "keywords": "赛睿",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "173",
+            "avatar": "http://img.haihu.com/01160126aa24670ad9cf4a37910dcbf20d8e8938.jpg",
+            "title": "Sennheiser",
+            "keywords": "森海塞尔",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "171",
+            "avatar": "http://img.haihu.com/011509292dd3c601ac5943bd8a2d75855fd8ab27.png",
+            "title": "AKG",
+            "keywords": "爱科技",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "166",
+            "avatar": "http://img.haihu.com/011509299517679857504d8c9bf56dbf7b4cb0c3.png",
+            "title": "Canon",
+            "keywords": "佳能",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "1081",
+            "avatar": "http://img.haihu.com/011602028d78750428084c998c07aa88d0780ff8.jpg",
+            "title": "Beats",
+            "keywords": "Beats",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "217",
+            "avatar": "http://img.haihu.com/01150929ad87cee7fdea4852b0a07ed88d7e5041.png",
+            "title": "Bose",
+            "keywords": "博士",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "1056",
+            "avatar": "http://img.haihu.com/0116012711f23a3b829a4c1eb1c8635312017b31.jpg",
+            "title": "Asus",
+            "keywords": "华硕",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "995",
+            "avatar": "http://img.haihu.com/01160122ed4ff1be4c234eb3b9fe697404b9015d.jpg",
+            "title": "Alienware",
+            "keywords": "外星人",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "174",
+            "avatar": "http://img.haihu.com/01150929bce267d4eabb4fb28db7357db0311290.png",
+            "title": "Corsair",
+            "keywords": "海盗船",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "960",
+            "avatar": "http://img.haihu.com/011601207c806ea4b76542c3a2aa7edeeaf73665.jpg",
+            "title": "Jawbone",
+            "keywords": "卓棒",
+            "cover": "http://img.haihu.com/default.png"
+          }
+        ]
+      },
+      {
+        "desc": "人气女装品牌",
+        "brand_list": [
+          {
+            "brand_id": "344",
+            "avatar": "http://img.haihu.com/01160408f2075dd9d79e47c4b029c3d8faef03e8.jpg",
+            "title": "Calvin Klein",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "404",
+            "avatar": "http://img.haihu.com/01151103736ad911c0ed488d94d0bde3bf3efced.png",
+            "title": "BCBGMAXAZRIA",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "420",
+            "avatar": "http://img.haihu.com/011511038546a08a72ae45828c7455243443b042.png",
+            "title": "Lucky Brand",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "1075",
+            "avatar": "http://img.haihu.com/011602023ef6235237ea4dc6a15b265670449b44.jpg",
+            "title": "MICHAEL Michael Kors",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "759",
+            "avatar": "http://img.haihu.com/01160112aa06b0451fbf4bf8940c74c80958a7db.png",
+            "title": "Free People",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "409",
+            "avatar": "http://img.haihu.com/011511038e1b798cf4ed4cf88e467b1f65cba1c5.png",
+            "title": "Vince Camuto",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "112",
+            "avatar": "http://img.haihu.com/011509283d02374fb1e5449c97d4fa577dea56ba.png",
+            "title": "7 For All Mankind",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "1504",
+            "avatar": "http://img.haihu.com/01160304ac2e2c9bebb44e5cab4688d713f732ad.jpg",
+            "title": "NEW LOOK",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "669",
+            "avatar": "http://img.haihu.com/01151228b6233e72bb5840e3b39adb2402ee270b.jpg",
+            "title": "French Connection",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "838",
+            "avatar": "http://img.haihu.com/01160118267bbd0e1d4e414c9f1f76b060a9493b.jpg",
+            "title": "U.S. Polo Assn.",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "628",
+            "avatar": "http://img.haihu.com/011512097ca4f0cba20b4a86a939cae4e71321f7.png",
+            "title": "Theory",
+            "cover": "http://img.haihu.com/default.png"
+          }
+        ]
+      },
+      {
+        "desc": "人气品牌",
+        "brand_list": [
+          {
+            "brand_id": "9",
+            "avatar": "http://img.haihu.com/0115092931d709030fa440fc9d319b89d9a2281c.png",
+            "title": "Estée Lauder",
+            "keywords": "雅诗兰黛",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "11",
+            "avatar": "http://img.haihu.com/0115092993de8031876f4655a6314eb7288b3066.png",
+            "title": "Lancome",
+            "keywords": "兰蔻",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "362",
+            "avatar": "http://img.haihu.com/01151026a13acdb98b964cdcb4124bfa3b9066ce.png",
+            "title": "Michael Kors",
+            "keywords": "mk",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "107",
+            "avatar": "http://img.haihu.com/0116052639d9d961bb004238862c8d6531f60648.png",
+            "title": "kate spade",
+            "keywords": "kate spade",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "243",
+            "avatar": "http://img.haihu.com/01150929dccc357abc094119bdbd47a4ba3c0af2.png",
+            "title": "Philips",
+            "keywords": "飞利浦",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "160",
+            "avatar": "http://img.haihu.com/01160408718363e2109a496bbfa95d24e3a308fe.jpg",
+            "title": "Adidas",
+            "keywords": "阿迪达斯",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "348",
+            "avatar": "http://img.haihu.com/01150929981c9405783140acbd49d429b2e057d7.png",
+            "title": "Nine West",
+            "keywords": "Nine West",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "1338",
+            "avatar": "http://img.haihu.com/01160217f10f8ffb60104c5da5e0d5ce45b1e2bc.jpg",
+            "title": "UNICHARM",
+            "keywords": "尤妮佳",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "731",
+            "avatar": "http://img.haihu.com/011601111a39f44e589c4c4da15a20a9dbf85b3b.gif",
+            "title": "参天制药",
+            "keywords": "参天制药",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "138",
+            "avatar": "http://img.haihu.com/011601277acd9e55b34c4b739a71fdf880f4db7e.jpg",
+            "title": "GNC",
+            "keywords": "GNC",
+            "cover": "http://img.haihu.com/default.png"
+          },
+          {
+            "brand_id": "249",
+            "avatar": "http://img.haihu.com/0115092919f78788f8794d05855b835171224358.png",
+            "title": "comotomo",
+            "keywords": "comotomo",
+            "cover": "http://img.haihu.com/default.png"
+          }
+        ]
+      }
+    ],
+    "hot_placeholder": "搜索你想要的商品"
+  },
+  "common": {
+    "status": "100"
+  }
+}

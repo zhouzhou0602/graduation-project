@@ -1,0 +1,199 @@
+@charset"utf-8";
+*{
+	padding:0;
+	margin:0;
+}
+a{
+	text-decoration: none;
+}
+ul li{
+	list-style: none;
+}
+/*头部信息样式*/
+.home_daily_header{
+	width: 100%;
+	height: .51rem;
+	background-color: white;
+	font-size: .16rem;
+	position: fixed;
+	top: 0;
+	border-bottom: 1px solid #ddd;
+}
+.home_daily_header span{
+	float: left;
+	line-height: .51rem;
+	vertical-align: middle;
+}
+.home_daily_header span:first-of-type{
+	font-size: .2rem;
+	margin-left: .1rem;
+	color: #999;
+
+}
+.home_daily_header span:last-of-type{
+	margin-left: 1.1rem;
+	font-size: .2rem;
+}
+.home_daily_header img{
+	float: right;
+	width:.3rem;
+	line-height: .51rem;
+	margin-top: .1rem;
+	margin-right: .2rem;
+}
+
+/*积分样式*/
+.home_daily_score{
+	width: 100%;
+	height: 1.8rem;
+	padding-top: .01rem;
+	font-size: .16rem;
+	margin-top: .51rem;
+	border-bottom: 1px solid #999;
+}
+.home_daily_score>span{
+	float: right;
+	margin-right: .2rem;
+	font-size: .12rem;
+	margin-top: .1rem;
+}
+.home_daily_score>span>span{
+	margin-left: .05rem;
+}
+.home_daily_score p:first-of-type{
+	margin: .4rem auto 0 auto;
+	width: .2rem;
+}
+.home_daily_score p:nth-of-type(2){
+	width: 1.5rem;
+	margin: .1rem auto 0 auto;
+}
+.home_daily_score p:nth-of-type(2) span{
+	color: red;
+	padding:.05rem;
+}
+
+.home_daily_score a{
+	width: 1.7rem;
+	display: block;
+	height: .3rem;
+	background-color:#FF3232;
+	border-radius: .2rem;
+	line-height: .3rem;
+	margin:.2rem auto 0 auto;
+	text-align: center;
+	color: white;
+	font-size: .14rem;
+}
+.home_daily_score p:last-of-type{
+	font-size: .12rem;
+	color: #999;
+	margin-top: .2rem;
+	margin-left: .1rem;
+}
+/*积分兑换样式*/
+
+.home_daily_change{
+	width: 100%;
+	font-size: .14rem;
+}
+
+.home_daily_change .home_daily_dui{
+	float: right;
+	color: #999;
+	font-size: .12rem;
+	margin-right: .1rem;
+	margin-top: .15rem;
+}
+
+.home_daily_change .home_daily_imgs{
+	width: 100%;
+	float: left;
+	margin-top: .1rem;
+}
+.home_daily_change .home_daily_imgs:first-of-type{
+	margin-top: .3rem;
+}
+.home_daily_change .home_daily_imgs img{
+	width: 1.5rem;
+	margin-left: .3rem;
+}
+/*清除浮动*/
+.home_daily_change .home_daily_clear{
+	clear: both;
+}
+
+/*积分兑换商品*/
+.home_daily_goods{
+	width: 100%;
+	font-size: .14rem;
+	margin-top: .2rem;
+	margin-bottom: .53rem;
+}
+.home_daily_goods .home_daily_goods_ims{
+	width: 100%;
+	height: .4rem;
+	color: #333;
+	line-height: .4rem;
+	text-align: center;
+}
+
+.home_daily_goods .home_daily_goods_list{
+	width: 100%;
+	height: 1.5rem;
+	margin-top: .1rem;
+	margin-left: .2rem;
+	border-top:1px solid #ddd;
+}
+.home_daily_goods .home_daily_goods_list dt {
+	float: left;
+	width: 1.6rem;
+	height: 1.5rem;
+}
+.home_daily_goods .home_daily_goods_list dt img{
+	width: 1.4em;
+	height: 1.4rem;
+	vertical-align: middle;
+	margin-top: .05rem;
+}
+.home_daily_goods .home_daily_goods_list dd{
+	float: left;
+	width: 2rem;
+}
+.home_daily_goods .home_daily_goods_list dt img{
+	width: 1.6rem;
+}
+.home_daily_goods .home_daily_goods_list dd{
+	font-size: .14rem;
+	margin-top: .1rem;
+	margin-left: .1rem;
+}
+.home_daily_goods .home_daily_goods_list dd:first-of-type{
+	word-spacing: nowrap;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	height: .4rem;
+	width: 1.6rem;
+	margin-top: .2rem;
+}
+.home_daily_goods .home_daily_goods_list dd:nth-of-type(2) span:last-of-type{
+	margin-left: .05rem;
+	display: inline-block;
+	color: #666;
+	font-size: .12rem;
+}
+.home_daily_goods .home_daily_goods_list dd:last-of-type{
+	margin-top: .3rem;
+}
+
+.home_daily_goods .home_daily_goods_list dd a{
+	display: inline-block;
+	width: 1.7rem;
+	height: .3rem;
+	background-color: #FF3232;
+	text-align: center;
+	line-height: .3rem;
+	color: white;
+	border-radius: .05rem;
+	font-size: .16rem;
+}

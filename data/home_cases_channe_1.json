@@ -1,0 +1,1440 @@
+{
+  "operation": {
+    "category_list": [
+      {
+        "category_id": "-1",
+        "category_name": "热门"
+      },
+      {
+        "category_id": "2",
+        "category_name": "美妆护肤",
+        "category_img": "http://img.haihu.com/01160628a575185649854b98a5bafd1d9978e826.png",
+        "category_summary": "护肤、美发"
+      },
+      {
+        "category_id": "3",
+        "category_name": "食品保健",
+        "category_img": "http://img.haihu.com/01160331e5964eb3a1b9419b862667a546f21dee.png",
+        "category_summary": "奶粉、奶瓶"
+      },
+      {
+        "category_id": "6",
+        "category_name": "箱包手袋",
+        "category_img": "http://img.haihu.com/011507240fd4bf2213014472bc75a06b94bc5115.png",
+        "category_summary": "链条包、钱包"
+      },
+      {
+        "category_id": "5",
+        "category_name": "鞋靴",
+        "category_img": "http://img.haihu.com/0115072471e98ee3339441a897f3167a06871ae4.png",
+        "category_summary": "女鞋、男鞋"
+      },
+      {
+        "category_id": "8",
+        "category_name": "手表配饰",
+        "category_img": "http://img.haihu.com/0115072406933bf810d849f49b9b5439140fbd83.png",
+        "category_summary": "手表、墨镜"
+      },
+      {
+        "category_id": "1",
+        "category_name": "母婴玩具",
+        "category_img": "http://img.haihu.com/0116033170b10edb36c64d929925db692e60f2bf.png",
+        "category_summary": "奶粉、奶瓶"
+      },
+      {
+        "category_id": "1108",
+        "category_name": "个人护理",
+        "category_img": "http://img.haihu.com/011603317acebb65293c42b3a881c152ba32fd46.png",
+        "category_summary": "美发，护理"
+      },
+      {
+        "category_id": "1168",
+        "category_name": "女装",
+        "category_img": "http://img.haihu.com/default.png"
+      },
+      {
+        "category_id": "4",
+        "category_name": "男装",
+        "category_img": "http://img.haihu.com/01150724ee61014129964beab6aaf123d6578d84.png",
+        "category_summary": "奶粉、奶瓶"
+      },
+      {
+        "category_id": "10",
+        "category_name": "户外运动",
+        "category_img": "http://img.haihu.com/0115072496ee46a1170c4961ad72dce370966251.png",
+        "category_summary": "跑步鞋、装备"
+      },
+      {
+        "category_id": "7",
+        "category_name": "家居生活",
+        "category_img": "http://img.haihu.com/011603314a93be763ad4400583781f3a8a4f2bab.png",
+        "category_summary": "水杯、净水壶"
+      }
+    ],
+    "theme_list": [
+      {
+        "type": "slide",
+        "action_image_list": [
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/011703012d2ad015c79846b08db74d6c4a4da0c8.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=4655",
+              "title": "",
+              "type": "wap"
+            },
+            "forPeople": 0,
+            "channel": "",
+            "version": ""
+          },
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/01170206f914f3d328c447fb87b6236c2f25c4b1.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=4275",
+              "title": "",
+              "type": "wap"
+            },
+            "forPeople": 0,
+            "channel": "",
+            "version": ""
+          },
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/0117022344d4dcfee8434eafa932c90c4f415726.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=4567",
+              "title": "",
+              "type": "wap"
+            },
+            "forPeople": 0,
+            "channel": "",
+            "version": ""
+          },
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/0117020698476bd1e82b493cb79801ac43f4bc40.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=4271",
+              "title": "",
+              "type": "wap"
+            },
+            "forPeople": 0,
+            "channel": "",
+            "version": ""
+          },
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/011702062f8222869f474795bc1c9614d50115e3.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=4168",
+              "title": "",
+              "type": "wap"
+            },
+            "forPeople": 0,
+            "channel": "",
+            "version": ""
+          }
+        ],
+        "sortNum": -100
+      },
+      {
+        "title": "热门分类",
+        "type": "category_nav",
+        "categories": [
+          {
+            "category_name": "单肩包",
+            "category_img": "http://img.haihu.com/01170207523e63fc0e034a3fb200a08d7f1d5f28.png",
+            "search_keys": "{\"694\":\"女单肩包/斜挎包\"}",
+            "search_arg": "{\"category_info\":{\"694\":\"女单肩包/斜挎包\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "手提包",
+            "category_img": "http://img.haihu.com/011702076087fb46eaf1475f9e4713cb189c5577.png",
+            "search_keys": "{\"695\":\"女士手提包\"}",
+            "search_arg": "{\"category_info\":{\"695\":\"女士手提包\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "双肩包",
+            "category_img": "http://img.haihu.com/01170207980ba37edd29425bb16d1c4ab1148993.png",
+            "search_keys": "{\"953\":\"双肩包\"}",
+            "search_arg": "{\"category_info\":{\"953\":\"双肩包\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "女士钱包",
+            "category_img": "http://img.haihu.com/01170207f57503484197477797ee5bbc1e76def6.png",
+            "search_keys": "{\"705\":\"女士钱包\"}",
+            "search_arg": "{\"category_info\":{\"705\":\"女士钱包\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "男士钱包",
+            "category_img": "http://img.haihu.com/0117020715a0a54b30e74ed3929c1f8f82895a57.png",
+            "search_keys": "{\"704\":\"男士钱包\"}",
+            "search_arg": "{\"category_info\":{\"704\":\"男士钱包\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "行李箱",
+            "category_img": "http://img.haihu.com/011608195837acc304b74e96b7b7156c2454338c.jpg",
+            "search_keys": "{\"710\":\"拉杆箱\"}",
+            "search_arg": "{\"category_info\":{\"710\":\"拉杆箱\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "女士手包",
+            "category_img": "http://img.haihu.com/01170207f2331932a2f8482bac0b66e7cc2bc3b7.png",
+            "search_keys": "{\"696\":\"女式手包\"}",
+            "search_arg": "{\"category_info\":{\"696\":\"女式手包\"},\"source_type\":\"4\"}"
+          }
+        ],
+        "sortNum": -90
+      },
+      {
+        "themeBannerId": "204529",
+        "title": "",
+        "type": "category_2col",
+        "action_image_list": [
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/01170111c8f5c148a83143bd8a634054452f7edc.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=2653",
+              "title": "",
+              "type": "wap"
+            },
+            "height": "194",
+            "width": "375"
+          },
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/01170111ad1d260ad081446dbd3c85462fc2869d.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=2081",
+              "title": "",
+              "type": "wap"
+            },
+            "height": "194",
+            "width": "375"
+          }
+        ],
+        "bgcolor": "",
+        "sortNum": 0
+      },
+      {
+        "type": "global_discount",
+        "sortNum": 1,
+        "global_discount": {
+          "title": "Ralph Lauren美国官网额外7折",
+          "title_color": "#212121",
+          "count_desc": "33件畅销商品 >",
+          "count_desc_color": "#9B9B9B",
+          "bg_color": "",
+          "count_down_color": "#D0021B",
+          "goods_list": [
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/011605173e8fb155ef6241d0a2f1e09e78ca074d.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/011608155e9ad77d78e74abf940377cdb45916c2.png",
+              "mall_name": "ralphlauren",
+              "title": "Ralph Lauren拉夫·劳伦 女士黑色真皮手提包",
+              "short_title": "真皮纯色HOBO",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4096952_4096953",
+                "original_price_rmb": "1847.75",
+                "native_price_unit": "$",
+                "current_price_rmb": "627.36",
+                "image_url": "http://img.haihu.com/01161227eadbe749f0dd40ca9c930c24bbf2dcf1.png",
+                "native_express_fee": "55.16",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "841.67",
+                "tag_price": "2553.65",
+                "restore_price": "1141.45",
+                "free_tax_price": 627.36,
+                "sku_add_price": 62.74,
+                "insurancePrice": "9.41",
+                "taxPrice": "188.21",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "6253688",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1012057",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "Ralph Lauren额外7折",
+                  "desc": "降价299.78",
+                  "system_time": "1488332456917",
+                  "start_time": "2017-02-24 00:00:00",
+                  "end_time": "2017-03-12 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/011605173e8fb155ef6241d0a2f1e09e78ca074d.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/011608155e9ad77d78e74abf940377cdb45916c2.png",
+              "mall_name": "ralphlauren",
+              "title": "Lauren拉夫·劳伦 女士斜挎包",
+              "short_title": "迷你气质斜挎包",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4253224_4253225",
+                "original_price_rmb": "1020.40",
+                "native_price_unit": "$",
+                "current_price_rmb": "714.28",
+                "image_url": "http://img.haihu.com/01170108c1a7b77a44a345d6ac921cb5e97e3098.png",
+                "native_express_fee": "55.16",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "938.58",
+                "tag_price": "1479.39",
+                "restore_price": "1279.91",
+                "free_tax_price": 714.28,
+                "sku_add_price": 71.43,
+                "insurancePrice": "10.71",
+                "taxPrice": "214.28",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "6655177",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1036835",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "Ralph Lauren额外7折",
+                  "desc": "降价341.33",
+                  "system_time": "1488332456938",
+                  "start_time": "2017-02-24 00:00:00",
+                  "end_time": "2017-03-02 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/011605173e8fb155ef6241d0a2f1e09e78ca074d.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/011608155e9ad77d78e74abf940377cdb45916c2.png",
+              "mall_name": "ralphlauren",
+              "title": "Lauren拉夫·劳伦 Pebbled Leather Gabbi 女士链条单肩包",
+              "short_title": "淑女链条包",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4599478_4599479",
+                "original_price_rmb": "1365.13",
+                "native_price_unit": "$",
+                "current_price_rmb": "955.59",
+                "image_url": "http://img.haihu.com/0117022443a1583d57034ab8be735e1211b82efc.png",
+                "native_express_fee": "55.16",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "1207.64",
+                "tag_price": "1931.16",
+                "restore_price": "1664.28",
+                "free_tax_price": 955.59,
+                "sku_add_price": 95.56,
+                "insurancePrice": "14.33",
+                "taxPrice": "286.68",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7509494",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1105027",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "Ralph Lauren额外7折",
+                  "desc": "降价456.64",
+                  "system_time": "1488332456959",
+                  "start_time": "2017-02-24 00:00:00",
+                  "end_time": "2017-03-02 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/011605173e8fb155ef6241d0a2f1e09e78ca074d.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/011608155e9ad77d78e74abf940377cdb45916c2.png",
+              "mall_name": "ralphlauren",
+              "title": "Lauren拉夫·劳伦 Leather Diana 女士抽绳托特包",
+              "short_title": "百搭抽绳托特",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4252377_4252378",
+                "original_price_rmb": "1847.75",
+                "native_price_unit": "$",
+                "current_price_rmb": "1293.43",
+                "image_url": "http://img.haihu.com/01170108ccdc6686341e4ecb85d55efb889ba74a.png",
+                "native_express_fee": "55.16",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "1584.33",
+                "tag_price": "2563.64",
+                "restore_price": "2202.41",
+                "free_tax_price": 1293.43,
+                "sku_add_price": 129.34,
+                "insurancePrice": "19.40",
+                "taxPrice": "388.03",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "6653543",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1036636",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "Ralph Lauren额外7折",
+                  "desc": "降价618.08",
+                  "system_time": "1488332456987",
+                  "start_time": "2017-02-24 00:00:00",
+                  "end_time": "2017-03-02 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/011605173e8fb155ef6241d0a2f1e09e78ca074d.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/011608155e9ad77d78e74abf940377cdb45916c2.png",
+              "mall_name": "ralphlauren",
+              "title": "Lauren拉夫·劳伦 女士气质单肩包",
+              "short_title": "通勤百搭",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4389551_4389552",
+                "original_price_rmb": "1847.75",
+                "native_price_unit": "$",
+                "current_price_rmb": "1293.43",
+                "image_url": "http://img.haihu.com/011701086dd74c565f494c0f95bf694546d5bfb6.jpg",
+                "native_express_fee": "55.16",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "1584.33",
+                "tag_price": "2563.64",
+                "restore_price": "2202.41",
+                "free_tax_price": 1293.43,
+                "sku_add_price": 129.34,
+                "insurancePrice": "19.40",
+                "taxPrice": "388.03",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "6989005",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1071441",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "Ralph Lauren额外7折",
+                  "desc": "降价618.08",
+                  "system_time": "1488332457009",
+                  "start_time": "2017-02-24 00:00:00",
+                  "end_time": "2017-03-02 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/011605173e8fb155ef6241d0a2f1e09e78ca074d.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/011608155e9ad77d78e74abf940377cdb45916c2.png",
+              "mall_name": "ralphlauren",
+              "title": "POLO Ralph Lauren拉夫·劳伦 女士气质手提包单肩包",
+              "short_title": "17潮款包包",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4599398_4599399",
+                "original_price_rmb": "2054.59",
+                "native_price_unit": "$",
+                "current_price_rmb": "1438.21",
+                "image_url": "http://img.haihu.com/01170224ff4355364fda4ccaaf53d34cbbf03ee0.jpg",
+                "native_express_fee": "55.16",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "1745.76",
+                "tag_price": "2834.70",
+                "restore_price": "2433.03",
+                "free_tax_price": 1438.21,
+                "sku_add_price": 143.82,
+                "insurancePrice": "21.57",
+                "taxPrice": "431.46",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7509502",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1104982",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "Ralph Lauren额外7折",
+                  "desc": "降价687.27",
+                  "system_time": "1488332457032",
+                  "start_time": "2017-02-24 00:00:00",
+                  "end_time": "2017-03-02 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            }
+          ],
+          "start_time": "1487904471000",
+          "end_time": "1488420000000",
+          "system_time": "1488332581990",
+          "navigator": {
+            "type": "0",
+            "key": "wap",
+            "args": "{\"url\":\"http://expand.haihu.com/html/discount/discountTheme.html?theme_id=4639\",\"extra_login_data\":\"1\"}"
+          },
+          "theme_id": "4639"
+        }
+      },
+      {
+        "type": "global_discount",
+        "sortNum": 2,
+        "global_discount": {
+          "title": "shopbop三月大促 包包新品8.5折",
+          "title_color": "#212121",
+          "count_desc": "21件畅销商品 >",
+          "count_desc_color": "#9B9B9B",
+          "bg_color": "",
+          "count_down_color": "#D0021B",
+          "goods_list": [
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160111ad4d9b767edd4f5993af360d6a38dd34.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815e28179ef5bda41348b8afe7ab8e49f9f.png",
+              "mall_name": "shopbop",
+              "title": "Furla芙拉 Stacy 女士迷你束带桶包",
+              "short_title": "芙拉温柔粉桶包",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4676215_4676216",
+                "original_price_rmb": "1916.70",
+                "native_price_unit": "$",
+                "current_price_rmb": "1629.20",
+                "image_url": "http://img.haihu.com/01170228c8ce6132514e4ddcb9f241cc8c1b9786.png",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "1903.56",
+                "tag_price": "2603.15",
+                "restore_price": "2224.12",
+                "free_tax_price": 1629.2,
+                "sku_add_price": 162.92,
+                "insurancePrice": "24.44",
+                "taxPrice": "488.76",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7591485",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1115412",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "shopbop三月大促",
+                  "desc": "降价320.56",
+                  "system_time": "1488332444542",
+                  "start_time": "2017-02-28 00:00:00",
+                  "end_time": "2017-03-15 17:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160111ad4d9b767edd4f5993af360d6a38dd34.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815e28179ef5bda41348b8afe7ab8e49f9f.png",
+              "mall_name": "shopbop",
+              "title": "Furla芙拉 Capriccio 女士相机包斜挎包",
+              "short_title": "简约相机包",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4676133_4676134",
+                "original_price_rmb": "1709.86",
+                "native_price_unit": "$",
+                "current_price_rmb": "1453.38",
+                "image_url": "http://img.haihu.com/01170228f81a556b59cf423896b2a92080cebb47.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "1707.52",
+                "tag_price": "2331.62",
+                "restore_price": "1993.50",
+                "free_tax_price": 1453.38,
+                "sku_add_price": 145.34,
+                "insurancePrice": "21.80",
+                "taxPrice": "436.01",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7591446",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1115387",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "shopbop三月大促",
+                  "desc": "降价285.98",
+                  "system_time": "1488332444563",
+                  "start_time": "2017-02-28 00:00:00",
+                  "end_time": "2017-03-15 17:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160111ad4d9b767edd4f5993af360d6a38dd34.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815e28179ef5bda41348b8afe7ab8e49f9f.png",
+              "mall_name": "shopbop",
+              "title": "Rebecca Minkoff瑞贝卡明可弗 Regan 女士小号通勤包单肩包",
+              "short_title": "欧美当红休闲包",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4676142_4676143",
+                "original_price_rmb": "1551.29",
+                "native_price_unit": "$",
+                "current_price_rmb": "1318.60",
+                "image_url": "http://img.haihu.com/011702280ec97cadacec4b488052dd9e87ef7917.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "1557.24",
+                "tag_price": "2123.46",
+                "restore_price": "1816.69",
+                "free_tax_price": 1318.6,
+                "sku_add_price": 131.86,
+                "insurancePrice": "19.78",
+                "taxPrice": "395.58",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7591501",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1115391",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "shopbop三月大促",
+                  "desc": "降价259.45",
+                  "system_time": "1488332444584",
+                  "start_time": "2017-02-28 00:00:00",
+                  "end_time": "2017-03-15 17:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160111ad4d9b767edd4f5993af360d6a38dd34.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815e28179ef5bda41348b8afe7ab8e49f9f.png",
+              "mall_name": "shopbop",
+              "title": "Zac Posen Eartha 女士印花迷你斜挎包",
+              "short_title": "一见钟情的包",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4419996_4419997",
+                "original_price_rmb": "2033.91",
+                "native_price_unit": "$",
+                "current_price_rmb": "1728.82",
+                "image_url": "http://img.haihu.com/01170228602cc7d4c2234c44a2305c49cb7f470e.png",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "2014.63",
+                "tag_price": "2757.01",
+                "restore_price": "2354.81",
+                "free_tax_price": 1728.82,
+                "sku_add_price": 172.88,
+                "insurancePrice": "25.93",
+                "taxPrice": "518.65",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7054873",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1085142",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "shopbop三月大促",
+                  "desc": "降价340.18",
+                  "system_time": "1488332444606",
+                  "start_time": "2017-02-28 00:00:00",
+                  "end_time": "2017-03-15 17:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160111ad4d9b767edd4f5993af360d6a38dd34.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815e28179ef5bda41348b8afe7ab8e49f9f.png",
+              "mall_name": "shopbop",
+              "title": "Marc Jacobs马克雅各布 Exclusive Snapshot 女士相机包",
+              "short_title": "新款彩虹相机包",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4676131_4676132",
+                "original_price_rmb": "2413.11",
+                "native_price_unit": "$",
+                "current_price_rmb": "2051.14",
+                "image_url": "http://img.haihu.com/011702280cb784e3dffd46559636f39cec7a8d83.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "2374.02",
+                "tag_price": "3254.81",
+                "restore_price": "2777.62",
+                "free_tax_price": 2051.14,
+                "sku_add_price": 205.11,
+                "insurancePrice": "30.77",
+                "taxPrice": "615.34",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7591445",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1115386",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "shopbop三月大促",
+                  "desc": "降价403.60",
+                  "system_time": "1488332444628",
+                  "start_time": "2017-02-28 00:00:00",
+                  "end_time": "2017-03-15 17:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160111ad4d9b767edd4f5993af360d6a38dd34.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815e28179ef5bda41348b8afe7ab8e49f9f.png",
+              "mall_name": "shopbop",
+              "title": "Cambridge Satchel剑桥包 女士英伦风斜挎包",
+              "short_title": "英伦剑桥包",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4676127_4676128",
+                "original_price_rmb": "2068.38",
+                "native_price_unit": "$",
+                "current_price_rmb": "1758.12",
+                "image_url": "http://img.haihu.com/0117022828e49dd81fbd40a78d385b7a74c82a3d.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "2047.30",
+                "tag_price": "2802.27",
+                "restore_price": "2393.25",
+                "free_tax_price": 1758.12,
+                "sku_add_price": 175.81,
+                "insurancePrice": "26.37",
+                "taxPrice": "527.44",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7591443",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1115384",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "shopbop三月大促",
+                  "desc": "降价345.95",
+                  "system_time": "1488332444648",
+                  "start_time": "2017-02-28 00:00:00",
+                  "end_time": "2017-03-15 17:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            }
+          ],
+          "start_time": "1488254149000",
+          "end_time": "1488704400000",
+          "system_time": "1488332581993",
+          "navigator": {
+            "type": "0",
+            "key": "wap",
+            "args": "{\"url\":\"http://expand.haihu.com/html/discount/discountTheme.html?theme_id=4661\",\"extra_login_data\":\"1\"}"
+          },
+          "theme_id": "4661"
+        }
+      },
+      {
+        "type": "global_discount",
+        "sortNum": 3,
+        "global_discount": {
+          "title": "6PM包包上新 ",
+          "title_color": "#212121",
+          "count_desc": "17件畅销商品 >",
+          "count_desc_color": "#9B9B9B",
+          "bg_color": "",
+          "count_down_color": "#D0021B",
+          "goods_list": [
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160815c2dbe542380b4954bf93e7559945ce7c.jpg",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/011608155d50a20a63fe4f01930b9b3a302ca12f.png",
+              "mall_name": "6pm",
+              "title": "Frye Fay 女士束带手提包单肩包",
+              "short_title": "真皮束带单肩包",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4677385",
+                "original_price_rmb": "2675.10",
+                "native_price_unit": "$",
+                "current_price_rmb": "1378.85",
+                "image_url": "http://img.haihu.com/01160412d80bf6d716a84249ad9ac1b88e0b5744.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "1624.42",
+                "tag_price": "3585.31",
+                "restore_price": "2008.77",
+                "free_tax_price": 1378.85,
+                "sku_add_price": 137.89,
+                "insurancePrice": "20.68",
+                "taxPrice": "413.66",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7593945",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1115480",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "6pm包包",
+                  "desc": "降价384.35",
+                  "system_time": "1488332497786",
+                  "start_time": "2017-02-28 00:00:00",
+                  "end_time": "2017-03-12 23:59:59",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160815c2dbe542380b4954bf93e7559945ce7c.jpg",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/011608155d50a20a63fe4f01930b9b3a302ca12f.png",
+              "mall_name": "6pm",
+              "title": "Timberland添柏岚 Hunter 男士简约短款两折真皮钱包",
+              "short_title": "真皮男士钱包",
+              "status": "0",
+              "selected_sku": {
+                "seq": "2943921",
+                "original_price_rmb": "379.20",
+                "native_price_unit": "$",
+                "current_price_rmb": "124.03",
+                "image_url": "http://img.haihu.com/011609083d89f3b87caa4e13be2849f07ec558d4.png",
+                "native_express_fee": "27.23",
+                "forward_fee": "30.00",
+                "weight": "200",
+                "status": "0",
+                "fixed_price": "205.22",
+                "tag_price": "579.98",
+                "restore_price": "241.55",
+                "free_tax_price": 100,
+                "sku_add_price": 21.26,
+                "insurancePrice": "2.70",
+                "taxPrice": "30.00",
+                "modeType": "normal",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "4358280",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "732827",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "6pm包包",
+                  "desc": "降价36.33",
+                  "system_time": "1488332497807",
+                  "start_time": "2017-02-28 00:00:00",
+                  "end_time": "2017-03-12 23:59:59",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160815c2dbe542380b4954bf93e7559945ce7c.jpg",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/011608155d50a20a63fe4f01930b9b3a302ca12f.png",
+              "mall_name": "6pm",
+              "title": "Lodis Accessories Stephanie 女士简约通勤手提包单肩包",
+              "short_title": "简约斜挎小方包",
+              "status": "0",
+              "selected_sku": {
+                "seq": "3494357",
+                "original_price_rmb": "1640.91",
+                "native_price_unit": "$",
+                "current_price_rmb": "661.81",
+                "image_url": "http://img.haihu.com/011604131889a1a136b04972acc164670055691f.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "824.92",
+                "tag_price": "2230.11",
+                "restore_price": "1009.40",
+                "free_tax_price": 661.81,
+                "sku_add_price": 66.18,
+                "insurancePrice": "9.93",
+                "taxPrice": "198.54",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "5386112",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "887230",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "6pm包包",
+                  "desc": "降价184.48",
+                  "system_time": "1488332497829",
+                  "start_time": "2017-02-28 00:00:00",
+                  "end_time": "2017-03-12 23:59:59",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160815c2dbe542380b4954bf93e7559945ce7c.jpg",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/011608155d50a20a63fe4f01930b9b3a302ca12f.png",
+              "mall_name": "6pm",
+              "title": "LOVE Moschino莫斯奇诺 Quilted Envelope 女士甜美斜挎包",
+              "short_title": "甜美爱心包",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4677383",
+                "original_price_rmb": "1861.54",
+                "native_price_unit": "$",
+                "current_price_rmb": "1123.75",
+                "image_url": "http://img.haihu.com/01170105565cb46d28aa4395b6bd45d35977e6a7.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "1339.99",
+                "tag_price": "2523.86",
+                "restore_price": "1653.23",
+                "free_tax_price": 1123.75,
+                "sku_add_price": 112.38,
+                "insurancePrice": "16.86",
+                "taxPrice": "337.13",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7593942",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1115479",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "6pm包包",
+                  "desc": "降价313.24",
+                  "system_time": "1488332497849",
+                  "start_time": "2017-02-28 00:00:00",
+                  "end_time": "2017-03-12 23:59:59",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160815c2dbe542380b4954bf93e7559945ce7c.jpg",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/011608155d50a20a63fe4f01930b9b3a302ca12f.png",
+              "mall_name": "6pm",
+              "title": "瑞贝卡明可弗Rebecca Minkoff迷你Love斜挎包",
+              "short_title": "经典LOVE",
+              "status": "0",
+              "selected_sku": {
+                "seq": "2636702",
+                "original_price_rmb": "1344.45",
+                "native_price_unit": "$",
+                "current_price_rmb": "817.77",
+                "image_url": "http://img.haihu.com/01160412d89bb59d0a334c22bfeeda5281b02860.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "998.82",
+                "tag_price": "1847.06",
+                "restore_price": "1226.76",
+                "free_tax_price": 817.77,
+                "sku_add_price": 81.78,
+                "insurancePrice": "12.27",
+                "taxPrice": "245.33",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "3652375",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "320049",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "6pm包包",
+                  "desc": "降价227.94",
+                  "system_time": "1488332497870",
+                  "start_time": "2017-02-28 00:00:00",
+                  "end_time": "2017-03-12 23:59:59",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160815c2dbe542380b4954bf93e7559945ce7c.jpg",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/011608155d50a20a63fe4f01930b9b3a302ca12f.png",
+              "mall_name": "6pm",
+              "title": "COACH蔻驰 Signature 女士经典花纹手提包单肩包",
+              "short_title": "蔻驰印花包",
+              "status": "0",
+              "selected_sku": {
+                "seq": "3305185",
+                "original_price_rmb": "2413.11",
+                "native_price_unit": "$",
+                "current_price_rmb": "1103.07",
+                "image_url": "http://img.haihu.com/0116111575e60590c34d46e29e6857c993dbc7fd.png",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "1316.93",
+                "tag_price": "3240.59",
+                "restore_price": "1624.40",
+                "free_tax_price": 1103.07,
+                "sku_add_price": 110.31,
+                "insurancePrice": "16.55",
+                "taxPrice": "330.92",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "5003681",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "823753",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "6pm包包",
+                  "desc": "降价307.47",
+                  "system_time": "1488332497893",
+                  "start_time": "2017-02-28 00:00:00",
+                  "end_time": "2017-03-12 23:59:59",
+                  "dimension": "goods"
+                }
+              ]
+            }
+          ],
+          "start_time": "1488254149000",
+          "end_time": "1488470399000",
+          "system_time": "1488332581996",
+          "navigator": {
+            "type": "0",
+            "key": "wap",
+            "args": "{\"url\":\"http://expand.haihu.com/html/discount/discountTheme.html?theme_id=4670\",\"extra_login_data\":\"1\"}"
+          },
+          "theme_id": "4670"
+        }
+      },
+      {
+        "type": "global_discount",
+        "sortNum": 3,
+        "global_discount": {
+          "title": "Jomashop精选Michael kors低至658元",
+          "title_color": "#212121",
+          "count_desc": "24件畅销商品 >",
+          "count_desc_color": "#9B9B9B",
+          "bg_color": "",
+          "count_down_color": "#D0021B",
+          "goods_list": [
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/0116060257933c1582da4bde86ddeaa8aa347249.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/011608156439d23f265144808afca6a55c5573ff.png",
+              "mall_name": "jomashop",
+              "title": "Michael Kors迈克高仕Jet Set Large Phone 女士斜挎包",
+              "short_title": "时尚翻盖单肩包",
+              "status": "0",
+              "selected_sku": {
+                "seq": "#",
+                "original_price_rmb": "799.77",
+                "native_price_unit": "$",
+                "current_price_rmb": "730.76",
+                "image_url": "http://img.haihu.com/01161212ecd8cbbc1760419095b9bdc76ddf98be.png",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "836.03",
+                "tag_price": "1065.68",
+                "restore_price": "1023.29",
+                "free_tax_price": 730.76,
+                "sku_add_price": 7.31,
+                "insurancePrice": "10.96",
+                "taxPrice": "219.23",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "5063209",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "833737",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "MK限时折扣",
+                  "desc": "降价187.26",
+                  "system_time": "1488332497433",
+                  "start_time": "2017-02-28 00:00:00",
+                  "end_time": "2017-03-15 23:59:59",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/0116060257933c1582da4bde86ddeaa8aa347249.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/011608156439d23f265144808afca6a55c5573ff.png",
+              "mall_name": "jomashop",
+              "title": "Michael Kors迈克高仕 Cindy 女士大号时尚斜挎包",
+              "short_title": "17年流行色",
+              "status": "0",
+              "selected_sku": {
+                "seq": "#",
+                "original_price_rmb": "926.63",
+                "native_price_unit": "$",
+                "current_price_rmb": "723.93",
+                "image_url": "http://img.haihu.com/0116122045563f8ab4034e4b83ef4a01d9b409b6.png",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "894.18",
+                "tag_price": "1302.48",
+                "restore_price": "1095.97",
+                "free_tax_price": 723.93,
+                "sku_add_price": 72.39,
+                "insurancePrice": "10.86",
+                "taxPrice": "217.18",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "6678008",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1038046",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "MK限时折扣",
+                  "desc": "降价201.79",
+                  "system_time": "1488332497449",
+                  "start_time": "2017-02-28 00:00:00",
+                  "end_time": "2017-03-15 23:59:59",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/0116060257933c1582da4bde86ddeaa8aa347249.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/011608156439d23f265144808afca6a55c5573ff.png",
+              "mall_name": "jomashop",
+              "title": "Michael Kors迈克高仕 Flap Gusset PVC 女士印字斜挎包",
+              "short_title": "印字斜挎包",
+              "status": "0",
+              "selected_sku": {
+                "seq": "#",
+                "original_price_rmb": "1092.10",
+                "native_price_unit": "$",
+                "current_price_rmb": "1092.10",
+                "image_url": "http://img.haihu.com/01170215c36f0338ab89478f89eb829d92b0cbe6.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "1304.69",
+                "tag_price": "1577.72",
+                "restore_price": "1609.12",
+                "free_tax_price": 1092.1,
+                "sku_add_price": 109.21,
+                "insurancePrice": "16.38",
+                "taxPrice": "327.63",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7351449",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1097752",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "MK限时折扣",
+                  "desc": "降价304.43",
+                  "system_time": "1488332497467",
+                  "start_time": "2017-02-28 00:00:00",
+                  "end_time": "2017-03-15 23:59:59",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/0116060257933c1582da4bde86ddeaa8aa347249.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/011608156439d23f265144808afca6a55c5573ff.png",
+              "mall_name": "jomashop",
+              "title": "Michael Kors迈克高仕 女士简约单肩包",
+              "short_title": "百搭印花小包",
+              "status": "0",
+              "selected_sku": {
+                "seq": "#",
+                "original_price_rmb": "1092.10",
+                "native_price_unit": "$",
+                "current_price_rmb": "1092.10",
+                "image_url": "http://img.haihu.com/01170215472d3611f7c0440a98fef9d890b8d3ea.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "1304.69",
+                "tag_price": "1577.72",
+                "restore_price": "1609.12",
+                "free_tax_price": 1092.1,
+                "sku_add_price": 109.21,
+                "insurancePrice": "16.38",
+                "taxPrice": "327.63",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7351334",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1097700",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "MK限时折扣",
+                  "desc": "降价304.43",
+                  "system_time": "1488332497482",
+                  "start_time": "2017-02-28 00:00:00",
+                  "end_time": "2017-03-15 23:59:59",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/0116060257933c1582da4bde86ddeaa8aa347249.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/011608156439d23f265144808afca6a55c5573ff.png",
+              "mall_name": "jomashop",
+              "title": "Michael Kors迈克高仕 Jet Set 女士简约斜挎包",
+              "short_title": "简约斜挎包",
+              "status": "0",
+              "selected_sku": {
+                "seq": "#",
+                "original_price_rmb": "889.40",
+                "native_price_unit": "$",
+                "current_price_rmb": "758.34",
+                "image_url": "http://img.haihu.com/01161220860b289012834b8aa39ef04f48962a84.png",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "932.55",
+                "tag_price": "1254.60",
+                "restore_price": "1143.94",
+                "free_tax_price": 758.34,
+                "sku_add_price": 75.83,
+                "insurancePrice": "11.38",
+                "taxPrice": "227.50",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "6677983",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1038064",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "MK限时折扣",
+                  "desc": "降价211.39",
+                  "system_time": "1488332497498",
+                  "start_time": "2017-02-28 00:00:00",
+                  "end_time": "2017-03-15 23:59:59",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/0116060257933c1582da4bde86ddeaa8aa347249.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/011608156439d23f265144808afca6a55c5573ff.png",
+              "mall_name": "jomashop",
+              "title": "Michael Kors迈克高仕 Sloan 女士气质单肩包",
+              "short_title": "小香风菱格单肩包",
+              "status": "0",
+              "selected_sku": {
+                "seq": "#",
+                "original_price_rmb": "1809.14",
+                "native_price_unit": "$",
+                "current_price_rmb": "1509.92",
+                "image_url": "http://img.haihu.com/011702154b8f2973e06e412fb8176499dae43d1e.png",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "1770.56",
+                "tag_price": "2461.53",
+                "restore_price": "2191.45",
+                "free_tax_price": 1509.92,
+                "sku_add_price": 150.99,
+                "insurancePrice": "22.65",
+                "taxPrice": "452.98",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7331495",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1096972",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "MK限时折扣",
+                  "desc": "降价420.89",
+                  "system_time": "1488332497514",
+                  "start_time": "2017-02-28 00:00:00",
+                  "end_time": "2017-03-15 23:59:59",
+                  "dimension": "goods"
+                }
+              ]
+            }
+          ],
+          "start_time": "1488254149000",
+          "end_time": "1488729599000",
+          "system_time": "1488332581999",
+          "navigator": {
+            "type": "0",
+            "key": "wap",
+            "args": "{\"url\":\"http://expand.haihu.com/html/discount/discountTheme.html?theme_id=4674\",\"extra_login_data\":\"1\"}"
+          },
+          "theme_id": "4674"
+        }
+      }
+    ],
+    "is_freshman": "NO",
+    "navable_entity": {
+      "title": "全球官网优惠已更新，去看看 →",
+      "bg_color": "#D9D0021B",
+      "navigator": {
+        "type": "2",
+        "key": "1002",
+        "args": "type=global_discount&offset=0"
+      }
+    }
+  },
+  "common": {
+    "status": "100",
+    "memo": "success"
+  }
+}

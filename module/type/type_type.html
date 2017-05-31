@@ -1,0 +1,9 @@
+<div ng-controller="typeController">
+	<div class="cate_list list" ng-repeat="item in items.operation.category_list track by $index">
+		<img src="{{item.category_img}}">
+		<span></span>
+		<ul>
+			<li ng-repeat="i in item.category_keywords" class="{{i.is_hot}}">{{i.tag_name}}</li>
+		</ul>
+	</div>
+</div>

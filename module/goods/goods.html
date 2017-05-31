@@ -1,0 +1,149 @@
+<div class="detail_head"  ng-controller="myController">
+	<img src="img/lt.png" ng-click = "jump('home')">
+</div>
+<div style="font-size:12px;" class="detail_header" ng-controller="mydata" id="point">
+	<div class="detailwrap">
+		<div class="detailimg">
+			<img src="{{goodInfo.img}}"/>
+		</div>
+		<div class="goodsdetail">
+			<div>商品<br>信息</div>
+		</div>
+		<div class="litimg">
+			<div>
+				<img src="{{goodInfo.img}}"/>
+				<img src="{{goodInfo.img}}"/>
+				<img src="{{goodInfo.img}}"/>
+				<img src="{{goodInfo.img}}"/>
+				<img src="{{goodInfo.img}}"/>
+			</div>
+		</div>
+
+		<div class="titleandprice">
+			<div>{{goodInfo.name}}</div>
+				<div class="real-price">
+					到手价￥{{goodInfo.price}}
+					<span class="oldprice">
+						<a>￥{{goodInfo.old_price}}</a>
+					</span>
+				</div>
+		</div>
+		<div class="detailsale">
+			<div>
+				<div class="salered">促销</div>
+				<div>2件减40元</div>
+			</div>
+			<div class="cou">去凑单</div>
+		</div>
+		<div class="secure" >
+			<div >
+				<div ng-repeat="n in goods_promise"><img src="img/promise_icon.png" class="goodspromiseicon"/>{{n}}</div>
+			</div>
+		</div>
+		<div class="gray"></div>
+		<div class="cordis" >
+			<div class="logo1" >
+				<div>
+					<img src="{{from_icon}}" class="bosspic" />
+					<span class="bosspiccopy">{{from_icon_copy}}</span>
+				</div>
+				<img src="img/leftFold@2x.png"  />
+			</div>
+			<div>{{branddesc2|limitTo:55}}</div>
+		</div>
+		<div class="cordis" >
+			<div class="logo1">
+				<div>
+					<img src="{{avatar_boss}}" class="bosspic" />
+					<span class="bosspiccopy">{{avatar_boss_copy}}</span>
+				</div>
+				<img src="img/leftFold@2x.png"  />
+			</div>
+			<div>{{branddesc1|limitTo:65}}</div>
+		</div>
+		<div class="gray"></div>
+		<!-- 同类商品推荐总 -->
+		<div class="detail_goods" >
+			<p class="detail_similarrecom">同类商品推荐</p>
+			<div class="detail_kind"  ng-repeat="ns in brand_list">
+				<div class="detail_more" >
+					<div class="detail_box"><img src="{{ns.avatar}}" class="similartitleimg" /></div>
+					<span class="detail_span">made in china</span>
+					<a class="detail_moreKind">更多&gt;</a>
+				</div>
+				<div class="detail_dl" >
+					<dl ng-repeat="g in ns.goods_list">
+						<dt><img src="{{g.selected_sku.image_url}}"></dt>
+						<dd>{{g.title}}{{g.mall_name}}</dd>
+						<dd><span>{{g.selected_sku.fixed_price}} </span><del>{{g.selected_sku.tag_price}}</del></dd>
+						<dd><img src="{{g.selected_sku.country_icon}}"><span>直邮</span></dd>
+					</dl>
+				</div>
+			</div>
+		</div>
+
+		<div class="gray"></div>
+		<div class="goodsandquestions">
+			<div>
+				<a>商品信息</a>
+			</div>
+			<div>
+				<a>海淘购物常见问题</a>
+			</div>
+		</div>
+		<div class="goods">
+			<div>
+				<div class="titleCn">{{goods_titleCn}}</div>
+				<div>商品编号 {{goods_num}}</div>
+				<div>{{goods_msg}}</div>
+			</div>
+			<div>
+				<img src="{{titlepic}}"/>
+			</div>
+		</div>
+		<div class="sizestandard">
+		<div class="sizetitl">
+			<span class="sizestchart">尺码表</span>
+			<span>产品尺寸以实物为准</span>
+		</div>
+		 <div class="chart" >
+		 	<div ng-repeat="m in pantssize">
+		 		<div>{{m[0]}}</div>
+		 		<div>{{m[1]}}</div>
+		 	</div>
+		 </div> 
+		</div>
+		<div class="miterr" >{{ demensiontitle}}</div>
+		<div  class="demensionchart">
+			<img src="{{demensioncharturl}}">
+		</div>
+		<div class="sizexsetc">
+		</div>
+		<div class="warmtips">
+			<div>温馨提示</div>
+			<div>1.让他发一个以会啊丢二姐夫就看到漫长就上课了打车吗  手机覅电视么撒的。</div>
+			<div>2.划线价格指商品的专柜价、吊牌价、正品零售价、厂商指导价或该商品的曾经展示过的销售价等，并非原价，仅供参考。未划线价格指商品的实时标价，不因表述的差异改变性质。具体成交价格根据商品参加活动，或会员使用优惠券、积分等发生变化，最终以订单结算页价格为准。此说明仅当出现价格比较时有效，具体请参见《淘宝价格发布规范》。若商家单独对划线价格进行说明的，以商家的表述为准。</div>
+			<div>本尺码有海外官网提供</div>
+		</div>
+		<div class="footerbanner">
+		<img src="img/footerbanner.png"/>
+		</div>
+		<div style="background: gray;">
+		<img src="img/bottomfox@2x.png"/>已显示全部
+		</div>
+		<div class="goods_footer" ng-controller="myController">
+			<div ng-click="jump('cart')">
+				<div>
+				<img src="img/car@3x.png"/></div>
+				<div>购物车</div>
+			</div>
+			<div>
+				<div>
+				<img src="img/service@3x.png"/></div>
+				<div>客服</div>	
+			</div>
+			<div ng-click="buyNow()">加入购物车</div>
+			<div ng-click="buyNow()">立即购买</div>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,411 @@
+{
+  "operation": {
+    "category_list": [
+      {
+        "category_id": "-1",
+        "category_name": "热门"
+      },
+      {
+        "category_id": "2",
+        "category_name": "美妆护肤",
+        "category_img": "http://img.haihu.com/01160628a575185649854b98a5bafd1d9978e826.png",
+        "category_summary": "护肤、美发"
+      },
+      {
+        "category_id": "3",
+        "category_name": "食品保健",
+        "category_img": "http://img.haihu.com/01160331e5964eb3a1b9419b862667a546f21dee.png",
+        "category_summary": "奶粉、奶瓶"
+      },
+      {
+        "category_id": "6",
+        "category_name": "箱包手袋",
+        "category_img": "http://img.haihu.com/011507240fd4bf2213014472bc75a06b94bc5115.png",
+        "category_summary": "链条包、钱包"
+      },
+      {
+        "category_id": "5",
+        "category_name": "鞋靴",
+        "category_img": "http://img.haihu.com/0115072471e98ee3339441a897f3167a06871ae4.png",
+        "category_summary": "女鞋、男鞋"
+      },
+      {
+        "category_id": "8",
+        "category_name": "手表配饰",
+        "category_img": "http://img.haihu.com/0115072406933bf810d849f49b9b5439140fbd83.png",
+        "category_summary": "手表、墨镜"
+      },
+      {
+        "category_id": "1",
+        "category_name": "母婴玩具",
+        "category_img": "http://img.haihu.com/0116033170b10edb36c64d929925db692e60f2bf.png",
+        "category_summary": "奶粉、奶瓶"
+      },
+      {
+        "category_id": "1108",
+        "category_name": "个人护理",
+        "category_img": "http://img.haihu.com/011603317acebb65293c42b3a881c152ba32fd46.png",
+        "category_summary": "美发，护理"
+      },
+      {
+        "category_id": "1168",
+        "category_name": "女装",
+        "category_img": "http://img.haihu.com/default.png"
+      },
+      {
+        "category_id": "4",
+        "category_name": "男装",
+        "category_img": "http://img.haihu.com/01150724ee61014129964beab6aaf123d6578d84.png",
+        "category_summary": "奶粉、奶瓶"
+      },
+      {
+        "category_id": "10",
+        "category_name": "户外运动",
+        "category_img": "http://img.haihu.com/0115072496ee46a1170c4961ad72dce370966251.png",
+        "category_summary": "跑步鞋、装备"
+      },
+      {
+        "category_id": "7",
+        "category_name": "家居生活",
+        "category_img": "http://img.haihu.com/011603314a93be763ad4400583781f3a8a4f2bab.png",
+        "category_summary": "水杯、净水壶"
+      }
+    ],
+    "theme_list": [
+      {
+        "type": "slide",
+        "action_image_list": [
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/0117022475b1365c6033489782220427044d02cb.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=3572",
+              "title": "",
+              "type": "wap"
+            },
+            "forPeople": 0,
+            "channel": "",
+            "version": ""
+          },
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/01170224e652073532ae427184ac42251bcd4659.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=4201",
+              "title": "",
+              "type": "wap"
+            },
+            "forPeople": 0,
+            "channel": "",
+            "version": ""
+          }
+        ],
+        "sortNum": -100
+      },
+      {
+        "title": "热门分类",
+        "type": "category_nav",
+        "categories": [
+          {
+            "category_name": "机械表",
+            "category_img": "http://img.haihu.com/01160823db8816bd238546c092a2919b35f0ab89.jpg",
+            "search_keys": "{\"979\":\"女士机械表\",\"975\":\"男士机械表\"}",
+            "search_arg": "{\"category_info\":{\"979\":\"女士机械表\",\"975\":\"男士机械表\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "皮带腰带",
+            "category_img": "http://img.haihu.com/011608237a48f97440364d528b4778265dfd460c.jpg",
+            "search_keys": "{\"865\":\"男士皮带\",\"667\":\"女士腰带\"}",
+            "search_arg": "{\"category_info\":{\"865\":\"男士皮带\",\"667\":\"女士腰带\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "石英表",
+            "category_img": "http://img.haihu.com/01160823fbe5a6265d4544eba4d46bf145af1e56.jpg",
+            "search_keys": "{\"978\":\"女士石英表\",\"974\":\"男士石英表\"}",
+            "search_arg": "{\"category_info\":{\"978\":\"女士石英表\",\"974\":\"男士石英表\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "太阳镜",
+            "category_img": "http://img.haihu.com/0116082344580ea65d5b417d8d6021fe1cfede67.jpg",
+            "search_keys": "{\"750\":\"女士太阳镜\",\"749\":\"男士太阳镜\"}",
+            "search_arg": "{\"category_info\":{\"750\":\"女士太阳镜\",\"749\":\"男士太阳镜\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "围巾",
+            "category_img": "http://img.haihu.com/01160823dde4a3923d4a490d96babeebab2d7273.jpg",
+            "search_keys": "{\"838\":\"女士围巾\",\"837\":\"男士围巾\"}",
+            "search_arg": "{\"category_info\":{\"838\":\"女士围巾\",\"837\":\"男士围巾\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "光动能手表",
+            "category_img": "http://img.haihu.com/01160823590599d2921a476f9b7562fd4d101218.jpg",
+            "search_keys": "{\"976\":\"男士光动能腕表\",\"980\":\"女士光动能腕表\"}",
+            "search_arg": "{\"category_info\":{\"976\":\"男士光动能腕表\",\"980\":\"女士光动能腕表\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "项链",
+            "category_img": "http://img.haihu.com/01160823479efed77d864af5b61711352d183591.jpg",
+            "search_keys": "{\"856\":\"项链/吊坠\"}",
+            "search_arg": "{\"category_info\":{\"856\":\"项链/吊坠\"},\"source_type\":\"4\"}"
+          }
+        ],
+        "sortNum": -90
+      },
+      {
+        "type": "panorama",
+        "sortNum": 0,
+        "panorama": {
+          "image": {
+            "theme_id": "3835",
+            "image_url": "http://img.haihu.com/011702241543e827723a4d10b2b15cf97085fea8.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=3835",
+              "title": "",
+              "type": "wap"
+            },
+            "height": "0",
+            "width": "0"
+          },
+          "goods_list": [
+            {
+              "global_goods": {
+                "attr_type": "null",
+                "from_icon": "http://img.haihu.com/0116071866930bdbed1940fa91a3fb760fb8cc7c.png",
+                "country": "美国",
+                "country_icon": "http://img.haihu.com/0116081593efb4d6f47341f19dafa8e0c21808b6.png",
+                "mall_name": "bloomingdales",
+                "title": "Salvatore Ferragamo 菲拉格慕 男士经典双面皮带",
+                "short_title": "菲拉格慕双面皮带",
+                "status": "0",
+                "selected_sku": {
+                  "seq": "2882108_2882116",
+                  "original_price_rmb": "2344.16",
+                  "native_price_unit": "$",
+                  "current_price_rmb": "2344.16",
+                  "image_url": "http://img.haihu.com/01160816f841caea00424250beef4f7527e380da.tif@1c_1e_320w.png",
+                  "native_express_fee": "0",
+                  "forward_fee": "45.00",
+                  "weight": "500",
+                  "status": "0",
+                  "fixed_price": "2926.64",
+                  "tag_price": "3395.47",
+                  "free_tax_price": 2344.16,
+                  "sku_add_price": 502.32,
+                  "insurancePrice": "35.16",
+                  "taxPrice": "703.25",
+                  "modeType": "customs",
+                  "rate": "6.8946",
+                  "expressType": 0,
+                  "exsitLimitPromotion": false
+                },
+                "productEntityId": "4212270",
+                "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+                "goods_id": "723713",
+                "voucher_list": []
+              },
+              "type": "0"
+            },
+            {
+              "global_goods": {
+                "attr_type": "null",
+                "from_icon": "http://img.haihu.com/01160111ad4d9b767edd4f5993af360d6a38dd34.png",
+                "country": "美国",
+                "country_icon": "http://img.haihu.com/01160815e28179ef5bda41348b8afe7ab8e49f9f.png",
+                "mall_name": "shopbop",
+                "title": "Salvatore Ferragamo 菲拉格慕 女士Gianci双面腰带",
+                "short_title": "女士双面皮带",
+                "status": "1",
+                "selected_sku": {
+                  "seq": "604089_604090",
+                  "original_price_rmb": "2516.53",
+                  "native_price_unit": "$",
+                  "current_price_rmb": "2516.53",
+                  "image_url": "http://img.haihu.com/01160315c4d04faee4b74094b29127681ce85a7c.jpg@1c_1e_320w.jpg",
+                  "native_express_fee": "0",
+                  "forward_fee": "45.00",
+                  "weight": "400",
+                  "status": "1",
+                  "fixed_price": "3138.53",
+                  "tag_price": "3641.84",
+                  "free_tax_price": 2516.53,
+                  "sku_add_price": 539.25,
+                  "insurancePrice": "37.75",
+                  "taxPrice": "754.96",
+                  "modeType": "customs",
+                  "rate": "6.8946",
+                  "expressType": 0,
+                  "exsitLimitPromotion": false
+                },
+                "productEntityId": "697631",
+                "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+                "goods_id": "299025",
+                "voucher_list": []
+              },
+              "type": "0"
+            },
+            {
+              "global_goods": {
+                "attr_type": "null",
+                "from_icon": "http://img.haihu.com/01160111ad4d9b767edd4f5993af360d6a38dd34.png",
+                "country": "美国",
+                "country_icon": "http://img.haihu.com/01160815e28179ef5bda41348b8afe7ab8e49f9f.png",
+                "mall_name": "shopbop",
+                "title": "菲拉格慕Salvatore Ferragamo中号Giancini双面佩戴腰带",
+                "short_title": "菲拉格慕女士皮带",
+                "status": "1",
+                "selected_sku": {
+                  "seq": "4502206_604054",
+                  "original_price_rmb": "2723.37",
+                  "native_price_unit": "$",
+                  "current_price_rmb": "2723.37",
+                  "image_url": "http://img.haihu.com/01160315c945473d366949358e644ebd5f302f9b.jpg@1c_1e_320w.jpg",
+                  "native_express_fee": "0",
+                  "forward_fee": "45.00",
+                  "weight": "400",
+                  "status": "1",
+                  "fixed_price": "3392.80",
+                  "tag_price": "3937.47",
+                  "free_tax_price": 2723.37,
+                  "sku_add_price": 583.58,
+                  "insurancePrice": "40.85",
+                  "taxPrice": "817.01",
+                  "modeType": "customs",
+                  "rate": "6.8946",
+                  "expressType": 0,
+                  "exsitLimitPromotion": false
+                },
+                "productEntityId": "7250155",
+                "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+                "goods_id": "299016",
+                "voucher_list": []
+              },
+              "type": "0"
+            },
+            {
+              "global_goods": {
+                "attr_type": "null",
+                "from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+                "country": "美国",
+                "country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+                "mall_name": "Amazon",
+                "title": "Tommy Hilfiger 汤米·希尔费格 Textured 男士皮带",
+                "short_title": "男士休闲复古皮带",
+                "status": "0",
+                "selected_sku": {
+                  "seq": "759303_759314",
+                  "original_price_rmb": "192.98",
+                  "native_price_unit": "$",
+                  "current_price_rmb": "192.98",
+                  "image_url": "http://img.haihu.com/01160427f5577da37367403ea5a282a03bdc20e0.jpg@1c_1e_320w.jpg",
+                  "native_express_fee": "0",
+                  "forward_fee": "45.00",
+                  "weight": "300",
+                  "status": "0",
+                  "fixed_price": "282.22",
+                  "tag_price": "320.82",
+                  "free_tax_price": 192.98,
+                  "sku_add_price": 41.35,
+                  "insurancePrice": "2.89",
+                  "taxPrice": "57.89",
+                  "modeType": "customs",
+                  "rate": "6.8946",
+                  "expressType": 0,
+                  "exsitLimitPromotion": false
+                },
+                "productEntityId": "884793",
+                "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+                "goods_id": "328206",
+                "voucher_list": []
+              },
+              "type": "0"
+            },
+            {
+              "global_goods": {
+                "attr_type": "null",
+                "from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+                "country": "美国",
+                "country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+                "mall_name": "Amazon",
+                "title": "Tommy Hilfiger 汤米希尔费格 男士皮带",
+                "short_title": "男士休闲棕色皮带",
+                "status": "0",
+                "selected_sku": {
+                  "seq": "388263_388269",
+                  "original_price_rmb": "116.04",
+                  "native_price_unit": "$",
+                  "current_price_rmb": "116.04",
+                  "image_url": "http://img.haihu.com/011611302619fe593d964304beb2db25a5726d87.jpg@1c_1e_320w.jpg",
+                  "native_express_fee": "0",
+                  "forward_fee": "30.00",
+                  "weight": "200",
+                  "status": "0",
+                  "fixed_price": "173.61",
+                  "tag_price": "196.82",
+                  "free_tax_price": 100,
+                  "sku_add_price": 24.87,
+                  "insurancePrice": "2.70",
+                  "taxPrice": "30.00",
+                  "modeType": "normal",
+                  "rate": "6.8946",
+                  "expressType": 0,
+                  "exsitLimitPromotion": false
+                },
+                "productEntityId": "389812",
+                "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+                "goods_id": "249225",
+                "voucher_list": []
+              },
+              "type": "0"
+            },
+            {
+              "global_goods": {
+                "attr_type": "null",
+                "from_icon": "http://img.haihu.com/011606025f3fd625688f40dba330f16bc7c76aeb.png",
+                "country": "美国",
+                "country_icon": "http://img.haihu.com/011608153787c91e0ce44b59baea5a22fde31534.png",
+                "mall_name": "nordstrom",
+                "title": "Salvatore Ferragamo 菲拉格慕 男士正反双面皮带",
+                "short_title": "菲拉格慕男士皮带",
+                "status": "0",
+                "selected_sku": {
+                  "seq": "2827053_2827054",
+                  "original_price_rmb": "2482.06",
+                  "native_price_unit": "$",
+                  "current_price_rmb": "2482.06",
+                  "image_url": "http://img.haihu.com/0117011149f1cbf32d7c41298a3e7ad8f4b6911a.jpg@1c_1e_320w.jpg",
+                  "native_express_fee": "0",
+                  "forward_fee": "45.00",
+                  "weight": "500",
+                  "status": "0",
+                  "fixed_price": "3096.16",
+                  "tag_price": "3592.57",
+                  "free_tax_price": 2482.06,
+                  "sku_add_price": 531.87,
+                  "insurancePrice": "37.23",
+                  "taxPrice": "744.62",
+                  "modeType": "customs",
+                  "rate": "6.8946",
+                  "expressType": 0,
+                  "exsitLimitPromotion": false
+                },
+                "productEntityId": "4063961",
+                "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+                "goods_id": "715520",
+                "voucher_list": []
+              },
+              "type": "0"
+            }
+          ]
+        }
+      }
+    ],
+    "is_freshman": "NO"
+  },
+  "common": {
+    "status": "100",
+    "memo": "success"
+  }
+}

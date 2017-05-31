@@ -1,0 +1,1096 @@
+{
+  "operation": {
+    "category_list": [
+      {
+        "category_id": "-1",
+        "category_name": "热门"
+      },
+      {
+        "category_id": "2",
+        "category_name": "美妆护肤",
+        "category_img": "http://img.haihu.com/01160628a575185649854b98a5bafd1d9978e826.png",
+        "category_summary": "护肤、美发"
+      },
+      {
+        "category_id": "3",
+        "category_name": "食品保健",
+        "category_img": "http://img.haihu.com/01160331e5964eb3a1b9419b862667a546f21dee.png",
+        "category_summary": "奶粉、奶瓶"
+      },
+      {
+        "category_id": "6",
+        "category_name": "箱包手袋",
+        "category_img": "http://img.haihu.com/011507240fd4bf2213014472bc75a06b94bc5115.png",
+        "category_summary": "链条包、钱包"
+      },
+      {
+        "category_id": "5",
+        "category_name": "鞋靴",
+        "category_img": "http://img.haihu.com/0115072471e98ee3339441a897f3167a06871ae4.png",
+        "category_summary": "女鞋、男鞋"
+      },
+      {
+        "category_id": "8",
+        "category_name": "手表配饰",
+        "category_img": "http://img.haihu.com/0115072406933bf810d849f49b9b5439140fbd83.png",
+        "category_summary": "手表、墨镜"
+      },
+      {
+        "category_id": "1",
+        "category_name": "母婴玩具",
+        "category_img": "http://img.haihu.com/0116033170b10edb36c64d929925db692e60f2bf.png",
+        "category_summary": "奶粉、奶瓶"
+      },
+      {
+        "category_id": "1108",
+        "category_name": "个人护理",
+        "category_img": "http://img.haihu.com/011603317acebb65293c42b3a881c152ba32fd46.png",
+        "category_summary": "美发，护理"
+      },
+      {
+        "category_id": "1168",
+        "category_name": "女装",
+        "category_img": "http://img.haihu.com/default.png"
+      },
+      {
+        "category_id": "4",
+        "category_name": "男装",
+        "category_img": "http://img.haihu.com/01150724ee61014129964beab6aaf123d6578d84.png",
+        "category_summary": "奶粉、奶瓶"
+      },
+      {
+        "category_id": "10",
+        "category_name": "户外运动",
+        "category_img": "http://img.haihu.com/0115072496ee46a1170c4961ad72dce370966251.png",
+        "category_summary": "跑步鞋、装备"
+      },
+      {
+        "category_id": "7",
+        "category_name": "家居生活",
+        "category_img": "http://img.haihu.com/011603314a93be763ad4400583781f3a8a4f2bab.png",
+        "category_summary": "水杯、净水壶"
+      }
+    ],
+    "theme_list": [
+      {
+        "type": "slide",
+        "action_image_list": [
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/01170224d94dc20dd0924589abbd8ee6ea5e4f11.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=4609",
+              "title": "",
+              "type": "wap"
+            },
+            "forPeople": 0,
+            "channel": "",
+            "version": ""
+          },
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/011702236943710ca9524b6b9b5ff1fdb6b0eb7e.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=4501",
+              "title": "",
+              "type": "wap"
+            },
+            "forPeople": 0,
+            "channel": "",
+            "version": ""
+          },
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/011702231d9751273b3d4e2d87d17f751459bd12.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=4581",
+              "title": "",
+              "type": "wap"
+            },
+            "forPeople": 0,
+            "channel": "",
+            "version": ""
+          }
+        ],
+        "sortNum": -100
+      },
+      {
+        "title": "热门分类",
+        "type": "category_nav",
+        "categories": [
+          {
+            "category_name": "护肤",
+            "category_img": "http://img.haihu.com/01160822e3d41dd8f25343a2afa66bfcd1e9a9e3.jpg",
+            "search_keys": "{\"125\":\"护肤\"}",
+            "search_arg": "{\"category_info\":{\"125\":\"护肤\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "彩妆",
+            "category_img": "http://img.haihu.com/011608222a687fa13c3048eb9ff4e954f75061d4.jpg",
+            "search_keys": "{\"131\":\"彩妆\"}",
+            "search_arg": "{\"category_info\":{\"131\":\"彩妆\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "面膜",
+            "category_img": "http://img.haihu.com/01160822b6cc11cd26444e9aa82c14a10f9521bd.jpg",
+            "search_keys": "{\"955\":\"面膜\"}",
+            "search_arg": "{\"category_info\":{\"955\":\"面膜\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "洁面",
+            "category_img": "http://img.haihu.com/011608228179ba660e0947db8c395e74ccb76e65.jpg",
+            "search_keys": "{\"550\":\"洁面\"}",
+            "search_arg": "{\"category_info\":{\"550\":\"洁面\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "爽肤水",
+            "category_img": "http://img.haihu.com/0116082230d4e9dd9c8f45b692cf8df65d53187e.jpg",
+            "search_keys": "{\"552\":\"化妆水\"}",
+            "search_arg": "{\"category_info\":{\"552\":\"化妆水\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "精华",
+            "category_img": "http://img.haihu.com/011611172e49652ef4c74b8d9d63f3f0f37974e2.jpg",
+            "search_keys": "{\"553\":\"精华\"}",
+            "search_arg": "{\"category_info\":{\"553\":\"精华\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "男士护肤",
+            "category_img": "http://img.haihu.com/01160822e58ab784c189407dac8822f76f087327.jpg",
+            "search_keys": "{\"1146\":\"男士护肤\"}",
+            "search_arg": "{\"category_info\":{\"1146\":\"男士护肤\"},\"source_type\":\"4\"}"
+          }
+        ],
+        "sortNum": -90
+      },
+      {
+        "themeBannerId": "207326",
+        "type": "category_2col",
+        "action_image_list": [
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/0117022854ef509581af4fedb1e1c359ae1896c6.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=4200",
+              "title": "",
+              "type": "wap"
+            },
+            "height": "171",
+            "width": "308"
+          },
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/011702282e9a5856ba364ffe9e4c83ab91b81377.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=4051",
+              "title": "",
+              "type": "wap"
+            },
+            "height": "171",
+            "width": "308"
+          }
+        ],
+        "bgcolor": "",
+        "sortNum": 0
+      },
+      {
+        "type": "global_discount",
+        "sortNum": 58,
+        "global_discount": {
+          "title": "ZELENS 85折专场",
+          "title_color": "#212121",
+          "count_desc": "23件畅销商品 >",
+          "count_desc_color": "#9B9B9B",
+          "bg_color": "",
+          "count_down_color": "#D0021B",
+          "goods_list": [
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160111db6bf15c588544ce8cd89aea697ab23c.png",
+              "country": "英国",
+              "country_icon": "http://img.haihu.com/01151229dde2dd60d593476db66d35a43499dfe3.png",
+              "mall_name": "lookfantastic",
+              "title": "Zelens age control 控龄粉底 30ml",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4676901",
+                "original_price_rmb": "554.97",
+                "native_price_unit": "￡",
+                "current_price_rmb": "471.72",
+                "image_url": "http://img.haihu.com/011702282b55140d79f4403d9de42da7cba181e2.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "0.00",
+                "weight": "300",
+                "status": "0",
+                "fixed_price": "491.26",
+                "tag_price": "686.45",
+                "restore_price": "577.96",
+                "free_tax_price": 471.72,
+                "sku_add_price": 5.39,
+                "insurancePrice": "14.15",
+                "taxPrice": "283.03",
+                "modeType": "customs",
+                "rate": "8.5380",
+                "expressType": 1,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7592267",
+              "pc_country_icon": "http://img.haihu.com/01160106e7267a57f8d44e06bd219576ca6419db.png",
+              "goods_id": "771747",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "限时降价",
+                  "desc": "降价86.70",
+                  "system_time": "1488331393028",
+                  "start_time": "2017-02-28 16:50:08",
+                  "end_time": "2017-03-13 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160111db6bf15c588544ce8cd89aea697ab23c.png",
+              "country": "英国",
+              "country_icon": "http://img.haihu.com/01151229dde2dd60d593476db66d35a43499dfe3.png",
+              "mall_name": "lookfantastic",
+              "title": "Zelens 抗氧化密集三效眼霜",
+              "status": "0",
+              "selected_sku": {
+                "seq": "#",
+                "original_price_rmb": "640.35",
+                "native_price_unit": "￡",
+                "current_price_rmb": "544.30",
+                "image_url": "http://img.haihu.com/011612096ee06e05bb4f40e698912b665493868d.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "0.00",
+                "weight": "300",
+                "status": "0",
+                "fixed_price": "558.68",
+                "tag_price": "783.90",
+                "restore_price": "657.28",
+                "free_tax_price": 544.3,
+                "sku_add_price": 6.22,
+                "insurancePrice": "8.16",
+                "taxPrice": "163.29",
+                "modeType": "customs",
+                "rate": "8.5380",
+                "expressType": 1,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "4791334",
+              "pc_country_icon": "http://img.haihu.com/01160106e7267a57f8d44e06bd219576ca6419db.png",
+              "goods_id": "771825",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "限时降价",
+                  "desc": "降价98.60",
+                  "system_time": "1488331393052",
+                  "start_time": "2017-02-28 16:50:08",
+                  "end_time": "2017-03-13 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160111db6bf15c588544ce8cd89aea697ab23c.png",
+              "country": "英国",
+              "country_icon": "http://img.haihu.com/01151229dde2dd60d593476db66d35a43499dfe3.png",
+              "mall_name": "lookfantastic",
+              "title": "Zelens 极致面部护理精油 30ml",
+              "status": "0",
+              "selected_sku": {
+                "seq": "#",
+                "original_price_rmb": "554.97",
+                "native_price_unit": "￡",
+                "current_price_rmb": "471.72",
+                "image_url": "http://img.haihu.com/01161209dadf33b1934e49e889533c34246f66e8.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "0.00",
+                "weight": "400",
+                "status": "0",
+                "fixed_price": "484.19",
+                "tag_price": "679.38",
+                "restore_price": "569.63",
+                "free_tax_price": 471.72,
+                "sku_add_price": 5.39,
+                "insurancePrice": "7.08",
+                "taxPrice": "141.52",
+                "modeType": "customs",
+                "rate": "8.5380",
+                "expressType": 1,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "4791398",
+              "pc_country_icon": "http://img.haihu.com/01160106e7267a57f8d44e06bd219576ca6419db.png",
+              "goods_id": "771883",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "限时降价",
+                  "desc": "降价85.44",
+                  "system_time": "1488331393076",
+                  "start_time": "2017-02-28 16:50:08",
+                  "end_time": "2017-03-13 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160111db6bf15c588544ce8cd89aea697ab23c.png",
+              "country": "英国",
+              "country_icon": "http://img.haihu.com/01151229dde2dd60d593476db66d35a43499dfe3.png",
+              "mall_name": "lookfantastic",
+              "title": "Zelens 青春焕彩粉底液 30ml",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4676864",
+                "original_price_rmb": "512.28",
+                "native_price_unit": "￡",
+                "current_price_rmb": "435.44",
+                "image_url": "http://img.haihu.com/011702288402a677dc514a678946cd5cb0232576.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "0.00",
+                "weight": "300",
+                "status": "0",
+                "fixed_price": "453.48",
+                "tag_price": "633.65",
+                "restore_price": "533.50",
+                "free_tax_price": 435.44,
+                "sku_add_price": 4.98,
+                "insurancePrice": "13.06",
+                "taxPrice": "261.26",
+                "modeType": "customs",
+                "rate": "8.5380",
+                "expressType": 1,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7592317",
+              "pc_country_icon": "http://img.haihu.com/01160106e7267a57f8d44e06bd219576ca6419db.png",
+              "goods_id": "771803",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "限时降价",
+                  "desc": "降价80.02",
+                  "system_time": "1488331393097",
+                  "start_time": "2017-02-28 16:50:08",
+                  "end_time": "2017-03-13 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160111db6bf15c588544ce8cd89aea697ab23c.png",
+              "country": "英国",
+              "country_icon": "http://img.haihu.com/01151229dde2dd60d593476db66d35a43499dfe3.png",
+              "mall_name": "lookfantastic",
+              "title": "Zelens 智能变色润唇膏 5ml",
+              "status": "0",
+              "selected_sku": {
+                "seq": "#",
+                "original_price_rmb": "273.22",
+                "native_price_unit": "￡",
+                "current_price_rmb": "232.24",
+                "image_url": "http://img.haihu.com/01161209b1c5b14acd1643d7aa19c5a52b41aa5f.jpg",
+                "native_express_fee": "68.22",
+                "forward_fee": "0.00",
+                "weight": "200",
+                "status": "0",
+                "fixed_price": "307.61",
+                "tag_price": "403.70",
+                "restore_price": "352.76",
+                "free_tax_price": 150,
+                "sku_add_price": 2.65,
+                "insurancePrice": "4.50",
+                "taxPrice": "90.00",
+                "modeType": "customs",
+                "rate": "8.5380",
+                "expressType": 1,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "4791335",
+              "pc_country_icon": "http://img.haihu.com/01160106e7267a57f8d44e06bd219576ca6419db.png",
+              "goods_id": "771826",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "限时降价",
+                  "desc": "降价45.15",
+                  "system_time": "1488331393124",
+                  "start_time": "2017-02-28 16:50:08",
+                  "end_time": "2017-03-13 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160111db6bf15c588544ce8cd89aea697ab23c.png",
+              "country": "英国",
+              "country_icon": "http://img.haihu.com/01151229dde2dd60d593476db66d35a43499dfe3.png",
+              "mall_name": "lookfantastic",
+              "title": "Zelens 广谱防晒日霜 SPF 30 50ml",
+              "status": "0",
+              "selected_sku": {
+                "seq": "#",
+                "original_price_rmb": "469.59",
+                "native_price_unit": "￡",
+                "current_price_rmb": "399.15",
+                "image_url": "http://img.haihu.com/01161209883df93783364c3796d48aeff2103d8c.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "0.00",
+                "weight": "330",
+                "status": "0",
+                "fixed_price": "409.70",
+                "tag_price": "574.87",
+                "restore_price": "482.00",
+                "free_tax_price": 399.15,
+                "sku_add_price": 4.56,
+                "insurancePrice": "5.99",
+                "taxPrice": "119.75",
+                "modeType": "customs",
+                "rate": "8.5380",
+                "expressType": 1,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "4791400",
+              "pc_country_icon": "http://img.haihu.com/01160106e7267a57f8d44e06bd219576ca6419db.png",
+              "goods_id": "771885",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "限时降价",
+                  "desc": "降价72.30",
+                  "system_time": "1488331393145",
+                  "start_time": "2017-02-28 16:50:08",
+                  "end_time": "2017-03-13 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            }
+          ],
+          "start_time": "1488273045000",
+          "end_time": "1488506400000",
+          "system_time": "1488331481732",
+          "navigator": {
+            "type": "0",
+            "key": "wap",
+            "args": "{\"url\":\"http://expand.haihu.com/html/discount/discountTheme.html?theme_id=4672\",\"extra_login_data\":\"1\"}"
+          },
+          "theme_id": "4672"
+        }
+      },
+      {
+        "type": "global_discount",
+        "sortNum": 60,
+        "global_discount": {
+          "title": "BareMinerals彩妆8折专场 2件减68元",
+          "title_color": "#212121",
+          "count_desc": "21件畅销商品 >",
+          "count_desc_color": "#9B9B9B",
+          "bg_color": "",
+          "count_down_color": "#D0021B",
+          "goods_list": [
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160111db6bf15c588544ce8cd89aea697ab23c.png",
+              "country": "英国",
+              "country_icon": "http://img.haihu.com/01151229dde2dd60d593476db66d35a43499dfe3.png",
+              "mall_name": "lookfantastic",
+              "title": "BareMinerals Discover bareSkin Try Me彩妆套装",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4600112",
+                "original_price_rmb": "204.91",
+                "native_price_unit": "￡",
+                "current_price_rmb": "163.93",
+                "image_url": "http://img.haihu.com/011702249894f047093f4b63a35da6f2767c40e8.jpg",
+                "native_express_fee": "68.22",
+                "forward_fee": "0.00",
+                "weight": "500",
+                "status": "0",
+                "fixed_price": "237.02",
+                "tag_price": "319.45",
+                "restore_price": "281.62",
+                "free_tax_price": 100,
+                "sku_add_price": 1.87,
+                "insurancePrice": "3.00",
+                "taxPrice": "60.00",
+                "modeType": "customs",
+                "rate": "8.5380",
+                "expressType": 1,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7510661",
+              "pc_country_icon": "http://img.haihu.com/01160106e7267a57f8d44e06bd219576ca6419db.png",
+              "goods_id": "1105151",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "限时降价",
+                  "desc": "降价44.60",
+                  "system_time": "1488331371954",
+                  "start_time": "2017-02-24 16:59:45",
+                  "end_time": "2017-03-13 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160111db6bf15c588544ce8cd89aea697ab23c.png",
+              "country": "英国",
+              "country_icon": "http://img.haihu.com/01151229dde2dd60d593476db66d35a43499dfe3.png",
+              "mall_name": "lookfantastic",
+              "title": "BareMinerals 矿物抗炎零毛孔粉底",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4600291",
+                "original_price_rmb": "226.26",
+                "native_price_unit": "￡",
+                "current_price_rmb": "181.01",
+                "image_url": "http://img.haihu.com/01170224d33b99bc72874937acf19e9784107bdc.jpg",
+                "native_express_fee": "68.22",
+                "forward_fee": "0.00",
+                "weight": "300",
+                "status": "0",
+                "fixed_price": "257.30",
+                "tag_price": "348.32",
+                "restore_price": "303.07",
+                "free_tax_price": 200,
+                "sku_add_price": 2.07,
+                "insurancePrice": "6.00",
+                "taxPrice": "120.00",
+                "modeType": "customs",
+                "rate": "8.5380",
+                "expressType": 1,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7510947",
+              "pc_country_icon": "http://img.haihu.com/01160106e7267a57f8d44e06bd219576ca6419db.png",
+              "goods_id": "1105158",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "限时降价",
+                  "desc": "降价45.77",
+                  "system_time": "1488331371977",
+                  "start_time": "2017-02-24 16:59:45",
+                  "end_time": "2017-03-13 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160111db6bf15c588544ce8cd89aea697ab23c.png",
+              "country": "英国",
+              "country_icon": "http://img.haihu.com/01151229dde2dd60d593476db66d35a43499dfe3.png",
+              "mall_name": "lookfantastic",
+              "title": "BareMinerals 矿物遮瑕",
+              "status": "1",
+              "selected_sku": {
+                "seq": "4600275",
+                "original_price_rmb": "170.76",
+                "native_price_unit": "￡",
+                "current_price_rmb": "136.61",
+                "image_url": "http://img.haihu.com/01170224c56bc7e72c5a4332b1e8c8569a07e347.jpg",
+                "native_express_fee": "68.22",
+                "forward_fee": "0.00",
+                "weight": "300",
+                "status": "1",
+                "fixed_price": "212.39",
+                "tag_price": "281.08",
+                "restore_price": "246.93",
+                "free_tax_price": 200,
+                "sku_add_price": 1.56,
+                "insurancePrice": "6.00",
+                "taxPrice": "120.00",
+                "modeType": "customs",
+                "rate": "8.5380",
+                "expressType": 1,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7510928",
+              "pc_country_icon": "http://img.haihu.com/01160106e7267a57f8d44e06bd219576ca6419db.png",
+              "goods_id": "1105156",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "限时降价",
+                  "desc": "降价34.54",
+                  "system_time": "1488331372001",
+                  "start_time": "2017-02-24 16:59:45",
+                  "end_time": "2017-03-13 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160111db6bf15c588544ce8cd89aea697ab23c.png",
+              "country": "英国",
+              "country_icon": "http://img.haihu.com/01151229dde2dd60d593476db66d35a43499dfe3.png",
+              "mall_name": "lookfantastic",
+              "title": "BareMinerals 矿物润泽裸色唇膏",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4608577",
+                "original_price_rmb": "145.15",
+                "native_price_unit": "￡",
+                "current_price_rmb": "116.12",
+                "image_url": "http://img.haihu.com/01170222ec7b57c0f22a41e1bb06886f5192b57f.jpg",
+                "native_express_fee": "68.22",
+                "forward_fee": "0.00",
+                "weight": "350",
+                "status": "0",
+                "fixed_price": "190.17",
+                "tag_price": "248.56",
+                "restore_price": "219.53",
+                "free_tax_price": 150,
+                "sku_add_price": 1.33,
+                "insurancePrice": "4.50",
+                "taxPrice": "90.00",
+                "modeType": "customs",
+                "rate": "8.5380",
+                "expressType": 1,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7522280",
+              "pc_country_icon": "http://img.haihu.com/01160106e7267a57f8d44e06bd219576ca6419db.png",
+              "goods_id": "1105202",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "限时降价",
+                  "desc": "降价29.36",
+                  "system_time": "1488331372023",
+                  "start_time": "2017-02-24 18:41:59",
+                  "end_time": "2017-03-13 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160111db6bf15c588544ce8cd89aea697ab23c.png",
+              "country": "英国",
+              "country_icon": "http://img.haihu.com/01151229dde2dd60d593476db66d35a43499dfe3.png",
+              "mall_name": "lookfantastic",
+              "title": "BareMinerals Original SPF15 矿物粉底 多色",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4600117",
+                "original_price_rmb": "226.26",
+                "native_price_unit": "￡",
+                "current_price_rmb": "181.01",
+                "image_url": "http://img.haihu.com/01170224d5a27bfe20d94d34ba0a47077887e663.jpg",
+                "native_express_fee": "68.22",
+                "forward_fee": "0.00",
+                "weight": "300",
+                "status": "0",
+                "fixed_price": "257.30",
+                "tag_price": "348.32",
+                "restore_price": "303.07",
+                "free_tax_price": 200,
+                "sku_add_price": 2.07,
+                "insurancePrice": "6.00",
+                "taxPrice": "120.00",
+                "modeType": "customs",
+                "rate": "8.5380",
+                "expressType": 1,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7510666",
+              "pc_country_icon": "http://img.haihu.com/01160106e7267a57f8d44e06bd219576ca6419db.png",
+              "goods_id": "1105152",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "限时降价",
+                  "desc": "降价45.77",
+                  "system_time": "1488331372048",
+                  "start_time": "2017-02-24 16:59:45",
+                  "end_time": "2017-03-13 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160111db6bf15c588544ce8cd89aea697ab23c.png",
+              "country": "英国",
+              "country_icon": "http://img.haihu.com/01151229dde2dd60d593476db66d35a43499dfe3.png",
+              "mall_name": "lookfantastic",
+              "title": "BareMinerals 有色保湿凝胶 多色",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4600134",
+                "original_price_rmb": "230.53",
+                "native_price_unit": "￡",
+                "current_price_rmb": "184.42",
+                "image_url": "http://img.haihu.com/011702248ff2d15945f847f7998f89579657b2d9.jpg",
+                "native_express_fee": "68.22",
+                "forward_fee": "0.00",
+                "weight": "300",
+                "status": "0",
+                "fixed_price": "260.75",
+                "tag_price": "353.49",
+                "restore_price": "307.38",
+                "free_tax_price": 200,
+                "sku_add_price": 2.11,
+                "insurancePrice": "6.00",
+                "taxPrice": "120.00",
+                "modeType": "customs",
+                "rate": "8.5380",
+                "expressType": 1,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7510687",
+              "pc_country_icon": "http://img.haihu.com/01160106e7267a57f8d44e06bd219576ca6419db.png",
+              "goods_id": "1105153",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "限时降价",
+                  "desc": "降价46.63",
+                  "system_time": "1488331372074",
+                  "start_time": "2017-02-24 16:59:45",
+                  "end_time": "2017-03-13 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            }
+          ],
+          "start_time": "1487927199000",
+          "end_time": "1488333600000",
+          "system_time": "1488331481735",
+          "navigator": {
+            "type": "0",
+            "key": "wap",
+            "args": "{\"url\":\"http://expand.haihu.com/html/discount/discountTheme.html?theme_id=4648\",\"extra_login_data\":\"1\"}"
+          },
+          "theme_id": "4648"
+        }
+      },
+      {
+        "type": "global_discount",
+        "sortNum": 62,
+        "global_discount": {
+          "title": "Clarins娇韵诗美亚折扣专场",
+          "title_color": "#212121",
+          "count_desc": "37件畅销商品 >",
+          "count_desc_color": "#9B9B9B",
+          "bg_color": "",
+          "count_down_color": "#D0021B",
+          "goods_list": [
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+              "mall_name": "Amazon",
+              "title": "Clarins 娇韵诗 温和柔肤水 黄水 多规格",
+              "status": "1",
+              "selected_sku": {
+                "seq": "2947368",
+                "original_price_rmb": "192.00",
+                "native_price_unit": "$",
+                "current_price_rmb": "192.00",
+                "image_url": "http://img.haihu.com/0116090178b2531e338c4474994bd57584555818.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "42.00",
+                "weight": "700",
+                "status": "1",
+                "fixed_price": "240.24",
+                "tag_price": "288.24",
+                "restore_price": "288.79",
+                "free_tax_price": 150,
+                "sku_add_price": 2.19,
+                "insurancePrice": "4.05",
+                "taxPrice": "45.00",
+                "modeType": "normal",
+                "rate": "6.8916",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "4363127",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "735258",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "限时降价",
+                  "desc": "降价48.55",
+                  "system_time": "1488331412879",
+                  "start_time": "2017-02-23 15:21:23",
+                  "end_time": "2017-03-14 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+              "mall_name": "Amazon",
+              "title": "Clarins 娇韵诗 多元赋活日间面霜",
+              "status": "0",
+              "selected_sku": {
+                "seq": "#",
+                "original_price_rmb": "365.25",
+                "native_price_unit": "$",
+                "current_price_rmb": "232.73",
+                "image_url": "http://img.haihu.com/011609093c02d345404e4a308580b1533d1a5aac.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "45.00",
+                "weight": "400",
+                "status": "0",
+                "fixed_price": "283.39",
+                "tag_price": "490.47",
+                "restore_price": "342.23",
+                "free_tax_price": 200,
+                "sku_add_price": 2.66,
+                "insurancePrice": "3.00",
+                "taxPrice": "60.00",
+                "modeType": "customs",
+                "rate": "6.8916",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "4062684",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "715311",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "限时降价",
+                  "desc": "降价58.84",
+                  "system_time": "1488331412900",
+                  "start_time": "2017-02-23 15:21:23",
+                  "end_time": "2017-03-14 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+              "mall_name": "Amazon",
+              "title": "Clarins 娇韵诗 恒润奇肌保湿乳霜",
+              "status": "0",
+              "selected_sku": {
+                "seq": "#",
+                "original_price_rmb": "330.80",
+                "native_price_unit": "$",
+                "current_price_rmb": "283.93",
+                "image_url": "http://img.haihu.com/01161202ec55a60fd3ae47cbb06337983f72d3ff.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "45.00",
+                "weight": "400",
+                "status": "0",
+                "fixed_price": "335.17",
+                "tag_price": "448.74",
+                "restore_price": "406.97",
+                "free_tax_price": 200,
+                "sku_add_price": 3.24,
+                "insurancePrice": "3.00",
+                "taxPrice": "60.00",
+                "modeType": "customs",
+                "rate": "6.8916",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "3906256",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "706127",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "限时降价",
+                  "desc": "降价71.80",
+                  "system_time": "1488331412922",
+                  "start_time": "2017-02-23 15:21:23",
+                  "end_time": "2017-03-14 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+              "mall_name": "Amazon",
+              "title": "Clarins 娇韵诗 双萃赋活修护精华",
+              "status": "0",
+              "selected_sku": {
+                "seq": "#",
+                "original_price_rmb": "365.19",
+                "native_price_unit": "$",
+                "current_price_rmb": "365.19",
+                "image_url": "http://img.haihu.com/01160829b937a89209d742f6bda9030ed7d6f426.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "45.00",
+                "weight": "300",
+                "status": "0",
+                "fixed_price": "418.86",
+                "tag_price": "510.16",
+                "restore_price": "511.21",
+                "free_tax_price": 300,
+                "sku_add_price": 4.17,
+                "insurancePrice": "4.50",
+                "taxPrice": "90.00",
+                "modeType": "customs",
+                "rate": "6.8916",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "4110559",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "718445",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "限时降价",
+                  "desc": "降价92.35",
+                  "system_time": "1488331412943",
+                  "start_time": "2017-02-23 15:21:23",
+                  "end_time": "2017-03-14 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+              "mall_name": "Amazon",
+              "title": "Clarins 娇韵诗 多元赋活修护晚霜",
+              "status": "0",
+              "selected_sku": {
+                "seq": "#",
+                "original_price_rmb": "302.40",
+                "native_price_unit": "$",
+                "current_price_rmb": "302.40",
+                "image_url": "http://img.haihu.com/01160609966f08b15d3841bf88f369c0c21189a8.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "45.00",
+                "weight": "400",
+                "status": "0",
+                "fixed_price": "353.86",
+                "tag_price": "429.46",
+                "restore_price": "432.99",
+                "free_tax_price": 200,
+                "sku_add_price": 3.46,
+                "insurancePrice": "3.00",
+                "taxPrice": "60.00",
+                "modeType": "customs",
+                "rate": "6.8916",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "3344427",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "592534",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "限时降价",
+                  "desc": "降价79.13",
+                  "system_time": "1488331412963",
+                  "start_time": "2017-02-23 15:21:23",
+                  "end_time": "2017-03-14 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+              "mall_name": "Amazon",
+              "title": "娇韵诗平衡泡沫洁面霜125ml 洗面奶 清洁毛孔 混合油性肌肤",
+              "status": "0",
+              "selected_sku": {
+                "seq": "#",
+                "original_price_rmb": "141.21",
+                "native_price_unit": "$",
+                "current_price_rmb": "141.21",
+                "image_url": "http://img.haihu.com/011607121695182babc3405c9ad0b5a8a6324828.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "30.00",
+                "weight": "300",
+                "status": "0",
+                "fixed_price": "175.52",
+                "tag_price": "210.82",
+                "restore_price": "211.23",
+                "free_tax_price": 100,
+                "sku_add_price": 1.61,
+                "insurancePrice": "2.70",
+                "taxPrice": "30.00",
+                "modeType": "normal",
+                "rate": "6.8916",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "3931015",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "706501",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "限时降价",
+                  "desc": "降价35.71",
+                  "system_time": "1488331412984",
+                  "start_time": "2017-02-23 15:21:23",
+                  "end_time": "2017-03-14 10:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            }
+          ],
+          "start_time": "1487834950000",
+          "end_time": "1488420000000",
+          "system_time": "1488331481738",
+          "navigator": {
+            "type": "0",
+            "key": "wap",
+            "args": "{\"url\":\"http://expand.haihu.com/html/discount/discountTheme.html?theme_id=4623\",\"extra_login_data\":\"1\"}"
+          },
+          "theme_id": "4623"
+        }
+      }
+    ],
+    "is_freshman": "NO",
+    "navable_entity": {
+      "title": "全球官网优惠已更新，去看看 →",
+      "bg_color": "#D9D0021B",
+      "navigator": {
+        "type": "2",
+        "key": "1002",
+        "args": "type=global_discount&offset=0"
+      }
+    }
+  },
+  "common": {
+    "status": "100",
+    "memo": "success"
+  }
+}

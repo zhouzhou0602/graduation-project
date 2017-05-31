@@ -1,0 +1,133 @@
+@charset"utf-8";
+*{
+	padding:0;
+	margin:0;
+}
+a{
+	text-decoration: none;
+}
+ul li{
+	list-style: none;
+}
+
+.home_flash_cur{color: #f81948;}
+/*返回头部的样式信息*/
+.home_flash_back{
+	width: 100%;
+	height: .4rem;
+	background-color: white;
+	position: fixed;
+	top:0; 
+	font-size: 0;
+	line-height: .4rem;
+	border-bottom: 1px solid #ddd;
+}
+.home_flash_back img{
+	width: .3rem;
+	vertical-align: middle;
+	margin-left: .05rem;
+}
+.home_flash_back span{
+	font-size: .18rem;
+	vertical-align: middle;
+	margin-left: 1.1rem;
+	color: #F94269;
+}
+/*头部信息样式*/
+.cheap_flash_header{
+	font-size: .14rem;
+	position: fixed;
+	top: .41rem;
+	width: 100%;
+	height: .8rem;
+	background-color: white;
+	border-bottom: 1px solid #ddd;
+	display: flex;
+	flex-direction:row;
+	justify-content:space-around;
+	align-items:center;
+}
+.cheap_flash_header dd{
+	margin-top: .1rem;
+}
+.cheap_flash_header img{
+	width: .2rem;
+	height: .25rem;
+}
+.cheap_flash_header dl{
+	text-align: center;
+	margin-top: .2rem;
+}
+.cheap_flash_header p{
+	height: .4rem;
+	/*border-bottom: 1px solid #F94269;*/
+	font-size: .14rem;
+}
+
+/*今日优品*/
+.flash_header{
+	margin-top: 1.2rem;
+	width: 100%;
+	font-size: .16rem;
+	text-align: center;
+	line-height: .49rem;
+	height: .49rem;
+	border-bottom: 1px solid #ddd;
+}
+
+/*商品详情页面样式*/
+.flash_details{
+	width: 100%;
+	font-size: .12rem;
+	font-family: "微软雅黑";
+	min-height: 4rem;
+	margin-bottom: .51rem;
+}
+.flash_details dl{
+	width: 1.6rem;
+	height: 2.9rem;
+	float: left;
+	margin-left: .2rem;
+	margin-top: .1rem;
+}
+.flash_details dl dt{
+	text-align: center;
+}
+.flash_details dl dt img{
+	height: 1.6rem;
+	width: 1.4rem;
+}
+.flash_details dl dd{
+	margin-top: .1rem;
+}
+.flash_details dl dd img{
+	width: .13rem;
+	height: .13rem;
+}
+.flash_details dl dd:first-of-type{
+	width: 1.6rem;
+	height: .4rem;
+	white-space: pre-wrap;
+	overflow: hidden;
+	text-overflow:ellipsis;
+}
+.flash_details dl dd del{
+	margin-left: .1rem;
+	color: #999;
+}
+.flash_details dl dd:last-of-type{
+	font-size: 0;
+}
+.flash_details dl dd:last-of-type img{
+	vertical-align: middle;
+}
+.flash_details dl dd:last-of-type span{
+	color: #999;
+	vertical-align: middle;
+	font-size: .14rem;
+	margin-left: .05rem;
+}
+.flash_clear{
+	clear: both;
+}
+

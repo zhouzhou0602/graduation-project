@@ -1,0 +1,121 @@
+
+<div ng-controller="home_casesController" >
+	<div class="home_banner" data-ng-init="load()">
+		<div class="swiper-container">
+	        <div class="swiper-wrapper" >
+	            <div class="swiper-slide"  ng-repeat="imgs in channe.operation.theme_list[0].action_image_list"><img ng-src={{imgs.image_url}} /></div>
+	        </div>
+	        <div class="swiper-pagination "></div>
+	    </div>
+	</div>
+	<div class="home_case_ban">
+		<img src="http://img.haihu.com/01170111c8f5c148a83143bd8a634054452f7edc.jpg" alt="">
+		<img src="http://img.haihu.com/01170111ad1d260ad081446dbd3c85462fc2869d.jpg" alt="">
+		<div></div>
+	</div>
+	<div class="home_themes">
+		<div class="home_theme_list" ng-show="$index>2" ng-repeat="goods in channe.operation.theme_list">
+			<div class="theme_list_title" >
+				<ul>
+					<li>{{goods.global_discount.count_desc}}</li>
+					<li>{{goods.global_discount.title}}</li>
+					<li>仅剩{{goods.global_discount.goods_list[0].voucher_list[0].end_time|homeFilter}}结束</li>
+				</ul>
+			</div>
+				<div class="theme_list_good">
+					<ul  ng-repeat="good in goods.global_discount.goods_list" ng-controller="myController" ng-click="getInfo(good)">
+						<li>
+							<img ng-src={{good.selected_sku.image_url}}>
+							<span>{{good.voucher_list[0].desc}}</span>
+						</li>
+						<li>{{good.title}}</li>
+						<li>¥{{good.selected_sku.fixed_price|number:"0"}}<s>{{good.selected_sku.restore_price|number:"0"}}</s></li>
+						<li><img ng-src={{good.pc_country_icon}}>{{good.mall_name}}直邮</li>
+					</ul>
+					<ul>
+						<li ng-controller="myController" ng-click="jump('list')">
+							<div class="home_more">
+								<img src="img/home_more.png">
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	<div class="home_goods">
+		<p class="home_every">每日必拔</p>
+		<ul ng-repeat="oneInfo in goods_1.operation.home_goods_list[0].theme_goods_list" ng-controller="myController" ng-click="getInfo(oneInfo)">
+			<li>
+				<img ng-src={{oneInfo.global_goods.selected_sku.image_url}}>
+			</li>
+			<li>{{oneInfo.global_goods.title}}</li>
+			<li>¥{{oneInfo.global_goods.selected_sku.fixed_price|number:"0"}}<s>{{oneInfo.global_goods.selected_sku.tag_price| number:"0"}}</s></li>
+			<li><img ng-src={{oneInfo.global_goods.pc_country_icon}}>{{oneInfo.global_goods.mall_name}}直邮</li>
+		</ul>
+		<div></div>
+	</div>
+	<div class="home_goods">
+		<ul ng-repeat="oneInfo in goods_2.operation.home_goods_list[0].theme_goods_list" ng-controller="myController" ng-click="getInfo(oneInfo)">
+			<li>
+				<img ng-src={{oneInfo.global_goods.selected_sku.image_url}}>
+			</li>
+			<li>{{oneInfo.global_goods.title}}</li>
+			<li>¥{{oneInfo.global_goods.selected_sku.fixed_price|number:"0"}}<s>{{oneInfo.global_goods.selected_sku.tag_price| number:"0"}}</s></li>
+			<li><img ng-src={{oneInfo.global_goods.pc_country_icon}}>{{oneInfo.global_goods.mall_name}}直邮</li>
+		</ul>
+		<div></div>
+	</div>
+	<div class="home_picBan" ng-show="$index>0" ng-repeat="listInfo in goods_2.operation.home_goods_list">
+		<img ng-src={{listInfo.panorama.image.image_url}}>
+		<div class="theme_list_good" >
+					<ul ng-repeat="oneInfo in listInfo.panorama.goods_list" ng-controller="myController" ng-click="getInfo(oneInfo)">
+						<li>
+							<img ng-src={{oneInfo.global_goods.selected_sku.image_url}}>
+						</li>
+						<li>{{oneInfo.global_goods.title}}</li>
+						<li>¥{{oneInfo.global_goods.selected_sku.fixed_price|number:"0"}}<s>{{oneInfo.global_goods.selected_sku.tag_price|number:"0"}}</s></li>
+						<li><img ng-src={{oneInfo.global_goods.pc_country_icon}}>{{oneInfo.global_goods.mall_name}}直邮</li>
+					</ul>
+					<ul>
+						<li ng-controller="myController" ng-click="jump('list')">
+							<div class="home_more">
+								<img src="img/home_more.png">
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+	<div class="home_goods">
+		<ul ng-repeat="oneInfo in goods_3.operation.home_goods_list[0].theme_goods_list" ng-controller="myController" ng-click="getInfo(oneInfo)">
+			<li>
+				<img ng-src={{oneInfo.global_goods.selected_sku.image_url}}>
+			</li>
+			<li>{{oneInfo.global_goods.title}}</li>
+			<li>¥{{oneInfo.global_goods.selected_sku.fixed_price|number:"0"}}<s>{{oneInfo.global_goods.selected_sku.tag_price| number:"0"}}</s></li>
+			<li><img ng-src={{oneInfo.global_goods.pc_country_icon}}>{{oneInfo.global_goods.mall_name}}直邮</li>
+		</ul>
+		<div></div>
+	</div>
+	<div class="home_picBan" ng-show="$index>0" ng-repeat="listInfo in goods_3.operation.home_goods_list">
+		<img ng-src={{listInfo.panorama.image.image_url}}>
+		<div class="theme_list_good" >
+					<ul ng-repeat="oneInfo in listInfo.panorama.goods_list" ng-controller="myController" ng-click="getInfo(oneInfo)">
+						<li>
+							<img ng-src={{oneInfo.global_goods.selected_sku.image_url}}>
+						</li>
+						<li>{{oneInfo.global_goods.title}}</li>
+						<li>¥{{oneInfo.global_goods.selected_sku.fixed_price|number:"0"}}<s>{{oneInfo.global_goods.selected_sku.tag_price|number:"0"}}</s></li>
+						<li><img ng-src={{oneInfo.global_goods.pc_country_icon}}>{{oneInfo.global_goods.mall_name}}直邮</li>
+					</ul>
+					<ul>
+						<li ng-controller="myController" ng-click="jump('list')">
+							<div class="home_more">
+								<img src="img/home_more.png">
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

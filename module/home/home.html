@@ -1,0 +1,21 @@
+
+	<header class="home_header" id="home_header">
+		<div ng-controller="myController">
+			<span>
+				<img src="img/home_logo.png" alt="logo">
+			</span>
+			<span class="home_search" ng-click="jump('search')">输入商品关键字查找</span>
+		</div>
+		<ul class="home_list"  ng-controller="myController">
+			<li><a ui-sref-active="list_red" ui-sref="home.hot">热门</a></li>
+			<li><a ui-sref-active="list_red" ui-sref="home.beauty">美妆护肤</a></li>
+			<li><a ui-sref-active="list_red" ui-sref="home.cases">箱包手袋</a></li>
+			<li><a ui-sref-active="list_red" ui-sref="home.boot">鞋靴</a></li>
+			<li><a ui-sref-active="list_red" ui-sref="home.watch">手表配饰</a></li>
+		</ul>
+	</header>
+	<div ui-view>
+	</div>
+	<div class="home_bone"></div>
+	<div id="returnTop" ng-controller="myController" ng-click="returnTop(home_header)"> 
+	</div>

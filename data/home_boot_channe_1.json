@@ -1,0 +1,810 @@
+{
+  "operation": {
+    "category_list": [
+      {
+        "category_id": "-1",
+        "category_name": "热门"
+      },
+      {
+        "category_id": "2",
+        "category_name": "美妆护肤",
+        "category_img": "http://img.haihu.com/01160628a575185649854b98a5bafd1d9978e826.png",
+        "category_summary": "护肤、美发"
+      },
+      {
+        "category_id": "3",
+        "category_name": "食品保健",
+        "category_img": "http://img.haihu.com/01160331e5964eb3a1b9419b862667a546f21dee.png",
+        "category_summary": "奶粉、奶瓶"
+      },
+      {
+        "category_id": "6",
+        "category_name": "箱包手袋",
+        "category_img": "http://img.haihu.com/011507240fd4bf2213014472bc75a06b94bc5115.png",
+        "category_summary": "链条包、钱包"
+      },
+      {
+        "category_id": "5",
+        "category_name": "鞋靴",
+        "category_img": "http://img.haihu.com/0115072471e98ee3339441a897f3167a06871ae4.png",
+        "category_summary": "女鞋、男鞋"
+      },
+      {
+        "category_id": "8",
+        "category_name": "手表配饰",
+        "category_img": "http://img.haihu.com/0115072406933bf810d849f49b9b5439140fbd83.png",
+        "category_summary": "手表、墨镜"
+      },
+      {
+        "category_id": "1",
+        "category_name": "母婴玩具",
+        "category_img": "http://img.haihu.com/0116033170b10edb36c64d929925db692e60f2bf.png",
+        "category_summary": "奶粉、奶瓶"
+      },
+      {
+        "category_id": "1108",
+        "category_name": "个人护理",
+        "category_img": "http://img.haihu.com/011603317acebb65293c42b3a881c152ba32fd46.png",
+        "category_summary": "美发，护理"
+      },
+      {
+        "category_id": "1168",
+        "category_name": "女装",
+        "category_img": "http://img.haihu.com/default.png"
+      },
+      {
+        "category_id": "4",
+        "category_name": "男装",
+        "category_img": "http://img.haihu.com/01150724ee61014129964beab6aaf123d6578d84.png",
+        "category_summary": "奶粉、奶瓶"
+      },
+      {
+        "category_id": "10",
+        "category_name": "户外运动",
+        "category_img": "http://img.haihu.com/0115072496ee46a1170c4961ad72dce370966251.png",
+        "category_summary": "跑步鞋、装备"
+      },
+      {
+        "category_id": "7",
+        "category_name": "家居生活",
+        "category_img": "http://img.haihu.com/011603314a93be763ad4400583781f3a8a4f2bab.png",
+        "category_summary": "水杯、净水壶"
+      }
+    ],
+    "theme_list": [
+      {
+        "type": "slide",
+        "action_image_list": [
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/01170224f8e8ff1e936a4e29ac392e5d1cfafa91.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=4644",
+              "title": "",
+              "type": "wap"
+            },
+            "forPeople": 0,
+            "channel": "",
+            "version": ""
+          },
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/01170222bc1ecdfbd5ea4acbb331b9bc6e72a030.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=4591",
+              "title": "",
+              "type": "wap"
+            },
+            "forPeople": 0,
+            "channel": "",
+            "version": ""
+          },
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/01170220b9f759b63f384bc38ca0cef9b27ddbe4.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=4546",
+              "title": "",
+              "type": "wap"
+            },
+            "forPeople": 0,
+            "channel": "",
+            "version": ""
+          },
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/011702038ee4810664274afcbc8a3e735e39afed.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=4305",
+              "title": "",
+              "type": "wap"
+            },
+            "forPeople": 0,
+            "channel": "",
+            "version": ""
+          }
+        ],
+        "sortNum": -100
+      },
+      {
+        "title": "热门分类",
+        "type": "category_nav",
+        "categories": [
+          {
+            "category_name": "男士休闲鞋",
+            "category_img": "http://img.haihu.com/0116081951b41a35fd7542f4a31f4da8508d2222.jpg",
+            "search_keys": "{\"678\":\"男士休闲鞋\"}",
+            "search_arg": "{\"category_info\":{\"678\":\"男士休闲鞋\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "女士休闲鞋",
+            "category_img": "http://img.haihu.com/011608194dffc88f3b434edea676f86cbe8cadee.jpg",
+            "search_keys": "{\"950\":\"女士休闲鞋\"}",
+            "search_arg": "{\"category_info\":{\"950\":\"女士休闲鞋\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "女士跑步鞋",
+            "category_img": "http://img.haihu.com/011608193ab9e1fe40954d05a3cf55321c831873.jpg",
+            "search_keys": "{\"818\":\"女士跑步鞋\"}",
+            "search_arg": "{\"category_info\":{\"818\":\"女士跑步鞋\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "男士跑步鞋",
+            "category_img": "http://img.haihu.com/01160819ec31cd829ade429c8f8557b2c58aefd2.jpeg",
+            "search_keys": "{\"817\":\"男士跑步鞋\"}",
+            "search_arg": "{\"category_info\":{\"817\":\"男士跑步鞋\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "女士平底鞋",
+            "category_img": "http://img.haihu.com/01160819a1c9ff34c2eb4710b77d656a90285ab9.jpg",
+            "search_keys": "{\"669\":\"女士平底鞋\"}",
+            "search_arg": "{\"category_info\":{\"669\":\"女士平底鞋\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "男士皮鞋",
+            "category_img": "http://img.haihu.com/011608196a70c30a07bc4a32ae5852402c96735b.jpg",
+            "search_keys": "{\"684\":\"男士皮鞋\"}",
+            "search_arg": "{\"category_info\":{\"684\":\"男士皮鞋\"},\"source_type\":\"4\"}"
+          },
+          {
+            "category_name": "女靴",
+            "category_img": "http://img.haihu.com/011608190e42e177c5fe46c8851a0cf8559fadec.jpg",
+            "search_keys": "{\"671\":\"女士靴子\"}",
+            "search_arg": "{\"category_info\":{\"671\":\"女士靴子\"},\"source_type\":\"4\"}"
+          }
+        ],
+        "sortNum": -90
+      },
+      {
+        "themeBannerId": "205820",
+        "type": "category_2col",
+        "action_image_list": [
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/01161219e232d4e4fd184a9e96bbd7caf4053676.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=2079",
+              "title": "",
+              "type": "wap"
+            },
+            "height": "171",
+            "width": "308"
+          },
+          {
+            "theme_id": "null",
+            "image_url": "http://img.haihu.com/011612191d3f3266afdb47b092851692d302a024.jpg",
+            "title": "",
+            "action": {
+              "arg": "http://m.haihu.com/camp/campDetail?theme_id=2080",
+              "title": "",
+              "type": "wap"
+            },
+            "height": "171",
+            "width": "308"
+          }
+        ],
+        "bgcolor": "",
+        "sortNum": -5
+      },
+      {
+        "type": "global_discount",
+        "sortNum": -4,
+        "global_discount": {
+          "title": "new balance 美亚特惠低至3折",
+          "title_color": "#212121",
+          "count_desc": "30件畅销商品 >",
+          "count_desc_color": "#9B9B9B",
+          "bg_color": "",
+          "count_down_color": "#D0021B",
+          "goods_list": [
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+              "mall_name": "Amazon",
+              "title": "new balance新百伦 530 Must Land Pack 时尚男士跑步鞋",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4001300_4001402",
+                "original_price_rmb": "198.08",
+                "native_price_unit": "$",
+                "current_price_rmb": "198.08",
+                "image_url": "http://img.haihu.com/01161120bafe3cb4895247809683fc6b92379fc4.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "93.00",
+                "weight": "1300",
+                "status": "0",
+                "fixed_price": "313.89",
+                "tag_price": "363.41",
+                "restore_price": "368.36",
+                "free_tax_price": 200,
+                "sku_add_price": 19.81,
+                "insurancePrice": "3.00",
+                "taxPrice": "60.00",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "6123343",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "999213",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "nb",
+                  "desc": "降价54.47",
+                  "system_time": "1488332822208",
+                  "start_time": "2017-02-26 00:00:00",
+                  "end_time": "2017-03-12 14:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+              "mall_name": "Amazon",
+              "title": "New Balance 新百伦MX623V3 男款训练跑步鞋",
+              "status": "0",
+              "selected_sku": {
+                "seq": "935179_935228",
+                "original_price_rmb": "516.75",
+                "native_price_unit": "$",
+                "current_price_rmb": "198.22",
+                "image_url": "http://img.haihu.com/01161027256f5a1b40054256836fed8e9441ac6c.png",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "308.04",
+                "tag_price": "761.78",
+                "restore_price": "362.56",
+                "free_tax_price": 200,
+                "sku_add_price": 19.82,
+                "insurancePrice": "3.00",
+                "taxPrice": "60.00",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "1134305",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "363017",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "nb",
+                  "desc": "降价54.52",
+                  "system_time": "1488332822230",
+                  "start_time": "2017-02-26 00:00:00",
+                  "end_time": "2017-03-12 14:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+              "mall_name": "Amazon",
+              "title": "New Balance新百伦 W590V5 女士休闲跑步鞋",
+              "status": "0",
+              "selected_sku": {
+                "seq": "2562417_2562426",
+                "original_price_rmb": "141.68",
+                "native_price_unit": "$",
+                "current_price_rmb": "141.68",
+                "image_url": "http://img.haihu.com/011702265d80239e1ab84d8fbea5872225484479.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "57.00",
+                "weight": "700",
+                "status": "0",
+                "fixed_price": "215.85",
+                "tag_price": "251.27",
+                "restore_price": "254.81",
+                "free_tax_price": 200,
+                "sku_add_price": 14.17,
+                "insurancePrice": "3.00",
+                "taxPrice": "60.00",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "3544657",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "633823",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "nb",
+                  "desc": "降价38.96",
+                  "system_time": "1488332822251",
+                  "start_time": "2017-02-26 00:00:00",
+                  "end_time": "2017-03-12 14:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+              "mall_name": "Amazon",
+              "title": "New Balance新百伦  543v1  女子运动鞋",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4277978_4277997",
+                "original_price_rmb": "146.92",
+                "native_price_unit": "$",
+                "current_price_rmb": "146.92",
+                "image_url": "http://img.haihu.com/01170207c7d6f1fd5ca34726a42d2aa28fe18278.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "63.00",
+                "weight": "800",
+                "status": "0",
+                "fixed_price": "227.61",
+                "tag_price": "264.34",
+                "restore_price": "268.02",
+                "free_tax_price": 200,
+                "sku_add_price": 14.69,
+                "insurancePrice": "3.00",
+                "taxPrice": "60.00",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "6704445",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1039732",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "nb",
+                  "desc": "降价40.41",
+                  "system_time": "1488332822273",
+                  "start_time": "2017-02-26 00:00:00",
+                  "end_time": "2017-03-12 14:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+              "mall_name": "Amazon",
+              "title": "new balance纽巴伦 409v3 Cross 女士训练运动鞋",
+              "status": "0",
+              "selected_sku": {
+                "seq": "3999364_3999388",
+                "original_price_rmb": "123.55",
+                "native_price_unit": "$",
+                "current_price_rmb": "123.55",
+                "image_url": "http://img.haihu.com/0116112113221e1879e7410493dc61b96f1ec3b8.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "69.00",
+                "weight": "900",
+                "status": "0",
+                "fixed_price": "213.20",
+                "tag_price": "244.09",
+                "restore_price": "248.50",
+                "free_tax_price": 200,
+                "sku_add_price": 17.65,
+                "insurancePrice": "3.00",
+                "taxPrice": "60.00",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "6120340",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "999045",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "nb",
+                  "desc": "降价35.30",
+                  "system_time": "1488332822296",
+                  "start_time": "2017-02-26 00:00:00",
+                  "end_time": "2017-03-12 14:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/01160114a37631fbc122478e91802a24e93e9094.jpg",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815a12dd00eb25c492099488a6044a9f173.png",
+              "mall_name": "Amazon",
+              "title": "New Balance新百伦  WT510V3 Trail  女子运动鞋",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4181654_4505956",
+                "original_price_rmb": "174.92",
+                "native_price_unit": "$",
+                "current_price_rmb": "174.92",
+                "image_url": "http://img.haihu.com/01170207038975521b5a4f5190633a4befc06f1c.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "282.41",
+                "tag_price": "326.14",
+                "restore_price": "330.52",
+                "free_tax_price": 200,
+                "sku_add_price": 17.49,
+                "insurancePrice": "3.00",
+                "taxPrice": "60.00",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": true
+              },
+              "productEntityId": "7258108",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1028952",
+              "voucher_list": [
+                {
+                  "type": "limit_time",
+                  "title": "nb",
+                  "desc": "降价48.11",
+                  "system_time": "1488332822318",
+                  "start_time": "2017-02-26 00:00:00",
+                  "end_time": "2017-03-12 14:00:00",
+                  "dimension": "goods"
+                }
+              ]
+            }
+          ],
+          "start_time": "1488269438000",
+          "end_time": "1488434400000",
+          "system_time": "1488332928029",
+          "navigator": {
+            "type": "0",
+            "key": "wap",
+            "args": "{\"url\":\"http://expand.haihu.com/html/discount/discountTheme.html?theme_id=4653\",\"extra_login_data\":\"1\"}"
+          },
+          "theme_id": "4653"
+        }
+      },
+      {
+        "type": "global_discount",
+        "sortNum": -3,
+        "global_discount": {
+          "title": "nine west低至2折 下单额外8折",
+          "title_color": "#212121",
+          "count_desc": "66件畅销商品 >",
+          "count_desc_color": "#9B9B9B",
+          "bg_color": "",
+          "count_down_color": "#D0021B",
+          "goods_list": [
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/011605170b4673dcd0cc48f79b02858eaf900899.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815c85b2ca69b714d89ac24c63411f83d9e.png",
+              "mall_name": "ninewest",
+              "title": "Nine West玖熙 Molina 尖头高跟鞋",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4598716_4598720_4598726",
+                "original_price_rmb": "613.62",
+                "native_price_unit": "$",
+                "current_price_rmb": "275.72",
+                "image_url": "http://img.haihu.com/01170228e2961dcaae934013a34ebf5947f7d5db.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "445.64",
+                "tag_price": "1002.80",
+                "free_tax_price": 275.72,
+                "sku_add_price": 78.78,
+                "insurancePrice": "4.14",
+                "taxPrice": "82.72",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": false
+              },
+              "productEntityId": "7508085",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1104870",
+              "voucher_list": [
+                {
+                  "type": "full_discount_number",
+                  "title": "下单再打8折",
+                  "desc": "下单再打8折",
+                  "system_time": "1488332861921",
+                  "start_time": "2017-02-24 00:00:00",
+                  "end_time": "2017-03-15 12:00:00",
+                  "dimension": "subject"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/011605170b4673dcd0cc48f79b02858eaf900899.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815c85b2ca69b714d89ac24c63411f83d9e.png",
+              "mall_name": "ninewest",
+              "title": "Nine West玖熙 Crossroad 女士高跟凉鞋",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4598542_4598657_4598659",
+                "original_price_rmb": "682.57",
+                "native_price_unit": "$",
+                "current_price_rmb": "275.72",
+                "image_url": "http://img.haihu.com/01170228a8852bf75bda433db749abcb8b39145a.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "445.64",
+                "tag_price": "1105.24",
+                "free_tax_price": 275.72,
+                "sku_add_price": 78.78,
+                "insurancePrice": "4.14",
+                "taxPrice": "82.72",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": false
+              },
+              "productEntityId": "7507961",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "1104843",
+              "voucher_list": [
+                {
+                  "type": "full_discount_number",
+                  "title": "下单再打8折",
+                  "desc": "下单再打8折",
+                  "system_time": "1488332861938",
+                  "start_time": "2017-02-24 00:00:00",
+                  "end_time": "2017-03-15 12:00:00",
+                  "dimension": "subject"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/011605170b4673dcd0cc48f79b02858eaf900899.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815c85b2ca69b714d89ac24c63411f83d9e.png",
+              "mall_name": "ninewest",
+              "title": "Nine West 玖熙Zance Buckle Strap 女士乐福平底鞋",
+              "status": "0",
+              "selected_sku": {
+                "seq": "3002262_3002264_3002278",
+                "original_price_rmb": "613.62",
+                "native_price_unit": "$",
+                "current_price_rmb": "275.72",
+                "image_url": "http://img.haihu.com/01170224a7bdc27adb7f412e8caed0100e55b6b9.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "69.00",
+                "weight": "900",
+                "status": "0",
+                "fixed_price": "407.94",
+                "tag_price": "940.97",
+                "free_tax_price": 275.72,
+                "sku_add_price": 59.08,
+                "insurancePrice": "4.14",
+                "taxPrice": "82.72",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": false
+              },
+              "productEntityId": "4468743",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "747481",
+              "voucher_list": [
+                {
+                  "type": "full_discount_number",
+                  "title": "下单再打8折",
+                  "desc": "下单再打8折",
+                  "system_time": "1488332861961",
+                  "start_time": "2017-02-24 00:00:00",
+                  "end_time": "2017-03-15 12:00:00",
+                  "dimension": "subject"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/011605170b4673dcd0cc48f79b02858eaf900899.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815c85b2ca69b714d89ac24c63411f83d9e.png",
+              "mall_name": "ninewest",
+              "title": "【商场同款1290】Nine west 玖熙 Scenery 女款尖头中跟鞋",
+              "status": "0",
+              "selected_sku": {
+                "seq": "3017721_3017723_3017737",
+                "original_price_rmb": "613.62",
+                "native_price_unit": "$",
+                "current_price_rmb": "206.77",
+                "image_url": "http://img.haihu.com/0117022421e60ae557c2457197b4f5f40b391a78.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "87.00",
+                "weight": "1200",
+                "status": "0",
+                "fixed_price": "355.95",
+                "tag_price": "1001.76",
+                "free_tax_price": 206.77,
+                "sku_add_price": 59.08,
+                "insurancePrice": "3.10",
+                "taxPrice": "62.03",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": false
+              },
+              "productEntityId": "4497991",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "749884",
+              "voucher_list": [
+                {
+                  "type": "full_discount_number",
+                  "title": "下单再打8折",
+                  "desc": "下单再打8折",
+                  "system_time": "1488332861984",
+                  "start_time": "2017-02-24 00:00:00",
+                  "end_time": "2017-03-15 12:00:00",
+                  "dimension": "subject"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/011605170b4673dcd0cc48f79b02858eaf900899.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815c85b2ca69b714d89ac24c63411f83d9e.png",
+              "mall_name": "ninewest",
+              "title": "Nine West 玖熙 Norella 女士尖头休闲鞋",
+              "status": "0",
+              "selected_sku": {
+                "seq": "3002388_3002393_3002405",
+                "original_price_rmb": "613.62",
+                "native_price_unit": "$",
+                "current_price_rmb": "206.77",
+                "image_url": "http://img.haihu.com/01170224dbe649d4b23d47dc886ac7c74040de9b.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "69.00",
+                "weight": "900",
+                "status": "0",
+                "fixed_price": "323.18",
+                "tag_price": "939.93",
+                "free_tax_price": 206.77,
+                "sku_add_price": 44.31,
+                "insurancePrice": "3.10",
+                "taxPrice": "62.03",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": false
+              },
+              "productEntityId": "4469027",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "747488",
+              "voucher_list": [
+                {
+                  "type": "full_discount_number",
+                  "title": "下单再打8折",
+                  "desc": "下单再打8折",
+                  "system_time": "1488332862005",
+                  "start_time": "2017-02-24 00:00:00",
+                  "end_time": "2017-03-15 12:00:00",
+                  "dimension": "subject"
+                }
+              ]
+            },
+            {
+              "attr_type": "null",
+              "from_icon": "http://img.haihu.com/011605170b4673dcd0cc48f79b02858eaf900899.png",
+              "country": "美国",
+              "country_icon": "http://img.haihu.com/01160815c85b2ca69b714d89ac24c63411f83d9e.png",
+              "mall_name": "ninewest",
+              "title": "NINE WEST玖熙Account Kiltie 女士乐福平底鞋",
+              "status": "0",
+              "selected_sku": {
+                "seq": "4262647_2884734_2884738",
+                "original_price_rmb": "613.62",
+                "native_price_unit": "$",
+                "current_price_rmb": "206.77",
+                "image_url": "http://img.haihu.com/0117022432047506131c46b9b313a4dcfb88dcbb.jpg",
+                "native_express_fee": "0",
+                "forward_fee": "69.00",
+                "weight": "900",
+                "status": "0",
+                "fixed_price": "323.18",
+                "tag_price": "939.93",
+                "free_tax_price": 206.77,
+                "sku_add_price": 44.31,
+                "insurancePrice": "3.10",
+                "taxPrice": "62.03",
+                "modeType": "customs",
+                "rate": "6.8946",
+                "expressType": 0,
+                "exsitLimitPromotion": false
+              },
+              "productEntityId": "6675337",
+              "pc_country_icon": "http://img.haihu.com/011511057c8383119199483b99464301aeabdecf.png",
+              "goods_id": "724138",
+              "voucher_list": [
+                {
+                  "type": "full_discount_number",
+                  "title": "下单再打8折",
+                  "desc": "下单再打8折",
+                  "system_time": "1488332862030",
+                  "start_time": "2017-02-24 00:00:00",
+                  "end_time": "2017-03-15 12:00:00",
+                  "dimension": "subject"
+                }
+              ]
+            }
+          ],
+          "start_time": "1487907207000",
+          "end_time": "1488772800000",
+          "system_time": "1488332928032",
+          "navigator": {
+            "type": "0",
+            "key": "wap",
+            "args": "{\"url\":\"http://expand.haihu.com/html/discount/discountTheme.html?theme_id=4629\",\"extra_login_data\":\"1\"}"
+          },
+          "theme_id": "4629"
+        }
+      }
+    ],
+    "is_freshman": "NO",
+    "navable_entity": {
+      "title": "全球官网优惠已更新，去看看 →",
+      "bg_color": "#D9D0021B",
+      "navigator": {
+        "type": "2",
+        "key": "1002",
+        "args": "type=global_discount&offset=0"
+      }
+    }
+  },
+  "common": {
+    "status": "100",
+    "memo": "success"
+  }
+}

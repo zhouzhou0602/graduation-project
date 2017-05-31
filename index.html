@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en" ng-app="myApp" style="font-size:100px">
+<head>
+	<meta charset="UTF-8">
+	<meta name = "viewport" content = "width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<link rel="stylesheet" type="text/css" href="css/reset.css"> 
+	<link rel="stylesheet" type="text/css" href="css/home.css">
+	<link rel="stylesheet" type="text/css" href="css/type.css">
+	<link rel="stylesheet" type="text/css" href="css/search.css">
+	<link rel="stylesheet" type="text/css" href="css/cheap_daily.css">
+	<link rel="stylesheet" type="text/css" href="css/list.css">
+	<link rel="stylesheet" type="text/css" href="css/goods.css">
+	<link rel="stylesheet" type="text/css" href="css/cart.css">
+	<link rel="stylesheet" type="text/css" href="css/mine.css">
+	<link rel="stylesheet" type="text/css" href="css/register.css">
+	<link rel="stylesheet" type="text/css" href="css/cheap_flash.css">
+	<link rel="stylesheet" type="text/css" href="css/cheap_hot.css">
+	<link rel="stylesheet" type="text/css" href="css/cheap_cheap.css">
+	<link rel="stylesheet" type="text/css" href="lib/swiper-3.3.1.min.css">
+	<script type="text/javascript" src="lib/jquery-1.11.2.js"></script>
+	<script type="text/javascript" src="common.js"></script>
+	<title>海狐海淘</title>
+</head>
+<body>
+	<div ui-view></div>
+	<footer class="home_footer" ng-controller="myController">
+		<ul>
+			<li>
+			<a  class="home-a" ui-sref-active="active-home" ui-sref="home" >
+			<span class="home-span-one-Z"></span>
+			首页</a>
+			</li>
+			<li><a  class="home-a" ui-sref-active="active-jie" ui-sref="type">
+			<span class="home-span-two-Z"></span>分类</a>
+			</li>
+			<li><a  class="home-a" ui-sref-active="active-car" ui-sref="cart" >
+			<span class="home-span-three-Z"></span>购物车</a>
+			</li>
+			<li><a class="home-a" ui-sref-active="active-mine" ui-sref="mine">
+			<span class="home-span-four-Z"></span>我的</a>
+			</li>
+		</ul>
+	</footer>
+</body>
+<script type="text/javascript" src="app/directive/directive.js"></script>
+<script type="text/javascript" src="lib/angular.min.js"></script>
+<script type="text/javascript" src="lib/angular-ui-router.js"></script>
+<script type="text/javascript" src="app/app.js"></script>
+<script type="text/javascript" src="app/router.js"></script>
+<script type="text/javascript" src="lib/swiper-3.4.1.min.js"></script>
+<script type="text/javascript" src="app/controllers/controllers.js"></script>
+<script type="text/javascript" src="app/service/services.js"></script>
+<script type="text/javascript" src="app/filters/home_filter.js"></script>
+<script type="text/javascript" src="app/factory/homeSwiper.js"></script>
+</html>

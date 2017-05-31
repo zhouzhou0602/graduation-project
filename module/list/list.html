@@ -1,0 +1,22 @@
+<div ng-controller="myController">
+	<img src="img/lt.png" ng-click="jump('home')">
+
+<div style="font-size: 0.075rem;" ng-controller="searchController">
+	<div class="hot">
+		<div ng-repeat="n in result" class="list_item">
+			<div ng-click="getInfo(n)">
+				<div class="list_img">
+					<img src="{{n.image_url}}"/>
+				</div>
+				<div class="detail">
+					<div class="title">
+						{{n.title}}
+					</div>
+					<div class="price">￥：{{n.price}}</div>
+					<div class="direct_mail">直邮</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>

@@ -1,0 +1,781 @@
+{
+  "operation": {
+    "category_list": [
+      {
+        "category_id": "2",
+        "category_name": "美妆护肤",
+        "category_img": "http://img.haihu.com/01160707b1329dd0f361427e87a91ab10ae1d06c.jpg",
+        "level": "1",
+        "category_keywords": [
+          {
+            "tag_name": "防晒",
+            "keyword": "防晒,美妆护肤",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "面膜",
+            "keyword": "面膜,美妆护肤",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "睫毛膏",
+            "keyword": "睫毛膏,美妆护肤",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "BB霜",
+            "keyword": "BB霜,美妆护肤",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "洁面",
+            "keyword": "洁面,美妆护肤",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "妆前隔离",
+            "keyword": "隔离",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "粉底",
+            "keyword": "粉底,美妆护肤",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "粉饼",
+            "keyword": "粉饼,美妆护肤",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "腮红",
+            "keyword": "腮红,美妆护肤",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "唇膏",
+            "keyword": "唇膏",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "唇彩",
+            "keyword": "唇彩,美妆护肤",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "遮瑕",
+            "keyword": "遮瑕",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "眼影",
+            "keyword": "眼影,美妆护肤",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "眼线",
+            "keyword": "眼线,美妆护肤",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "定妆粉",
+            "keyword": "蜜粉,美妆护肤",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "眉笔",
+            "keyword": "眉笔,眉粉",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "化妆工具",
+            "keyword": "化妆工具,美妆护肤",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "精油",
+            "keyword": "精油",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "去角质",
+            "keyword": "去角质,美妆护肤",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "化妆水",
+            "keyword": "化妆水",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "乳液",
+            "keyword": "乳液",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "卸妆",
+            "keyword": "卸妆,美妆护肤",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "美容液",
+            "keyword": "美容液",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "面霜",
+            "keyword": "面霜",
+            "is_hot": "NO"
+          }
+        ]
+      },
+      {
+        "category_id": "3",
+        "category_name": "食品保健",
+        "category_img": "http://img.haihu.com/01160526dd3e65148e214c06a046b9ad523266dc.jpg",
+        "level": "1",
+        "category_keywords": [
+          {
+            "tag_name": "美白丸",
+            "keyword": "美白丸",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "瘦身",
+            "keyword": "瘦身",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "GNC",
+            "keyword": "GNC",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "抹茶",
+            "keyword": "抹茶",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "糖果",
+            "keyword": "糖",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "茶饮",
+            "keyword": "茶",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "减肥茶",
+            "keyword": "减肥茶",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "方便速食",
+            "keyword": "方便速食",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "膨化",
+            "keyword": "膨化",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "眼药水",
+            "keyword": "眼药水",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "饼干",
+            "keyword": "饼干",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "清肝利胆",
+            "keyword": "清肝利胆",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "美容养颜",
+            "keyword": "美容",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "巧克力",
+            "keyword": "巧克力",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "Dear Natura",
+            "keyword": "Dear Natura",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "速溶咖啡",
+            "keyword": "咖啡",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "强健骨骼",
+            "keyword": "强健骨骼",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "酵素/代餐",
+            "keyword": "酵素/代餐",
+            "is_hot": "NO"
+          }
+        ]
+      },
+      {
+        "category_id": "6",
+        "category_name": "箱包手袋",
+        "category_img": "http://img.haihu.com/011605260762a97f0edd4a398f5c8a83bb02edc9.jpg",
+        "level": "1",
+        "category_keywords": [
+          {
+            "tag_name": "单肩斜挎包",
+            "keyword": "单肩包",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "女式双肩包",
+            "keyword": "女式双肩包",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "拉杆箱",
+            "keyword": "拉杆箱",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "手提包",
+            "keyword": "手提包",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "链条包",
+            "keyword": "链条,箱包手袋",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "男士钱包",
+            "keyword": "男士钱包",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "女士钱包",
+            "keyword": "女士钱包",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "商务公文包",
+            "keyword": "商务公文包",
+            "is_hot": "NO"
+          }
+        ]
+      },
+      {
+        "category_id": "5",
+        "category_name": "鞋靴",
+        "category_img": "http://img.haihu.com/011605268a758a90129545cabdf48de21cec79cf.jpg",
+        "level": "1",
+        "category_keywords": [
+          {
+            "tag_name": "小白鞋",
+            "keyword": "小白鞋",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "明星同款",
+            "keyword": "同款,鞋靴",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "帆布鞋",
+            "keyword": "帆布鞋",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "一字带凉鞋",
+            "keyword": "一字带",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "男篮球鞋",
+            "keyword": "男士篮球鞋",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "男士休闲鞋",
+            "keyword": "男士休闲鞋",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "反季白菜",
+            "keyword": "反季,鞋靴",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "男士凉鞋",
+            "keyword": "男士凉鞋",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "帆布鞋",
+            "keyword": "帆布鞋",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "铆钉凉鞋",
+            "keyword": "铆钉,凉鞋",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "人字拖",
+            "keyword": "人字拖",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "阿迪金标",
+            "keyword": "superstar,鞋靴",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "女士凉鞋",
+            "keyword": "女士凉鞋",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "女鞋",
+            "keyword": "女鞋",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "女运动鞋",
+            "keyword": "女士运动鞋",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "女士平底鞋",
+            "keyword": "女士平底鞋",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "Stan smith",
+            "keyword": "Stan smith",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "男运动鞋",
+            "keyword": "男士运动鞋",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "一脚蹬",
+            "keyword": "一脚蹬",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "女士休闲鞋",
+            "keyword": "女士休闲鞋",
+            "is_hot": "YES"
+          }
+        ]
+      },
+      {
+        "category_id": "8",
+        "category_name": "手表配饰",
+        "category_img": "http://img.haihu.com/0116052602642b7a15e94aefbd25f9fe63b828b1.jpg",
+        "level": "1",
+        "category_keywords": [
+          {
+            "tag_name": "施华洛世奇",
+            "keyword": "施华洛世奇,SWAROVSKI",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "天梭Tissot",
+            "keyword": "Tissot,天梭",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "汉密尔顿Hamilton",
+            "keyword": "汉密尔顿,Hamilton",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "浪琴Longines",
+            "keyword": "Longines,浪琴",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "卡西欧",
+            "keyword": "卡西欧，casio",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "欧米伽Omega",
+            "keyword": "Omega,欧米伽",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "ak女表",
+            "keyword": "Anne Klein",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "手链",
+            "keyword": "手链,Bracelet",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "西铁城",
+            "keyword": "西铁城,CITIZEN",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "DW",
+            "keyword": "DW,Daniel Wellington",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "男士机械表",
+            "keyword": "男士机械表",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "施华洛世奇",
+            "keyword": "施华洛世奇",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "光动能",
+            "keyword": "光动能,Eco-Drive",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "雷达",
+            "keyword": "雷达",
+            "is_hot": "NO"
+          }
+        ]
+      },
+      {
+        "category_id": "1",
+        "category_name": "母婴玩具",
+        "category_img": "http://img.haihu.com/01160526286584cc29ee4f88b4f97ffcd65adb2e.jpg",
+        "level": "1",
+        "category_keywords": [
+          {
+            "tag_name": "乐高玩具",
+            "keyword": "lego",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "宝宝防晒",
+            "keyword": "防晒/晒后修复",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "驱蚊防虫",
+            "keyword": "驱蚊",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "奶瓶/奶嘴",
+            "keyword": "奶瓶/奶嘴",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "早教玩具",
+            "keyword": "早教益智/绘画/DIY",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "宝宝零食",
+            "keyword": "零食",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "婴幼服饰",
+            "keyword": "婴幼服饰",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "哺喂餐具",
+            "keyword": "餐具",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "妊娠纹防护",
+            "keyword": "妊娠纹",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "孕期营养",
+            "keyword": "孕妇综合营养",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "米糊/米粉",
+            "keyword": "米糊/米粉",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "面包超人",
+            "keyword": "面包超人",
+            "is_hot": "NO"
+          }
+        ]
+      },
+      {
+        "category_id": "1108",
+        "category_name": "个人护理",
+        "category_img": "http://img.haihu.com/011607013cb55e1769d64224af934dafdcee500c.jpg",
+        "level": "1",
+        "category_keywords": [
+          {
+            "tag_name": "洗发",
+            "keyword": "洗发,个人护理",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "脱毛",
+            "keyword": "脱毛,个人护理",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "电动牙刷",
+            "keyword": "电动牙刷,个人护理",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "卫生巾",
+            "keyword": "卫生巾,个人护理",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "剃须刀",
+            "keyword": "剃须刀,个人护理",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "止汗",
+            "keyword": "止汗,个人护理",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "牙膏",
+            "keyword": "牙膏,个人护理",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "润肤露",
+            "keyword": "润肤露,个人护理",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "私密护理",
+            "keyword": "私密护理,个人护理",
+            "is_hot": "NO"
+          }
+        ]
+      },
+      {
+        "category_id": "1168",
+        "category_name": "女装",
+        "category_img": "http://img.haihu.com/01160822937078ab6fdd4c1f8e813bbca813e54e.jpg",
+        "level": "1",
+        "category_keywords": [
+          {
+            "tag_name": "连衣裙",
+            "keyword": "连衣裙",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "时尚上装",
+            "keyword": "时尚上装",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "女士内衣",
+            "keyword": "女士内衣",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "家居服",
+            "keyword": "家居服",
+            "is_hot": "NO"
+          }
+        ]
+      },
+      {
+        "category_id": "4",
+        "category_name": "男装",
+        "category_img": "http://img.haihu.com/0116082272b7c9b44bec43189c047269e60deac5.jpg",
+        "level": "1",
+        "category_keywords": [
+          {
+            "tag_name": "衬衫",
+            "keyword": "衬衫",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "百搭下装",
+            "keyword": "百搭下装",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "calvin klein",
+            "keyword": "calvin klein",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "T恤",
+            "keyword": "T恤",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "polo衫",
+            "keyword": "polo衫",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "牛仔裤",
+            "keyword": "牛仔裤",
+            "is_hot": "NO"
+          }
+        ]
+      },
+      {
+        "category_id": "10",
+        "category_name": "户外运动",
+        "category_img": "http://img.haihu.com/01160526c1249636bde54f198a658d7ebc9fe297.jpg",
+        "level": "1",
+        "category_keywords": [
+          {
+            "tag_name": "New Balance",
+            "keyword": "New Balance",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "压缩裤",
+            "keyword": "压缩裤",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "UA",
+            "keyword": "安德玛,户外运动",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "Nike",
+            "keyword": "耐克,户外运动",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "支撑系",
+            "keyword": "支撑,运动鞋",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "阿迪达斯",
+            "keyword": "Adidas,户外运动",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "运动bra",
+            "keyword": "女士运动内衣",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "缓震",
+            "keyword": "缓震",
+            "is_hot": "NO"
+          }
+        ]
+      },
+      {
+        "category_id": "7",
+        "category_name": "家居生活",
+        "category_img": "http://img.haihu.com/0116052755a8f2adb684446ca94fa5d8c2c12822.jpg",
+        "level": "1",
+        "category_keywords": [
+          {
+            "tag_name": "扫地机器人",
+            "keyword": "扫地机器人",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "锅具",
+            "keyword": "锅具",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "宠物用品",
+            "keyword": "宠物用品",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "伞",
+            "keyword": "伞",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "滤水壶",
+            "keyword": "滤水壶",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "厨房电器",
+            "keyword": "厨房电器",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "生活电器",
+            "keyword": "空气净化器",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "保温杯",
+            "keyword": "保温杯",
+            "is_hot": "NO"
+          },
+          {
+            "tag_name": "文具",
+            "keyword": "文具",
+            "is_hot": "YES"
+          }
+        ]
+      },
+      {
+        "category_id": "9",
+        "category_name": "数码电子",
+        "category_img": "http://img.haihu.com/011605271b74f053210e4a2292bcb77b36bbe4bc.jpg",
+        "level": "1",
+        "category_keywords": [
+          {
+            "tag_name": "游戏本",
+            "keyword": "游戏本",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "游戏鼠标",
+            "keyword": "游戏鼠标",
+            "is_hot": "YES"
+          },
+          {
+            "tag_name": "机械键盘",
+            "keyword": "机械键盘",
+            "is_hot": "YES"
+          }
+        ]
+      }
+    ],
+    "hot_placeholder": "搜索你想要的商品"
+  },
+  "common": {
+    "status": "100"
+  }
+}

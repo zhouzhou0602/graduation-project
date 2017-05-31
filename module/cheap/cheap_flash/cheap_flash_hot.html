@@ -1,0 +1,21 @@
+<div ng-controller="hotController">
+			<dl ng-repeat="item in items.operation.goods_list">
+				<dt><img src="{{item.default_square_image}}"></dt>
+				<dd>{{item.title}}</dd>
+				<dd><span>￥{{item.group_price}}</span><del>{{item.compare_price}}</del></dd>
+				<dd>
+					<img src="{{item.goods_list[0].pc_country_icon}}">
+					<span>amazon.jp直邮</span>
+				</dd>
+			</dl>
+			<dl ng-repeat="i in item.operation.goods_list">
+				<dt><img src="{{i.default_square_image}}"></dt>
+				<dd>{{i.title}}</dd>
+				<dd><span>￥{{i.group_price}}</span><del>{{i.compare_price}}</del></dd>
+				<dd>
+					<img src="{{i.goods_list[0].pc_country_icon}}">
+					<span>amazon.jp直邮</span>
+				</dd>
+			</dl>
+			<div class="flash_clear"></div>
+		</div>

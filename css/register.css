@@ -1,0 +1,92 @@
+		.registerwrap{
+			width: 100%;
+			height: 100%;
+			position: absolute;
+			top: 0;
+			left: 0;
+			z-index: 99;
+		}
+		.registerwrap .title{
+			border-bottom:1px solid gainsboro;
+		}
+		.registerwrap .main{
+			background: white;
+		}
+		
+		.registerwrap input{
+			border:none;
+			border-bottom: 1px solid #F32C54;
+			width:3.15rem;
+			height:0.5rem;
+			margin-left: 0.2rem;
+			padding-left: 10px;
+		}
+		.registerwrap .title{
+			height: 0.45rem;
+			line-height: 0.45rem;
+			font-size:0.18rem;
+			text-align: center;
+		}
+		.registerwrap>div{
+		}
+		.registerwrap .bindinganotherway>div:first-child,.bindinganotherway>div:nth-child(3){			flex-grow:1;
+			border:0.0001px solid grey;
+		}
+		
+	.registerwrap .tel>div:first-child,.testphone>div:first-child{
+		
+		width:0.3rem;
+		line-height: 0.245rem;
+		padding: 0.1275rem 0 0 0.2rem;
+	}
+	.registerwrap a,.items,.testn,.bindinganotherway{
+		color:grey;
+	}
+	.registerwrap .items{
+		display: flex;
+		margin: 0.15rem 0 0.3rem 0;
+	}
+	.registerwrap .input{
+		margin-top: 10px;
+		display:flex;
+	}
+	.registerwrap .verify{
+		margin-top: 40px;
+		font-size: 16px;
+		line-height: 0.5rem;
+		width:100%;
+		height: 0.5rem;
+		color:white;
+		background:#F32C54;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+	.registerwrap .bindinganotherway{
+		width:100%;
+		margin-top:80%;
+		display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+	.registerwrap .weibo{
+		width: 100%;
+		height: 60px;
+		background-color: #fff;
+	}
+	.registerwrap .weibo img{
+		display: block;
+		width: 125px;
+		height: 60px;
+		margin: 0 auto;
+	}
+	.toRegister{
+		margin: 10px;
+		text-align: right;
+	}
+	.toRegister a{
+		color: #F32C54;
+		font-size: 20px;
+		color: #F32C54;
+		text-decoration: underline;
+	}
